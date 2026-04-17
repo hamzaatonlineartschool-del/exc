@@ -1,9 +1,11 @@
 {
   "workbook": "Course_Taxonomy_Master.xlsx",
-  "built_at": "2026-04-17T09:34:05.257063+00:00",
+  "built_at": "2026-04-17T10:25:45.734870+00:00",
   "row_count": 1071,
+  "total_courses": 1071,
   "main_category_count": 13,
   "subcategory_count": 119,
+  "unique_nested_topic_labels": 820,
   "main_category_row_counts": {
     "Finance & Accounting": 99,
     "IT & Software": 45,

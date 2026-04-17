@@ -43,10 +43,20 @@ def main():
         )
         st.stop()
 
-    c1, c2, c3 = st.columns(3)
-    c1.metric("Topic rows", f"{manifest.get('row_count', 0):,}")
-    c2.metric("Main categories", manifest.get("main_category_count", "—"))
-    c3.metric("Subcategories", manifest.get("subcategory_count", "—"))
+    unique_mains = len({r["main_category"] for r in rows})
+    unique_sub_pairs = len({(r["main_category"], r["subcategory"]) for r in rows})
+    unique_nested_names = len({r["nested_category"] for r in rows})
+    total_courses = len(rows)
+
+    c1, c2, c3, c4 = st.columns(4)
+    c1.metric("Main categories", f"{unique_mains:,}")
+    c2.metric("Subcategories", f"{unique_sub_pairs:,}")
+    c3.metric("Nested topics (unique names)", f"{unique_nested_names:,}")
+    c4.metric("Total courses", f"{total_courses:,}")
+    st.caption(
+        "Deduping: one count per main; one per (main, subcategory) pair; “unique names” = each nested topic title once globally. "
+        "Total courses = every topic row (same title in different paths counts separately)."
+    )
 
     st.subheader("Downloads")
     xlsx_path = PUBLIC / "Course_Taxonomy_Master.xlsx"

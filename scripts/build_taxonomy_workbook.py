@@ -128,14 +128,23 @@ def main():
     wb.save(out_xlsx)
 
     counts = Counter(r[0] for r in rows)
-    sub_keys = {(r[0], r[1]) for r in rows}
+    # One count per (main, sub) from taxonomy source — not len(rows)/9 (avoids any row-level duplication).
+    entry_keys = {(e[0], e[1]) for e in ENTRIES}
+    flat_keys = {(r[0], r[1]) for r in rows}
+    if entry_keys != flat_keys:
+        raise SystemExit(
+            f"taxonomy mismatch: ENTRIES pairs {len(entry_keys)} vs flat rows pairs {len(flat_keys)}"
+        )
+    unique_nested_labels = {r[2] for r in rows}
     built = datetime.now(timezone.utc).isoformat()
     manifest = {
         "workbook": WORKBOOK_NAME,
         "built_at": built,
         "row_count": len(rows),
+        "total_courses": len(rows),
         "main_category_count": len(counts),
-        "subcategory_count": len(sub_keys),
+        "subcategory_count": len(entry_keys),
+        "unique_nested_topic_labels": len(unique_nested_labels),
         "main_category_row_counts": dict(counts),
     }
     manifest_path = DIST / "manifest.json"

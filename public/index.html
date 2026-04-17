@@ -44,9 +44,16 @@
     header p { margin: 0; color: var(--muted); font-size: 0.95rem; max-width: 52ch; }
     .stats {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
       gap: 0.75rem;
+      margin-bottom: 0.5rem;
+    }
+    .stats-note {
+      font-size: 0.78rem;
+      color: var(--muted);
+      max-width: 95ch;
       margin-bottom: 1.25rem;
+      line-height: 1.45;
     }
     .stat {
       background: var(--surface);
@@ -189,10 +196,12 @@
     <div id="error" class="err" hidden></div>
 
     <div class="stats" id="stats">
-      <div class="stat"><div class="val" id="s-rows">—</div><div class="lbl">Topic rows</div></div>
       <div class="stat"><div class="val" id="s-mains">—</div><div class="lbl">Main categories</div></div>
       <div class="stat"><div class="val" id="s-subs">—</div><div class="lbl">Subcategories</div></div>
+      <div class="stat"><div class="val" id="s-nested">—</div><div class="lbl">Nested topics (unique names)</div></div>
+      <div class="stat"><div class="val" id="s-total">—</div><div class="lbl">Total courses</div></div>
     </div>
+    <p class="stats-note" id="stats-note"></p>
 
     <div class="actions">
       <a class="btn btn-primary" href="./Course_Taxonomy_Master.xlsx" download>Download Excel</a>
@@ -270,10 +279,18 @@
         $("built").textContent = "Last build (UTC): " + t;
       }
 
-      function fillStats(m) {
-        $("s-rows").textContent = m.row_count ?? "—";
-        $("s-mains").textContent = m.main_category_count ?? "—";
-        $("s-subs").textContent = m.subcategory_count ?? "—";
+      function fillStats() {
+        const mains = new Set(all.map((r) => r.main_category));
+        const subPairs = new Set(
+          all.map((r) => r.main_category + "\t" + r.subcategory)
+        );
+        const nestedNames = new Set(all.map((r) => r.nested_category));
+        $("s-mains").textContent = mains.size;
+        $("s-subs").textContent = subPairs.size;
+        $("s-nested").textContent = nestedNames.size;
+        $("s-total").textContent = all.length;
+        $("stats-note").textContent =
+          "Counts are deduplicated where noted: each main category once; each (main + subcategory) pair once; nested “unique names” counts each topic title once globally (e.g. “Python” once). Total courses equals every topic row in the taxonomy — the same title under different subcategories still counts as separate courses.";
       }
 
       function renderBars(m) {
@@ -360,7 +377,7 @@
           const manifest = await rm.json();
           all = await rt.json();
           setBuilt(manifest);
-          fillStats(manifest);
+          fillStats();
           renderBars(manifest);
 
           mains = uniqueSorted(all.map((r) => r.main_category));
