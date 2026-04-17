@@ -1,0 +1,1072 @@
+Main Category,Subcategory,Nested category,Rank
+Finance & Accounting,Accounting & Bookkeeping,Accounting,1
+Finance & Accounting,Accounting & Bookkeeping,Bookkeeping,2
+Finance & Accounting,Accounting & Bookkeeping,QuickBooks Online,3
+Finance & Accounting,Accounting & Bookkeeping,Financial Accounting,4
+Finance & Accounting,Accounting & Bookkeeping,Financial Statement,5
+Finance & Accounting,Accounting & Bookkeeping,IFRS,6
+Finance & Accounting,Accounting & Bookkeeping,TallyPrime,7
+Finance & Accounting,Accounting & Bookkeeping,QuickBooks,8
+Finance & Accounting,Accounting & Bookkeeping,Cost Accounting,9
+Finance & Accounting,Compliance,Anti-Money Laundering (AML),1
+Finance & Accounting,Compliance,Internal Auditing,2
+Finance & Accounting,Compliance,Sarbanes-Oxley (SOX),3
+Finance & Accounting,Compliance,KYC (Know Your Customer),4
+Finance & Accounting,Compliance,Fraud Strategy,5
+Finance & Accounting,Compliance,Risk Management,6
+Finance & Accounting,Compliance,Compliance Management,7
+Finance & Accounting,Compliance,Financial Crime,8
+Finance & Accounting,Compliance,Internal Control,9
+Finance & Accounting,Cryptocurrency & Blockchain,Cryptocurrency,1
+Finance & Accounting,Cryptocurrency & Blockchain,Blockchain,2
+Finance & Accounting,Cryptocurrency & Blockchain,Bitcoin,3
+Finance & Accounting,Cryptocurrency & Blockchain,Technical Analysis (Crypto),4
+Finance & Accounting,Cryptocurrency & Blockchain,Algorithmic Trading,5
+Finance & Accounting,Cryptocurrency & Blockchain,NFT (Non-Fungible Tokens),6
+Finance & Accounting,Cryptocurrency & Blockchain,Ethereum,7
+Finance & Accounting,Cryptocurrency & Blockchain,Metaverse,8
+Finance & Accounting,Cryptocurrency & Blockchain,Day Trading,9
+Finance & Accounting,Economics,Macroeconomics,1
+Finance & Accounting,Economics,Microeconomics,2
+Finance & Accounting,Economics,Economics Fundamentals,3
+Finance & Accounting,Economics,Game Theory,4
+Finance & Accounting,Economics,Behavioral Economics,5
+Finance & Accounting,Economics,Stata,6
+Finance & Accounting,Economics,Econometrics,7
+Finance & Accounting,Economics,Finance Fundamentals,8
+Finance & Accounting,Economics,Global Economics,9
+Finance & Accounting,Finance,Personal Finance,1
+Finance & Accounting,Finance,Corporate Finance,2
+Finance & Accounting,Finance,Finance Fundamentals,3
+Finance & Accounting,Finance,Investment Banking,4
+Finance & Accounting,Finance,Financial Analysis,5
+Finance & Accounting,Finance,Behavioral Finance,6
+Finance & Accounting,Finance,CFA,7
+Finance & Accounting,Finance,Financial Modeling,8
+Finance & Accounting,Finance,ChatGPT,9
+Finance & Accounting,Finance Cert & Exam Prep,CFA,1
+Finance & Accounting,Finance Cert & Exam Prep,ACCA,2
+Finance & Accounting,Finance Cert & Exam Prep,Certified Management Accountant (CMA),3
+Finance & Accounting,Finance Cert & Exam Prep,Certified Internal Auditor (CIA),4
+Finance & Accounting,Finance Cert & Exam Prep,FRM,5
+Finance & Accounting,Finance Cert & Exam Prep,CPA,6
+Finance & Accounting,Finance Cert & Exam Prep,Quantitative Finance,7
+Finance & Accounting,Finance Cert & Exam Prep,Stock Trading,8
+Finance & Accounting,Finance Cert & Exam Prep,Finance Fundamentals,9
+Finance & Accounting,Financial Modeling & Analysis,Financial Modeling,1
+Finance & Accounting,Financial Modeling & Analysis,Financial Analysis,2
+Finance & Accounting,Financial Modeling & Analysis,Excel,3
+Finance & Accounting,Financial Modeling & Analysis,Investment Banking,4
+Finance & Accounting,Financial Modeling & Analysis,Valuation,5
+Finance & Accounting,Financial Modeling & Analysis,Corporate Finance,6
+Finance & Accounting,Financial Modeling & Analysis,Python,7
+Finance & Accounting,Financial Modeling & Analysis,Financial Accounting,8
+Finance & Accounting,Financial Modeling & Analysis,Accounting,9
+Finance & Accounting,Investing & Trading,Stock Trading,1
+Finance & Accounting,Investing & Trading,Investing,2
+Finance & Accounting,Investing & Trading,Technical Analysis,3
+Finance & Accounting,Investing & Trading,Options Trading,4
+Finance & Accounting,Investing & Trading,Day Trading,5
+Finance & Accounting,Investing & Trading,Forex Trading,6
+Finance & Accounting,Investing & Trading,Algorithmic Trading,7
+Finance & Accounting,Investing & Trading,Financial Analysis,8
+Finance & Accounting,Investing & Trading,Personal Finance,9
+Finance & Accounting,Money Management Tools,QuickBooks Online,1
+Finance & Accounting,Money Management Tools,SAP FICO,2
+Finance & Accounting,Money Management Tools,Excel,3
+Finance & Accounting,Money Management Tools,QuickBooks,4
+Finance & Accounting,Money Management Tools,TallyPrime,5
+Finance & Accounting,Money Management Tools,Xero,6
+Finance & Accounting,Money Management Tools,SAP S/4HANA,7
+Finance & Accounting,Money Management Tools,Financial Modeling,8
+Finance & Accounting,Money Management Tools,Quicken,9
+Finance & Accounting,Taxes,Income Tax,1
+Finance & Accounting,Taxes,Tax Preparation,2
+Finance & Accounting,Taxes,US Tax,3
+Finance & Accounting,Taxes,GST,4
+Finance & Accounting,Taxes,Value Added Tax (VAT),5
+Finance & Accounting,Taxes,Corporate Tax,6
+Finance & Accounting,Taxes,Accounting,7
+Finance & Accounting,Taxes,Financial Accounting,8
+Finance & Accounting,Taxes,Transfer Pricing,9
+Finance & Accounting,Other Finance & Accounting,Medical Coding,1
+Finance & Accounting,Other Finance & Accounting,Financial Crime,2
+Finance & Accounting,Other Finance & Accounting,Passive Income,3
+Finance & Accounting,Other Finance & Accounting,Algorithmic Trading,4
+Finance & Accounting,Other Finance & Accounting,Technical Analysis,5
+Finance & Accounting,Other Finance & Accounting,Quantitative Finance,6
+Finance & Accounting,Other Finance & Accounting,Real Estate Investing,7
+Finance & Accounting,Other Finance & Accounting,Actuarial Science,8
+Finance & Accounting,Other Finance & Accounting,Insurance,9
+IT & Software,IT Certifications,AWS Certified Cloud Practitioner,1
+IT & Software,IT Certifications,AWS Certified Solutions Architect - Associate,2
+IT & Software,IT Certifications,CompTIA A+,3
+IT & Software,IT Certifications,Amazon AWS,4
+IT & Software,IT Certifications,Cisco CCNA,5
+IT & Software,IT Certifications,CompTIA Security+,6
+IT & Software,IT Certifications,Microsoft Azure,7
+IT & Software,IT Certifications,AWS Certified Developer - Associate,8
+IT & Software,IT Certifications,Microsoft Certified Azure Fundamentals,9
+IT & Software,Network & Security,Ethical Hacking,1
+IT & Software,Network & Security,Cyber Security,2
+IT & Software,Network & Security,Penetration Testing,3
+IT & Software,Network & Security,CompTIA Security+,4
+IT & Software,Network & Security,Network Security,5
+IT & Software,Network & Security,Cisco CCNA,6
+IT & Software,Network & Security,Information Security,7
+IT & Software,Network & Security,Python,8
+IT & Software,Network & Security,Wireshark,9
+IT & Software,Hardware,PLC,1
+IT & Software,Hardware,Arduino,2
+IT & Software,Hardware,Electronics,3
+IT & Software,Hardware,Raspberry Pi,4
+IT & Software,Hardware,Embedded Systems,5
+IT & Software,Hardware,Microcontroller,6
+IT & Software,Hardware,Embedded C,7
+IT & Software,Hardware,Computer Repair,8
+IT & Software,Hardware,FPGA,9
+IT & Software,Operating Systems & Servers,Linux,1
+IT & Software,Operating Systems & Servers,Linux Administration,2
+IT & Software,Operating Systems & Servers,Windows Server,3
+IT & Software,Operating Systems & Servers,Shell Scripting,4
+IT & Software,Operating Systems & Servers,Docker,5
+IT & Software,Operating Systems & Servers,Unix,6
+IT & Software,Operating Systems & Servers,LPIC-1: Linux Administrator,7
+IT & Software,Operating Systems & Servers,Active Directory,8
+IT & Software,Operating Systems & Servers,Linux Command Line,9
+IT & Software,Other IT & Software,Python,1
+IT & Software,Other IT & Software,Docker,2
+IT & Software,Other IT & Software,Kubernetes,3
+IT & Software,Other IT & Software,ChatGPT,4
+IT & Software,Other IT & Software,DevOps,5
+IT & Software,Other IT & Software,Ethical Hacking,6
+IT & Software,Other IT & Software,Java,7
+IT & Software,Other IT & Software,AWS Certified Solutions Architect - Associate,8
+IT & Software,Other IT & Software,SQL,9
+Office Productivity,Microsoft,Excel,1
+Office Productivity,Microsoft,Microsoft Office,2
+Office Productivity,Microsoft,PowerPoint,3
+Office Productivity,Microsoft,Microsoft 365,4
+Office Productivity,Microsoft,Outlook,5
+Office Productivity,Microsoft,Microsoft Word,6
+Office Productivity,Microsoft,OneNote,7
+Office Productivity,Microsoft,Access,8
+Office Productivity,Microsoft,Pivot Tables,9
+Office Productivity,Apple,Numbers,1
+Office Productivity,Apple,Mac Basics,2
+Office Productivity,Apple,Keynote,3
+Office Productivity,Apple,Pages,4
+Office Productivity,Apple,iMovie,5
+Office Productivity,Apple,macOS,6
+Office Productivity,Apple,Apple Watch,7
+Office Productivity,Apple,iPad Business,8
+Office Productivity,Apple,iPhone Business,9
+Office Productivity,Google,Google Sheets,1
+Office Productivity,Google,Google Workspace (G Suite),2
+Office Productivity,Google,Google Apps,3
+Office Productivity,Google,Google Drive,4
+Office Productivity,Google,Gmail,5
+Office Productivity,Google,Google Calendar,6
+Office Productivity,Google,Google Docs,7
+Office Productivity,Google,Google Forms,8
+Office Productivity,Google,Google Looker Studio,9
+Office Productivity,SAP,SAP ERP,1
+Office Productivity,SAP,SAP S/4HANA,2
+Office Productivity,SAP,SAP ABAP,3
+Office Productivity,SAP,SAP FICO,4
+Office Productivity,SAP,SAP SD,5
+Office Productivity,SAP,SAP MM,6
+Office Productivity,SAP,SAP HCM,7
+Office Productivity,SAP,SAP BASIS,8
+Office Productivity,SAP,SAP Business One,9
+Office Productivity,Oracle,Oracle SQL,1
+Office Productivity,Oracle,Oracle Database,2
+Office Productivity,Oracle,Oracle PL/SQL,3
+Office Productivity,Oracle,Oracle Primavera,4
+Office Productivity,Oracle,Oracle E-Business Suite,5
+Office Productivity,Oracle,Oracle Fusion Cloud,6
+Office Productivity,Oracle,Oracle EBS R12,7
+Office Productivity,Oracle,PeopleSoft,8
+Office Productivity,Oracle,JD Edwards,9
+Office Productivity,Other Office Productivity,ChatGPT,1
+Office Productivity,Other Office Productivity,Artificial Intelligence (AI),2
+Office Productivity,Other Office Productivity,Typing,3
+Office Productivity,Other Office Productivity,Python,4
+Office Productivity,Other Office Productivity,Prompt Engineering,5
+Office Productivity,Other Office Productivity,Generative AI (GenAI),6
+Office Productivity,Other Office Productivity,QuickBooks Online,7
+Office Productivity,Other Office Productivity,Notary Business,8
+Office Productivity,Other Office Productivity,Construction Estimation,9
+Personal Development,Motivation,Motivation,1
+Personal Development,Motivation,Life Coaching,2
+Personal Development,Motivation,Neuro-Linguistic Programming (NLP),3
+Personal Development,Motivation,Personal Development,4
+Personal Development,Motivation,Confidence,5
+Personal Development,Motivation,Self-Discipline,6
+Personal Development,Motivation,Goal Setting,7
+Personal Development,Motivation,Habits,8
+Personal Development,Motivation,Procrastination,9
+Personal Development,Personal Productivity,Time Management,1
+Personal Development,Personal Productivity,Personal Productivity,2
+Personal Development,Personal Productivity,Focus Mastery,3
+Personal Development,Personal Productivity,ChatGPT,4
+Personal Development,Personal Productivity,Speed Reading,5
+Personal Development,Personal Productivity,Procrastination,6
+Personal Development,Personal Productivity,Organization,7
+Personal Development,Personal Productivity,Goal Setting,8
+Personal Development,Personal Productivity,Notion,9
+Personal Development,Leadership,Leadership,1
+Personal Development,Leadership,Management Skills,2
+Personal Development,Leadership,Communication Skills,3
+Personal Development,Leadership,Public Speaking,4
+Personal Development,Leadership,Emotional Intelligence,5
+Personal Development,Leadership,Strategic Thinking,6
+Personal Development,Leadership,Team Building,7
+Personal Development,Leadership,Project Management,8
+Personal Development,Leadership,Conflict Management,9
+Personal Development,Career Development,Resume Writing,1
+Personal Development,Career Development,Interviewing Skills,2
+Personal Development,Career Development,Job Search,3
+Personal Development,Career Development,LinkedIn,4
+Personal Development,Career Development,Business Communication,5
+Personal Development,Career Development,Career Coaching,6
+Personal Development,Career Development,Business Writing,7
+Personal Development,Career Development,Freelancing,8
+Personal Development,Career Development,Personal Branding,9
+Personal Development,Parenting & Relationships,Parenting,1
+Personal Development,Parenting & Relationships,Relationship Building,2
+Personal Development,Parenting & Relationships,Couples Counseling,3
+Personal Development,Parenting & Relationships,Child Psychology,4
+Personal Development,Parenting & Relationships,Marriage,5
+Personal Development,Parenting & Relationships,Conflict Management,6
+Personal Development,Parenting & Relationships,Early Childhood Education,7
+Personal Development,Parenting & Relationships,Communication Skills,8
+Personal Development,Parenting & Relationships,Love,9
+Personal Development,Happiness,Life Coaching,1
+Personal Development,Happiness,Mindfulness,2
+Personal Development,Happiness,Positive Psychology,3
+Personal Development,Happiness,CBT Cognitive Behavioral Therapy,4
+Personal Development,Happiness,Gratitude,5
+Personal Development,Happiness,Manifestation,6
+Personal Development,Happiness,Emotional Intelligence,7
+Personal Development,Happiness,Self-Care,8
+Personal Development,Happiness,Law of Attraction,9
+Personal Development,Religion & Spirituality,Spirituality,1
+Personal Development,Religion & Spirituality,Mindfulness,2
+Personal Development,Religion & Spirituality,Meditation,3
+Personal Development,Religion & Spirituality,Bible,4
+Personal Development,Religion & Spirituality,Christianity,5
+Personal Development,Religion & Spirituality,Religious Studies,6
+Personal Development,Religion & Spirituality,Yoga,7
+Personal Development,Religion & Spirituality,Kabbalah,8
+Personal Development,Religion & Spirituality,Islam,9
+Personal Development,Creativity,Writing,1
+Personal Development,Creativity,Creative Writing,2
+Personal Development,Creativity,Storytelling,3
+Personal Development,Creativity,Screenwriting,4
+Personal Development,Creativity,Drawing,5
+Personal Development,Creativity,Design Thinking,6
+Personal Development,Creativity,Art Therapy,7
+Personal Development,Creativity,Innovation,8
+Personal Development,Creativity,Photography,9
+Personal Development,Influence,Public Speaking,1
+Personal Development,Influence,Communication Skills,2
+Personal Development,Influence,Persuasion,3
+Personal Development,Influence,Negotiation,4
+Personal Development,Influence,Body Language,5
+Personal Development,Influence,Storytelling,6
+Personal Development,Influence,Assertiveness,7
+Personal Development,Influence,Presentation Skills,8
+Personal Development,Influence,Sales Skills,9
+Personal Development,Self Esteem & Confidence,Confidence,1
+Personal Development,Self Esteem & Confidence,Self-Esteem,2
+Personal Development,Self Esteem & Confidence,Communication Skills,3
+Personal Development,Self Esteem & Confidence,Social Skills,4
+Personal Development,Self Esteem & Confidence,Public Speaking,5
+Personal Development,Self Esteem & Confidence,Assertiveness,6
+Personal Development,Self Esteem & Confidence,Body Language,7
+Personal Development,Self Esteem & Confidence,CBT Cognitive Behavioral Therapy,8
+Personal Development,Self Esteem & Confidence,Personal Transformation,9
+Personal Development,Stress Management,Stress Management,1
+Personal Development,Stress Management,Resilience,2
+Personal Development,Stress Management,Anxiety Management,3
+Personal Development,Stress Management,Mindfulness,4
+Personal Development,Stress Management,Emotional Intelligence,5
+Personal Development,Stress Management,Emotional Freedom Technique (EFT),6
+Personal Development,Stress Management,Breathwork,7
+Personal Development,Stress Management,Burnout Recovery,8
+Personal Development,Stress Management,Meditation,9
+Personal Development,Memory & Study Skills,Speed Reading,1
+Personal Development,Memory & Study Skills,Memory,2
+Personal Development,Memory & Study Skills,Study Skills,3
+Personal Development,Memory & Study Skills,Focus Mastery,4
+Personal Development,Memory & Study Skills,Learning Strategies,5
+Personal Development,Memory & Study Skills,Mind Mapping,6
+Personal Development,Memory & Study Skills,Academic Writing,7
+Personal Development,Memory & Study Skills,Note-taking,8
+Personal Development,Memory & Study Skills,Test Prep,9
+Personal Development,Esoteric Practices,Reiki,1
+Personal Development,Esoteric Practices,Astrology,2
+Personal Development,Esoteric Practices,Tarot Reading,3
+Personal Development,Esoteric Practices,Energy Healing,4
+Personal Development,Esoteric Practices,Psychic,5
+Personal Development,Esoteric Practices,Hypnotherapy,6
+Personal Development,Esoteric Practices,Chakra,7
+Personal Development,Esoteric Practices,Palmistry,8
+Personal Development,Esoteric Practices,Numerology,9
+Personal Development,Other Personal Development,Handwriting Analysis,1
+Personal Development,Other Personal Development,Sound Therapy,2
+Personal Development,Other Personal Development,Mental Health,3
+Personal Development,Other Personal Development,EFT (Emotional Freedom Technique),4
+Personal Development,Other Personal Development,Life Coaching,5
+Personal Development,Other Personal Development,Resilience,6
+Personal Development,Other Personal Development,Neuro-Linguistic Programming (NLP),7
+Personal Development,Other Personal Development,Personal Transformation,8
+Personal Development,Other Personal Development,Freelancing,9
+Design,Web Design,WordPress,1
+Design,Web Design,Figma,2
+Design,Web Design,Web Design,3
+Design,Web Design,User Experience Design,4
+Design,Web Design,Elementor,5
+Design,Web Design,HTML,6
+Design,Web Design,CSS,7
+Design,Web Design,User Interface Design,8
+Design,Web Design,Web Development,9
+Design,Graphic Design & Illustration,Graphic Design,1
+Design,Graphic Design & Illustration,Adobe Photoshop,2
+Design,Graphic Design & Illustration,Adobe Illustrator,3
+Design,Graphic Design & Illustration,Drawing,4
+Design,Graphic Design & Illustration,Canva,5
+Design,Graphic Design & Illustration,Digital Painting,6
+Design,Graphic Design & Illustration,InDesign,7
+Design,Graphic Design & Illustration,Character Design,8
+Design,Graphic Design & Illustration,Logo Design,9
+Design,Design Tools,Adobe Photoshop,1
+Design,Design Tools,Figma,2
+Design,Design Tools,Canva,3
+Design,Design Tools,Adobe Illustrator,4
+Design,Design Tools,AutoCAD,5
+Design,Design Tools,Adobe After Effects,6
+Design,Design Tools,Adobe Premiere Pro,7
+Design,Design Tools,Procreate,8
+Design,Design Tools,SOLIDWORKS,9
+Design,User Experience Design,User Experience Design,1
+Design,User Experience Design,Figma,2
+Design,User Experience Design,User Interface Design,3
+Design,User Experience Design,Product Design,4
+Design,User Experience Design,Web Design,5
+Design,User Experience Design,Adobe XD,6
+Design,User Experience Design,Usability Testing,7
+Design,User Experience Design,Design Thinking,8
+Design,User Experience Design,Mobile App Design,9
+Design,Game Design,Unreal Engine,1
+Design,Game Design,Unity,2
+Design,Game Design,Game Development Fundamentals,3
+Design,Game Design,Blender,4
+Design,Game Design,Pixel Art,5
+Design,Game Design,Level Design,6
+Design,Game Design,C#,7
+Design,Game Design,3D Modeling,8
+Design,Game Design,Digital Painting,9
+Design,3D & Animation,Blender,1
+Design,3D & Animation,3D Modeling,2
+Design,3D & Animation,After Effects,3
+Design,3D & Animation,Unreal Engine,4
+Design,3D & Animation,Animation,5
+Design,3D & Animation,3D Animation,6
+Design,3D & Animation,ZBrush,7
+Design,3D & Animation,Character Animation,8
+Design,3D & Animation,Cinema 4D,9
+Design,Fashion Design,Sewing,1
+Design,Fashion Design,Fashion Design,2
+Design,Fashion Design,Jewelry Design,3
+Design,Fashion Design,Pattern Making (Fashion),4
+Design,Fashion Design,Adobe Illustrator,5
+Design,Fashion Design,T-Shirt Design,6
+Design,Fashion Design,Sketching,7
+Design,Fashion Design,Clo 3d,8
+Design,Fashion Design,Textile Design,9
+Design,Architectural Design,AutoCAD,1
+Design,Architectural Design,Revit,2
+Design,Architectural Design,SketchUp,3
+Design,Architectural Design,Archicad,4
+Design,Architectural Design,BIM,5
+Design,Architectural Design,Interior Design,6
+Design,Architectural Design,V-Ray,7
+Design,Architectural Design,Reading Blueprints,8
+Design,Architectural Design,3ds Max,9
+Design,Interior Design,Interior Design,1
+Design,Interior Design,SketchUp,2
+Design,Interior Design,Home Staging,3
+Design,Interior Design,Color Theory,4
+Design,Interior Design,Lighting Design,5
+Design,Interior Design,AutoCAD,6
+Design,Interior Design,Feng Shui,7
+Design,Interior Design,3ds Max,8
+Design,Interior Design,Revit,9
+Design,Other Design,Character Design,1
+Design,Other Design,Canva,2
+Design,Other Design,Digital Painting,3
+Design,Other Design,Drawing,4
+Design,Other Design,Color Theory,5
+Design,Other Design,Sustainable Design,6
+Design,Other Design,Design Thinking,7
+Design,Other Design,Portraiture,8
+Design,Other Design,Geometric Dimensioning and Tolerancing (GD&T),9
+Marketing,Digital Marketing,Digital Marketing,1
+Marketing,Digital Marketing,Google Ads,2
+Marketing,Digital Marketing,Social Media Marketing,3
+Marketing,Digital Marketing,Marketing Strategy,4
+Marketing,Digital Marketing,Search Engine Optimization (SEO),5
+Marketing,Digital Marketing,ChatGPT,6
+Marketing,Digital Marketing,Email Marketing,7
+Marketing,Digital Marketing,Copywriting,8
+Marketing,Digital Marketing,Facebook Marketing,9
+Marketing,Search Engine Optimization,Search Engine Optimization (SEO),1
+Marketing,Search Engine Optimization,Local SEO,2
+Marketing,Search Engine Optimization,Google Business Profile (Google My Business),3
+Marketing,Search Engine Optimization,SEO Audit,4
+Marketing,Search Engine Optimization,Keyword Research,5
+Marketing,Search Engine Optimization,WordPress SEO,6
+Marketing,Search Engine Optimization,Content Marketing,7
+Marketing,Search Engine Optimization,Link Building,8
+Marketing,Search Engine Optimization,ChatGPT,9
+Marketing,Social Media Marketing,Social Media Marketing,1
+Marketing,Social Media Marketing,Instagram Marketing,2
+Marketing,Social Media Marketing,Facebook Marketing,3
+Marketing,Social Media Marketing,TikTok Marketing,4
+Marketing,Social Media Marketing,Social Media Management,5
+Marketing,Social Media Marketing,LinkedIn Marketing,6
+Marketing,Social Media Marketing,Facebook Ads,7
+Marketing,Social Media Marketing,Digital Marketing,8
+Marketing,Social Media Marketing,Marketing Strategy,9
+Marketing,Branding,Personal Branding,1
+Marketing,Branding,Brand Strategy,2
+Marketing,Branding,YouTube Marketing,3
+Marketing,Branding,Business Branding,4
+Marketing,Branding,Logo Design,5
+Marketing,Branding,Storytelling,6
+Marketing,Branding,ChatGPT,7
+Marketing,Branding,Marketing Strategy,8
+Marketing,Branding,Digital Marketing,9
+Marketing,Marketing Fundamentals,Marketing Strategy,1
+Marketing,Marketing Fundamentals,Copywriting,2
+Marketing,Marketing Fundamentals,Digital Marketing,3
+Marketing,Marketing Fundamentals,Market Research,4
+Marketing,Marketing Fundamentals,Growth Marketing,5
+Marketing,Marketing Fundamentals,Event Planning,6
+Marketing,Marketing Fundamentals,Marketing Management,7
+Marketing,Marketing Fundamentals,Product Marketing,8
+Marketing,Marketing Fundamentals,Neural Marketing,9
+Marketing,Marketing Analytics & Automation,Google Analytics 4 (GA4),1
+Marketing,Marketing Analytics & Automation,Marketing Analytics,2
+Marketing,Marketing Analytics & Automation,Google Analytics,3
+Marketing,Marketing Analytics & Automation,Google Tag Manager,4
+Marketing,Marketing Analytics & Automation,Marketing Automation,5
+Marketing,Marketing Analytics & Automation,Data Analysis,6
+Marketing,Marketing Analytics & Automation,SQL,7
+Marketing,Marketing Analytics & Automation,HubSpot,8
+Marketing,Marketing Analytics & Automation,Salesforce,9
+Marketing,Public Relations,Public Relations,1
+Marketing,Public Relations,Communication Skills,2
+Marketing,Public Relations,Media Training,3
+Marketing,Public Relations,Business Writing,4
+Marketing,Public Relations,Crisis Management,5
+Marketing,Public Relations,Writing,6
+Marketing,Public Relations,Press Release Writing,7
+Marketing,Public Relations,Storytelling,8
+Marketing,Public Relations,Personal Branding,9
+Marketing,Paid Advertising,Google Ads,1
+Marketing,Paid Advertising,Facebook Ads,2
+Marketing,Paid Advertising,PPC Advertising,3
+Marketing,Paid Advertising,Google Ads Search Certification,4
+Marketing,Paid Advertising,Retargeting Marketing,5
+Marketing,Paid Advertising,Amazon Advertising,6
+Marketing,Paid Advertising,TikTok Marketing,7
+Marketing,Paid Advertising,YouTube Marketing,8
+Marketing,Paid Advertising,Instagram Marketing,9
+Marketing,Video & Mobile Marketing,YouTube Marketing,1
+Marketing,Video & Mobile Marketing,Video Marketing,2
+Marketing,Video & Mobile Marketing,Mobile Marketing,3
+Marketing,Video & Mobile Marketing,App Store Optimization (ASO),4
+Marketing,Video & Mobile Marketing,Video Editing,5
+Marketing,Video & Mobile Marketing,TikTok Marketing,6
+Marketing,Video & Mobile Marketing,YouTube Content Creation,7
+Marketing,Video & Mobile Marketing,Digital Marketing,8
+Marketing,Video & Mobile Marketing,Instagram Marketing,9
+Marketing,Content Marketing,Copywriting,1
+Marketing,Content Marketing,Content Marketing,2
+Marketing,Content Marketing,Content Writing,3
+Marketing,Content Marketing,Blogging,4
+Marketing,Content Marketing,Business Writing,5
+Marketing,Content Marketing,Storytelling,6
+Marketing,Content Marketing,ChatGPT,7
+Marketing,Content Marketing,Creative Writing,8
+Marketing,Content Marketing,Ghostwriting,9
+Marketing,Product Marketing,Product Marketing,1
+Marketing,Product Marketing,Marketing Strategy,2
+Marketing,Product Marketing,Product Management,3
+Marketing,Product Marketing,SaaS Marketing,4
+Marketing,Product Marketing,Market Research,5
+Marketing,Product Marketing,Go-to-Market Strategy,6
+Marketing,Product Marketing,Digital Marketing,7
+Marketing,Product Marketing,Branding,8
+Marketing,Product Marketing,Product Launch,9
+Marketing,Affiliate Marketing,Affiliate Marketing,1
+Marketing,Affiliate Marketing,ClickBank,2
+Marketing,Affiliate Marketing,Amazon Affiliate Marketing,3
+Marketing,Affiliate Marketing,CPA Marketing,4
+Marketing,Affiliate Marketing,Passive Income,5
+Marketing,Affiliate Marketing,Digital Marketing,6
+Marketing,Affiliate Marketing,Niche Marketing,7
+Marketing,Affiliate Marketing,SEO,8
+Marketing,Affiliate Marketing,Dropshipping,9
+Marketing,Other Marketing,Copywriting,1
+Marketing,Other Marketing,Google Ads,2
+Marketing,Other Marketing,Artificial Intelligence (AI),3
+Marketing,Other Marketing,ChatGPT,4
+Marketing,Other Marketing,Marketing Strategy,5
+Marketing,Other Marketing,Real Estate Marketing,6
+Marketing,Other Marketing,Event Planning,7
+Marketing,Other Marketing,Sales Skills,8
+Marketing,Other Marketing,Fundraising,9
+Lifestyle,Arts & Crafts,Drawing,1
+Lifestyle,Arts & Crafts,Watercolor Painting,2
+Lifestyle,Arts & Crafts,Acrylic Painting,3
+Lifestyle,Arts & Crafts,Oil Painting,4
+Lifestyle,Arts & Crafts,Sketching,5
+Lifestyle,Arts & Crafts,Calligraphy,6
+Lifestyle,Arts & Crafts,Knitting,7
+Lifestyle,Arts & Crafts,Crochet,8
+Lifestyle,Arts & Crafts,Woodworking,9
+Lifestyle,Beauty & Makeup,Makeup,1
+Lifestyle,Beauty & Makeup,Skincare,2
+Lifestyle,Beauty & Makeup,Nail Art,3
+Lifestyle,Beauty & Makeup,Hair Styling,4
+Lifestyle,Beauty & Makeup,Beauty Business,5
+Lifestyle,Beauty & Makeup,Cosmetics,6
+Lifestyle,Beauty & Makeup,Perfume Making,7
+Lifestyle,Beauty & Makeup,Esthetics,8
+Lifestyle,Beauty & Makeup,Barbering,9
+Lifestyle,Food & Beverage,Cooking,1
+Lifestyle,Food & Beverage,Baking,2
+Lifestyle,Food & Beverage,Wine,3
+Lifestyle,Food & Beverage,Coffee,4
+Lifestyle,Food & Beverage,Bartending,5
+Lifestyle,Food & Beverage,Cake Decorating,6
+Lifestyle,Food & Beverage,Bread Baking,7
+Lifestyle,Food & Beverage,Vegan Cooking,8
+Lifestyle,Food & Beverage,Chocolate Making,9
+Lifestyle,Gaming,Video Games,1
+Lifestyle,Gaming,Chess,2
+Lifestyle,Gaming,Poker,3
+Lifestyle,Gaming,Game Design,4
+Lifestyle,Gaming,Esports,5
+Lifestyle,Gaming,Minecraft,6
+Lifestyle,Gaming,Roblox,7
+Lifestyle,Gaming,Open World Games,8
+Lifestyle,Gaming,Board Games,9
+Lifestyle,Home Improvement & Gardening,Home Improvement,1
+Lifestyle,Home Improvement & Gardening,Gardening,2
+Lifestyle,Home Improvement & Gardening,DIY,3
+Lifestyle,Home Improvement & Gardening,Permaculture,4
+Lifestyle,Home Improvement & Gardening,Landscaping,5
+Lifestyle,Home Improvement & Gardening,Electrical Wiring,6
+Lifestyle,Home Improvement & Gardening,Plumbing,7
+Lifestyle,Home Improvement & Gardening,Organic Farming,8
+Lifestyle,Home Improvement & Gardening,Carpentry,9
+Lifestyle,Pet Care & Training,Dog Training,1
+Lifestyle,Pet Care & Training,Dog Behavior,2
+Lifestyle,Pet Care & Training,Pet Care,3
+Lifestyle,Pet Care & Training,Animal Communication,4
+Lifestyle,Pet Care & Training,Veterinary,5
+Lifestyle,Pet Care & Training,Cat Care,6
+Lifestyle,Pet Care & Training,Horse Care,7
+Lifestyle,Pet Care & Training,Bird Care,8
+Lifestyle,Pet Care & Training,Aquaponics,9
+Lifestyle,Travel,Travel,1
+Lifestyle,Travel,Travel Writing,2
+Lifestyle,Travel,Travel Photography,3
+Lifestyle,Travel,Airbnb Hosting,4
+Lifestyle,Travel,Travel Hacking,5
+Lifestyle,Travel,Digital Nomad,6
+Lifestyle,Travel,Tourism,7
+Lifestyle,Travel,Trip Planning,8
+Lifestyle,Travel,Travel Tips,9
+Lifestyle,Other Lifestyle,Lifestyle,1
+Lifestyle,Other Lifestyle,Minimalism,2
+Lifestyle,Other Lifestyle,Decluttering,3
+Lifestyle,Other Lifestyle,Feng Shui,4
+Lifestyle,Other Lifestyle,Life Coach Training,5
+Lifestyle,Other Lifestyle,Event Planning,6
+Lifestyle,Other Lifestyle,Wedding Planning,7
+Lifestyle,Other Lifestyle,Etiquette,8
+Lifestyle,Other Lifestyle,Embroidery,9
+Photography & Video,Digital Photography,Digital Photography,1
+Photography & Video,Digital Photography,Photography,2
+Photography & Video,Digital Photography,Portrait Photography,3
+Photography & Video,Digital Photography,Landscape Photography,4
+Photography & Video,Digital Photography,Night Photography,5
+Photography & Video,Digital Photography,Street Photography,6
+Photography & Video,Digital Photography,Wildlife Photography,7
+Photography & Video,Digital Photography,Macro Photography,8
+Photography & Video,Digital Photography,Mobile Photography,9
+Photography & Video,Commercial Photography,Commercial Photography,1
+Photography & Video,Commercial Photography,Product Photography,2
+Photography & Video,Commercial Photography,Fashion Photography,3
+Photography & Video,Commercial Photography,Architectural Photography,4
+Photography & Video,Commercial Photography,Headshot Photography,5
+Photography & Video,Commercial Photography,Stock Photography,6
+Photography & Video,Commercial Photography,Event Photography,7
+Photography & Video,Commercial Photography,Corporate Photography,8
+Photography & Video,Commercial Photography,Advertising Photography,9
+Photography & Video,Video Design,Video Editing,1
+Photography & Video,Video Design,Video Production,2
+Photography & Video,Video Design,Filmmaking,3
+Photography & Video,Video Design,Adobe Premiere Pro,4
+Photography & Video,Video Design,DaVinci Resolve,5
+Photography & Video,Video Design,Final Cut Pro,6
+Photography & Video,Video Design,After Effects,7
+Photography & Video,Video Design,Motion Graphics,8
+Photography & Video,Video Design,Cinematography,9
+Photography & Video,Other Photography & Video,Artificial Intelligence,1
+Photography & Video,Other Photography & Video,Adobe Photoshop,2
+Photography & Video,Other Photography & Video,Entrepreneurship Fundamentals,3
+Photography & Video,Other Photography & Video,Social Media Marketing,4
+Photography & Video,Other Photography & Video,Video Editing,5
+Photography & Video,Other Photography & Video,Canva,6
+Photography & Video,Other Photography & Video,Digital Marketing,7
+Photography & Video,Other Photography & Video,Photography,8
+Photography & Video,Other Photography & Video,ChatGPT,9
+Health & Fitness,Fitness,Fitness,1
+Health & Fitness,Fitness,Personal Training,2
+Health & Fitness,Fitness,Yoga,3
+Health & Fitness,Fitness,Pilates,4
+Health & Fitness,Fitness,Weight Loss,5
+Health & Fitness,Fitness,Strength Training,6
+Health & Fitness,Fitness,Bodybuilding,7
+Health & Fitness,Fitness,HIIT,8
+Health & Fitness,Fitness,Stretching,9
+Health & Fitness,General Health,Health,1
+Health & Fitness,General Health,Nutrition,2
+Health & Fitness,General Health,Wellness,3
+Health & Fitness,General Health,Herbalism,4
+Health & Fitness,General Health,Aromatherapy,5
+Health & Fitness,General Health,Holistic Health,6
+Health & Fitness,General Health,Natural Medicine,7
+Health & Fitness,General Health,Ayurveda,8
+Health & Fitness,General Health,Longevity,9
+Health & Fitness,Sports,Sports,1
+Health & Fitness,Sports,Martial Arts,2
+Health & Fitness,Sports,Boxing,3
+Health & Fitness,Sports,MMA,4
+Health & Fitness,Sports,Karate,5
+Health & Fitness,Sports,Judo,6
+Health & Fitness,Sports,Taekwondo,7
+Health & Fitness,Sports,Brazilian Jiu-Jitsu,8
+Health & Fitness,Sports,Self-Defense,9
+Health & Fitness,Nutrition & Diet,Nutrition,1
+Health & Fitness,Nutrition & Diet,Diet,2
+Health & Fitness,Nutrition & Diet,Meal Planning,3
+Health & Fitness,Nutrition & Diet,Sports Nutrition,4
+Health & Fitness,Nutrition & Diet,Weight Management,5
+Health & Fitness,Nutrition & Diet,Keto,6
+Health & Fitness,Nutrition & Diet,Vegan,7
+Health & Fitness,Nutrition & Diet,Intermittent Fasting,8
+Health & Fitness,Nutrition & Diet,Supplements,9
+Health & Fitness,Yoga,Yoga,1
+Health & Fitness,Yoga,Meditation,2
+Health & Fitness,Yoga,Pranayama,3
+Health & Fitness,Yoga,Kundalini,4
+Health & Fitness,Yoga,Vinyasa,5
+Health & Fitness,Yoga,Hatha,6
+Health & Fitness,Yoga,Ashtanga,7
+Health & Fitness,Yoga,Yin Yoga,8
+Health & Fitness,Yoga,Restorative Yoga,9
+Health & Fitness,Mental Health,Mental Health,1
+Health & Fitness,Mental Health,Anxiety,2
+Health & Fitness,Mental Health,Depression,3
+Health & Fitness,Mental Health,Stress Management,4
+Health & Fitness,Mental Health,CBT,5
+Health & Fitness,Mental Health,Counseling,6
+Health & Fitness,Mental Health,Psychology,7
+Health & Fitness,Mental Health,Mindfulness,8
+Health & Fitness,Mental Health,Trauma,9
+Health & Fitness,Safety & First Aid,First Aid,1
+Health & Fitness,Safety & First Aid,CPR,2
+Health & Fitness,Safety & First Aid,Workplace Safety,3
+Health & Fitness,Safety & First Aid,OSHA,4
+Health & Fitness,Safety & First Aid,Fire Safety,5
+Health & Fitness,Safety & First Aid,Food Safety,6
+Health & Fitness,Safety & First Aid,Health & Safety,7
+Health & Fitness,Safety & First Aid,Emergency Preparedness,8
+Health & Fitness,Safety & First Aid,Survival Skills,9
+Health & Fitness,Dance,Dance,1
+Health & Fitness,Dance,Salsa,2
+Health & Fitness,Dance,Ballet,3
+Health & Fitness,Dance,Hip Hop,4
+Health & Fitness,Dance,Belly Dance,5
+Health & Fitness,Dance,Tango,6
+Health & Fitness,Dance,Bachata,7
+Health & Fitness,Dance,Contemporary Dance,8
+Health & Fitness,Dance,Ballroom Dance,9
+Health & Fitness,Meditation,Meditation,1
+Health & Fitness,Meditation,Mindfulness,2
+Health & Fitness,Meditation,Breathwork,3
+Health & Fitness,Meditation,Guided Meditation,4
+Health & Fitness,Meditation,Transcendental Meditation,5
+Health & Fitness,Meditation,Sound Healing,6
+Health & Fitness,Meditation,Yoga Nidra,7
+Health & Fitness,Meditation,Zen,8
+Health & Fitness,Meditation,Visualization,9
+Health & Fitness,Other Health & Fitness,Massage,1
+Health & Fitness,Other Health & Fitness,Reflexology,2
+Health & Fitness,Other Health & Fitness,Acupuncture,3
+Health & Fitness,Other Health & Fitness,Physiotherapy,4
+Health & Fitness,Other Health & Fitness,Occupational Therapy,5
+Health & Fitness,Other Health & Fitness,Speech Therapy,6
+Health & Fitness,Other Health & Fitness,Chiropractic,7
+Health & Fitness,Other Health & Fitness,Sports Medicine,8
+Health & Fitness,Other Health & Fitness,Kinesiology,9
+Music,Instruments,Guitar,1
+Music,Instruments,Keyboard Instrument,2
+Music,Instruments,Drums,3
+Music,Instruments,Violin,4
+Music,Instruments,Ukulele,5
+Music,Instruments,Piano,6
+Music,Instruments,Bass Guitar,7
+Music,Instruments,Piano Chords,8
+Music,Instruments,Harmonica,9
+Music,Music Production,Music Production,1
+Music,Music Production,Music Mixing,2
+Music,Music Production,Ableton Live,3
+Music,Music Production,Music Composition,4
+Music,Music Production,FL Studio,5
+Music,Music Production,Audio Production,6
+Music,Music Production,Sound Design,7
+Music,Music Production,Songwriting,8
+Music,Music Production,Music Mastering,9
+Music,Music Fundamentals,Music Theory,1
+Music,Music Fundamentals,Singing,2
+Music,Music Fundamentals,Reading Music,3
+Music,Music Fundamentals,Ear Training,4
+Music,Music Fundamentals,Music Composition,5
+Music,Music Fundamentals,Songwriting,6
+Music,Music Fundamentals,Improvisation,7
+Music,Music Fundamentals,Harmony,8
+Music,Music Fundamentals,Rhythm,9
+Music,Vocal,Singing,1
+Music,Vocal,Voice Training,2
+Music,Vocal,Breathing,3
+Music,Vocal,Vocal Techniques,4
+Music,Vocal,Rapping,5
+Music,Vocal,Beatboxing,6
+Music,Vocal,Voice Acting,7
+Music,Vocal,Voiceover,8
+Music,Vocal,Speech,9
+Music,Music Techniques,Fingerstyle Guitar,1
+Music,Music Techniques,Improvisation,2
+Music,Music Techniques,Music Mixing,3
+Music,Music Techniques,Music Recording,4
+Music,Music Techniques,Jazz Piano,5
+Music,Music Techniques,Blues Guitar,6
+Music,Music Techniques,Piano Improvisation,7
+Music,Music Techniques,Guitar Chords,8
+Music,Music Techniques,Classical Guitar,9
+Music,Other Music,DJ,1
+Music,Other Music,Music Business,2
+Music,Other Music,Music Marketing,3
+Music,Other Music,Concert,4
+Music,Other Music,Live Sound,5
+Music,Other Music,Audio Engineering,6
+Music,Other Music,Music Licensing,7
+Music,Other Music,Music Education,8
+Music,Other Music,Music Therapy,9
+Teaching & Academics,Engineering,Civil Engineering,1
+Teaching & Academics,Engineering,Electrical Engineering,2
+Teaching & Academics,Engineering,Solar Energy,3
+Teaching & Academics,Engineering,Electronics,4
+Teaching & Academics,Engineering,Structural Engineering,5
+Teaching & Academics,Engineering,Mechanical Engineering,6
+Teaching & Academics,Engineering,Control Systems,7
+Teaching & Academics,Engineering,Chemical Engineering,8
+Teaching & Academics,Engineering,Finite Element Analysis (FEA),9
+Teaching & Academics,Humanities,Psychology,1
+Teaching & Academics,Humanities,Theology,2
+Teaching & Academics,Humanities,Philosophy,3
+Teaching & Academics,Humanities,Creative Writing,4
+Teaching & Academics,Humanities,Sociology,5
+Teaching & Academics,Humanities,English Literature,6
+Teaching & Academics,Humanities,Critical Thinking,7
+Teaching & Academics,Humanities,Art History,8
+Teaching & Academics,Humanities,World History,9
+Teaching & Academics,Math,Statistics,1
+Teaching & Academics,Math,Calculus,2
+Teaching & Academics,Math,Algebra,3
+Teaching & Academics,Math,Linear Algebra,4
+Teaching & Academics,Math,Probability,5
+Teaching & Academics,Math,Discrete Math,6
+Teaching & Academics,Math,Trigonometry,7
+Teaching & Academics,Math,Geometry,8
+Teaching & Academics,Math,Precalculus,9
+Teaching & Academics,Science,Physics,1
+Teaching & Academics,Science,Biology,2
+Teaching & Academics,Science,Chemistry,3
+Teaching & Academics,Science,Anatomy,4
+Teaching & Academics,Science,Organic Chemistry,5
+Teaching & Academics,Science,Microbiology,6
+Teaching & Academics,Science,Genetics,7
+Teaching & Academics,Science,Astronomy,8
+Teaching & Academics,Science,Neuroscience,9
+Teaching & Academics,Social Science,Psychology,1
+Teaching & Academics,Social Science,Research Methods,2
+Teaching & Academics,Social Science,Counseling,3
+Teaching & Academics,Social Science,Sociology,4
+Teaching & Academics,Social Science,Economics Fundamentals,5
+Teaching & Academics,Social Science,International Relations,6
+Teaching & Academics,Social Science,Political Science,7
+Teaching & Academics,Social Science,Law,8
+Teaching & Academics,Social Science,Anthropology,9
+Teaching & Academics,Language Learning,English Language,1
+Teaching & Academics,Language Learning,Spanish Language,2
+Teaching & Academics,Language Learning,German Language,3
+Teaching & Academics,Language Learning,French Language,4
+Teaching & Academics,Language Learning,Japanese Language,5
+Teaching & Academics,Language Learning,Italian Language,6
+Teaching & Academics,Language Learning,Korean Language,7
+Teaching & Academics,Language Learning,Chinese Language,8
+Teaching & Academics,Language Learning,Arabic Language,9
+Teaching & Academics,Teacher Training,Train the Trainer,1
+Teaching & Academics,Teacher Training,Instructional Design,2
+Teaching & Academics,Teacher Training,Teaching Online,3
+Teaching & Academics,Teacher Training,Classroom Management,4
+Teaching & Academics,Teacher Training,Early Childhood Education,5
+Teaching & Academics,Teacher Training,Facilitation,6
+Teaching & Academics,Teacher Training,Presentation Skills,7
+Teaching & Academics,Teacher Training,Education Management,8
+Teaching & Academics,Teacher Training,Art Therapy,9
+Teaching & Academics,Test Prep,IELTS,1
+Teaching & Academics,Test Prep,Digital SAT,2
+Teaching & Academics,Test Prep,TOEFL,3
+Teaching & Academics,Test Prep,GRE,4
+Teaching & Academics,Test Prep,PTE Academic,5
+Teaching & Academics,Test Prep,JLPT,6
+Teaching & Academics,Test Prep,GED,7
+Teaching & Academics,Test Prep,LSAT,8
+Teaching & Academics,Test Prep,GMAT,9
+Teaching & Academics,Online Education,Online Course Creation,1
+Teaching & Academics,Online Education,Teaching Online,2
+Teaching & Academics,Online Education,Instructional Design,3
+Teaching & Academics,Online Education,Udemy,4
+Teaching & Academics,Online Education,Articulate Storyline,5
+Teaching & Academics,Online Education,eLearning,6
+Teaching & Academics,Online Education,Moodle,7
+Teaching & Academics,Online Education,Curriculum Development,8
+Teaching & Academics,Online Education,Webinar,9
+Teaching & Academics,Other Teaching & Academics,Proofreading,1
+Teaching & Academics,Other Teaching & Academics,Medical Coding,2
+Teaching & Academics,Other Teaching & Academics,Steno,3
+Teaching & Academics,Other Teaching & Academics,Research Paper Writing,4
+Teaching & Academics,Other Teaching & Academics,Qualitative Research,5
+Teaching & Academics,Other Teaching & Academics,Academic Writing,6
+Teaching & Academics,Other Teaching & Academics,Medical Terminology,7
+Teaching & Academics,Other Teaching & Academics,Montessori,8
+Teaching & Academics,Other Teaching & Academics,Piano,9
+Business,Entrepreneurship,Entrepreneurship,1
+Business,Entrepreneurship,Business Fundamentals,2
+Business,Entrepreneurship,Freelancing,3
+Business,Entrepreneurship,Business Plan,4
+Business,Entrepreneurship,Startups,5
+Business,Entrepreneurship,ChatGPT,6
+Business,Entrepreneurship,Dropshipping,7
+Business,Entrepreneurship,Shopify,8
+Business,Entrepreneurship,Amazon FBA,9
+Business,Communication,Communication Skills,1
+Business,Communication,Public Speaking,2
+Business,Communication,Business Writing,3
+Business,Communication,Presentation Skills,4
+Business,Communication,Assertiveness,5
+Business,Communication,Storytelling,6
+Business,Communication,Technical Writing,7
+Business,Communication,Interpersonal Skills,8
+Business,Communication,Conflict Management,9
+Business,Management,Management Skills,1
+Business,Management,Leadership,2
+Business,Management,Project Management,3
+Business,Management,Product Management,4
+Business,Management,Operations Management,5
+Business,Management,Supply Chain,6
+Business,Management,Quality Management,7
+Business,Management,Strategic Management,8
+Business,Management,ISO,9
+Business,Sales,Sales Skills,1
+Business,Sales,Negotiation,2
+Business,Sales,Customer Service,3
+Business,Sales,Persuasion,4
+Business,Sales,Cold Calling,5
+Business,Sales,B2B Sales,6
+Business,Sales,Sales Management,7
+Business,Sales,Lead Generation,8
+Business,Sales,Salesforce,9
+Business,Business Strategy,Business Strategy,1
+Business,Business Strategy,Digital Transformation,2
+Business,Business Strategy,Management Consulting,3
+Business,Business Strategy,Business Analysis,4
+Business,Business Strategy,Strategic Planning,5
+Business,Business Strategy,Change Management,6
+Business,Business Strategy,Innovation,7
+Business,Business Strategy,Game Theory,8
+Business,Business Strategy,SWOT Analysis,9
+Business,Operations,Supply Chain,1
+Business,Operations,Six Sigma,2
+Business,Operations,Logistics Management,3
+Business,Operations,Quality Management,4
+Business,Operations,Operations Management,5
+Business,Operations,Lean,6
+Business,Operations,Inventory Management,7
+Business,Operations,Purchasing,8
+Business,Operations,SAP MM,9
+Business,Project Management,Project Management,1
+Business,Project Management,PMP,2
+Business,Project Management,Agile,3
+Business,Project Management,Scrum,4
+Business,Project Management,PRINCE2,5
+Business,Project Management,CAPM,6
+Business,Project Management,Project Planning,7
+Business,Project Management,Microsoft Project,8
+Business,Project Management,JIRA,9
+Business,Business Law,Business Law,1
+Business,Business Law,Contract Law,2
+Business,Business Law,Intellectual Property,3
+Business,Business Law,GDPR,4
+Business,Business Law,Employment Law,5
+Business,Business Law,Corporate Governance,6
+Business,Business Law,Patent,7
+Business,Business Law,Ethics,8
+Business,Business Law,Medical Law,9
+Business,Business Intelligence,Business Intelligence,1
+Business,Business Intelligence,SQL,2
+Business,Business Intelligence,Power BI,3
+Business,Business Intelligence,Tableau,4
+Business,Business Intelligence,Data Analysis,5
+Business,Business Intelligence,Microsoft Excel,6
+Business,Business Intelligence,Google Looker Studio,7
+Business,Business Intelligence,Data Modeling,8
+Business,Business Intelligence,Alteryx,9
+Business,Human Resources,Human Resources,1
+Business,Human Resources,Recruitment,2
+Business,Human Resources,Instructional Design,3
+Business,Human Resources,Talent Management,4
+Business,Human Resources,Emotional Intelligence,5
+Business,Human Resources,Payroll,6
+Business,Human Resources,Employment Law,7
+Business,Human Resources,Performance Management,8
+Business,Human Resources,Training and Development,9
+Business,Other Business,Real Estate Investing,1
+Business,Other Business,Medical Coding,2
+Business,Other Business,Grant Writing,3
+Business,Other Business,Bookkeeping,4
+Business,Other Business,Quickbooks Online,5
+Business,Other Business,Fundraising,6
+Business,Other Business,Construction Estimation,7
+Business,Other Business,Non Profit Management,8
+Business,Other Business,Amazon AWS,9
+Development,Web Development,JavaScript,1
+Development,Web Development,React JS,2
+Development,Web Development,Angular,3
+Development,Web Development,Node.Js,4
+Development,Web Development,PHP,5
+Development,Web Development,HTML5,6
+Development,Web Development,CSS3,7
+Development,Web Development,Next.js,8
+Development,Web Development,Full Stack Web Development,9
+Development,Data Science,Python,1
+Development,Data Science,Machine Learning,2
+Development,Data Science,Deep Learning,3
+Development,Data Science,Data Analysis,4
+Development,Data Science,Artificial Intelligence (AI),5
+Development,Data Science,R (Programming Language),6
+Development,Data Science,Statistics,7
+Development,Data Science,Natural Language Processing (NLP),8
+Development,Data Science,Neural Networks,9
+Development,Mobile Development,Swift,1
+Development,Mobile Development,Flutter,2
+Development,Mobile Development,React Native,3
+Development,Mobile Development,Android Development,4
+Development,Mobile Development,iOS Development,5
+Development,Mobile Development,Kotlin,6
+Development,Mobile Development,Dart (Programming Language),7
+Development,Mobile Development,SwiftUI,8
+Development,Mobile Development,Mobile App Development,9
+Development,Programming Languages,Python,1
+Development,Programming Languages,Java,2
+Development,Programming Languages,C#,3
+Development,Programming Languages,C++,4
+Development,Programming Languages,C (Programming Language),5
+Development,Programming Languages,Rust,6
+Development,Programming Languages,Go (Programming Language),7
+Development,Programming Languages,Spring Framework,8
+Development,Programming Languages,TypeScript,9
+Development,Game Development,Unity,1
+Development,Game Development,Unreal Engine,2
+Development,Game Development,C#,3
+Development,Game Development,C++,4
+Development,Game Development,Game Development Fundamentals,5
+Development,Game Development,3D Game Development,6
+Development,Game Development,2D Game Development,7
+Development,Game Development,Godot,8
+Development,Game Development,Unreal Engine 5,9
+Development,Database Design & Development,SQL,1
+Development,Database Design & Development,MySQL,2
+Development,Database Design & Development,PostgreSQL,3
+Development,Database Design & Development,MongoDB,4
+Development,Database Design & Development,Oracle SQL,5
+Development,Database Design & Development,Database Management System (DBMS),6
+Development,Database Design & Development,Apache Kafka,7
+Development,Database Design & Development,Microsoft SQL Server,8
+Development,Database Design & Development,Redis,9
+Development,Software Testing,Selenium WebDriver,1
+Development,Software Testing,Software Testing,2
+Development,Software Testing,Automation Testing,3
+Development,Software Testing,Java,4
+Development,Software Testing,API Testing,5
+Development,Software Testing,QA Testing,6
+Development,Software Testing,Postman,7
+Development,Software Testing,Playwright,8
+Development,Software Testing,Cypress.io,9
+Development,Software Engineering,Data Structures,1
+Development,Software Engineering,Algorithms,2
+Development,Software Engineering,Software Architecture,3
+Development,Software Engineering,Coding Interview,4
+Development,Software Engineering,Microservices,5
+Development,Software Engineering,Design Patterns,6
+Development,Software Engineering,System Design,7
+Development,Software Engineering,Clean Code,8
+Development,Software Engineering,Object Oriented Programming (OOP),9
+Development,Software Development Tools,Docker,1
+Development,Software Development Tools,Kubernetes,2
+Development,Software Development Tools,Git,3
+Development,Software Development Tools,DevOps,4
+Development,Software Development Tools,JIRA,5
+Development,Software Development Tools,Jenkins,6
+Development,Software Development Tools,Terraform,7
+Development,Software Development Tools,GitHub,8
+Development,Software Development Tools,Ansible,9
+Development,No-Code Development,Bubble,1
+Development,No-Code Development,Webflow,2
+Development,No-Code Development,WordPress,3
+Development,No-Code Development,Airtable,4
+Development,No-Code Development,Zapier,5
+Development,No-Code Development,Adalo,6
+Development,No-Code Development,FlutterFlow,7
+Development,No-Code Development,Glide,8
+Development,No-Code Development,No-Code App Development,9
+Development,Other Development,Python,1
+Development,Other Development,ChatGPT,2
+Development,Other Development,Artificial Intelligence (AI),3
+Development,Other Development,Generative AI (GenAI),4
+Development,Other Development,Prompt Engineering,5
+Development,Other Development,Low-Code Development,6
+Development,Other Development,Blockchain,7
+Development,Other Development,Solidity,8
+Development,Other Development,Computer Vision,9

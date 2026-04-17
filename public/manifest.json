@@ -1,0 +1,22 @@
+{
+  "workbook": "Course_Taxonomy_Master.xlsx",
+  "built_at": "2026-04-17T09:34:05.257063+00:00",
+  "row_count": 1071,
+  "main_category_count": 13,
+  "subcategory_count": 119,
+  "main_category_row_counts": {
+    "Finance & Accounting": 99,
+    "IT & Software": 45,
+    "Office Productivity": 54,
+    "Personal Development": 126,
+    "Design": 90,
+    "Marketing": 117,
+    "Lifestyle": 72,
+    "Photography & Video": 36,
+    "Health & Fitness": 90,
+    "Music": 54,
+    "Teaching & Academics": 90,
+    "Business": 99,
+    "Development": 99
+  }
+}

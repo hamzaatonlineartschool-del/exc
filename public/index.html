@@ -1,0 +1,395 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Course taxonomy dashboard</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --surface: #1a2332;
+      --surface2: #243044;
+      --border: #2d3a50;
+      --text: #e8eef7;
+      --muted: #8b9cb3;
+      --accent: #3b82f6;
+      --accent-hover: #2563eb;
+      --success: #34d399;
+      --radius: 12px;
+      --font: "DM Sans", system-ui, -apple-system, sans-serif;
+    }
+    @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,600;0,9..40,700;1,9..40,400&display=swap");
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: var(--font);
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      min-height: 100vh;
+    }
+    a { color: var(--accent); }
+    .wrap { max-width: 1200px; margin: 0 auto; padding: 1.25rem 1.25rem 3rem; }
+    header {
+      padding: 1.5rem 0 1rem;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 1.5rem;
+    }
+    header h1 {
+      font-size: clamp(1.35rem, 3vw, 1.75rem);
+      font-weight: 700;
+      margin: 0 0 0.35rem;
+      letter-spacing: -0.02em;
+    }
+    header p { margin: 0; color: var(--muted); font-size: 0.95rem; max-width: 52ch; }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 0.75rem;
+      margin-bottom: 1.25rem;
+    }
+    .stat {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1rem 1.1rem;
+    }
+    .stat .val { font-size: 1.5rem; font-weight: 700; color: var(--text); }
+    .stat .lbl { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-top: 0.2rem; }
+    .actions {
+      display: flex; flex-wrap: wrap; gap: 0.6rem;
+      margin-bottom: 1.25rem;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.55rem 1rem;
+      border-radius: 10px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      text-decoration: none;
+      border: none;
+      cursor: pointer;
+      font-family: inherit;
+    }
+    .btn-primary { background: var(--accent); color: #fff; }
+    .btn-primary:hover { background: var(--accent-hover); }
+    .btn-ghost {
+      background: var(--surface2);
+      color: var(--text);
+      border: 1px solid var(--border);
+    }
+    .btn-ghost:hover { background: var(--surface); }
+    .grid2 {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1.25rem;
+    }
+    @media (min-width: 900px) {
+      .grid2 { grid-template-columns: 1fr 1fr; }
+    }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.1rem 1.25rem;
+    }
+    .card h2 {
+      margin: 0 0 0.85rem;
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .bars { display: flex; flex-direction: column; gap: 0.45rem; }
+    .bar-row { display: grid; grid-template-columns: minmax(0,1fr) 48px 120px; gap: 0.5rem; align-items: center; font-size: 0.82rem; }
+    .bar-row span:first-child { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .bar-row .n { text-align: right; color: var(--muted); font-variant-numeric: tabular-nums; }
+    .bar-bg {
+      height: 8px;
+      background: var(--surface2);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+    .bar-fill {
+      height: 100%;
+      border-radius: 4px;
+      background: linear-gradient(90deg, var(--accent), #60a5fa);
+      min-width: 2px;
+    }
+    .filters {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0.65rem;
+      margin-bottom: 0.85rem;
+    }
+    @media (min-width: 640px) {
+      .filters { grid-template-columns: 1fr 1fr 1fr; }
+    }
+    label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); display: block; margin-bottom: 0.25rem; }
+    select, input[type="search"] {
+      width: 100%;
+      padding: 0.5rem 0.65rem;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.9rem;
+    }
+    select:focus, input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+    .table-meta { font-size: 0.85rem; color: var(--muted); margin-bottom: 0.5rem; }
+    .table-scroll {
+      max-height: min(58vh, 640px);
+      overflow: auto;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+    }
+    table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+    thead th {
+      position: sticky;
+      top: 0;
+      background: var(--surface2);
+      color: var(--muted);
+      font-weight: 600;
+      text-align: left;
+      padding: 0.55rem 0.65rem;
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+    }
+    tbody td {
+      padding: 0.45rem 0.65rem;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    tbody tr:hover td { background: rgba(59, 130, 246, 0.06); }
+    td.num { font-variant-numeric: tabular-nums; color: var(--muted); width: 3rem; }
+    .err {
+      background: #3f1d1d;
+      color: #fecaca;
+      padding: 0.75rem 1rem;
+      border-radius: var(--radius);
+      margin-bottom: 1rem;
+      font-size: 0.9rem;
+    }
+    .built { font-size: 0.85rem; color: var(--muted); margin-top: 0.5rem; }
+    footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); color: var(--muted); font-size: 0.8rem; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>Course taxonomy dashboard</h1>
+      <p>Browse topics, filter by category, and download the latest Excel, CSV, or JSON. Serve this folder over HTTP (e.g. GitHub Pages) — <code>file://</code> cannot load data files.</p>
+      <p class="built" id="built"></p>
+    </header>
+
+    <div id="error" class="err" hidden></div>
+
+    <div class="stats" id="stats">
+      <div class="stat"><div class="val" id="s-rows">—</div><div class="lbl">Topic rows</div></div>
+      <div class="stat"><div class="val" id="s-mains">—</div><div class="lbl">Main categories</div></div>
+      <div class="stat"><div class="val" id="s-subs">—</div><div class="lbl">Subcategories</div></div>
+    </div>
+
+    <div class="actions">
+      <a class="btn btn-primary" href="./Course_Taxonomy_Master.xlsx" download>Download Excel</a>
+      <a class="btn btn-ghost" href="./taxonomy.csv" download>Download CSV</a>
+      <a class="btn btn-ghost" href="./taxonomy.json" download>Download JSON</a>
+    </div>
+
+    <div class="grid2">
+      <div class="card">
+        <h2>Rows per main category</h2>
+        <div class="bars" id="bars"></div>
+      </div>
+      <div class="card">
+        <h2>Filter topics</h2>
+        <div class="filters">
+          <div>
+            <label for="f-main">Main category</label>
+            <select id="f-main"><option value="">All</option></select>
+          </div>
+          <div>
+            <label for="f-sub">Subcategory</label>
+            <select id="f-sub"><option value="">All</option></select>
+          </div>
+          <div>
+            <label for="f-q">Search nested topic</label>
+            <input type="search" id="f-q" placeholder="Type to filter…" autocomplete="off" />
+          </div>
+        </div>
+        <p class="table-meta" id="table-meta"></p>
+        <div class="table-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>Main</th>
+                <th>Sub</th>
+                <th>Nested</th>
+              </tr>
+            </thead>
+            <tbody id="tbody"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      Rebuild locally: <code>python scripts/build_taxonomy_workbook.py</code> — outputs refresh <code>dist/</code> and <code>public/</code>.
+    </footer>
+  </div>
+
+  <script>
+    (function () {
+      const $ = (id) => document.getElementById(id);
+      const esc = (s) => {
+        const d = document.createElement("div");
+        d.textContent = s;
+        return d.innerHTML;
+      };
+
+      let all = [];
+      let mains = [];
+      const mainSel = $("f-main");
+      const subSel = $("f-sub");
+      const qInput = $("f-q");
+      const tbody = $("tbody");
+
+      function showError(msg) {
+        const el = $("error");
+        el.hidden = false;
+        el.textContent = msg;
+      }
+
+      function setBuilt(m) {
+        const t = m.built_at || "—";
+        $("built").textContent = "Last build (UTC): " + t;
+      }
+
+      function fillStats(m) {
+        $("s-rows").textContent = m.row_count ?? "—";
+        $("s-mains").textContent = m.main_category_count ?? "—";
+        $("s-subs").textContent = m.subcategory_count ?? "—";
+      }
+
+      function renderBars(m) {
+        const counts = m.main_category_row_counts || {};
+        const entries = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+        const max = Math.max(1, ...entries.map((x) => x[1]));
+        const root = $("bars");
+        root.innerHTML = "";
+        for (const [name, n] of entries) {
+          const pct = Math.round((n / max) * 100);
+          const row = document.createElement("div");
+          row.className = "bar-row";
+          row.innerHTML =
+            "<span title=\"" + esc(name) + "\">" + esc(name) + "</span>" +
+            "<span class=\"n\">" + n + "</span>" +
+            "<div class=\"bar-bg\"><div class=\"bar-fill\" style=\"width:" + pct + "%\"></div></div>";
+          root.appendChild(row);
+        }
+      }
+
+      function uniqueSorted(arr) {
+        return [...new Set(arr)].sort((a, b) => a.localeCompare(b));
+      }
+
+      function rebuildSubOptions() {
+        const m = mainSel.value;
+        const subs = uniqueSorted(
+          all.filter((r) => !m || r.main_category === m).map((r) => r.subcategory)
+        );
+        const cur = subSel.value;
+        subSel.innerHTML = "<option value=\"\">All</option>";
+        for (const s of subs) {
+          const o = document.createElement("option");
+          o.value = s;
+          o.textContent = s;
+          subSel.appendChild(o);
+        }
+        if (subs.includes(cur)) subSel.value = cur;
+      }
+
+      function filtered() {
+        const m = mainSel.value;
+        const s = subSel.value;
+        const q = (qInput.value || "").trim().toLowerCase();
+        return all.filter((r) => {
+          if (m && r.main_category !== m) return false;
+          if (s && r.subcategory !== s) return false;
+          if (q && !r.nested_category.toLowerCase().includes(q)) return false;
+          return true;
+        });
+      }
+
+      function renderTable() {
+        const rows = filtered();
+        $("table-meta").textContent = "Showing " + rows.length + " of " + all.length + " rows.";
+        tbody.innerHTML = "";
+        const frag = document.createDocumentFragment();
+        for (const r of rows) {
+          const tr = document.createElement("tr");
+          tr.innerHTML =
+            "<td class=\"num\">" + r.rank + "</td>" +
+            "<td>" + esc(r.main_category) + "</td>" +
+            "<td>" + esc(r.subcategory) + "</td>" +
+            "<td>" + esc(r.nested_category) + "</td>";
+          frag.appendChild(tr);
+        }
+        tbody.appendChild(frag);
+      }
+
+      let t = null;
+      function debounceRender() {
+        clearTimeout(t);
+        t = setTimeout(renderTable, 120);
+      }
+
+      async function load() {
+        try {
+          const [rm, rt] = await Promise.all([
+            fetch("./manifest.json", { cache: "no-store" }),
+            fetch("./taxonomy.json", { cache: "no-store" }),
+          ]);
+          if (!rm.ok) throw new Error("manifest.json: " + rm.status);
+          if (!rt.ok) throw new Error("taxonomy.json: " + rt.status + " — run the build script.");
+          const manifest = await rm.json();
+          all = await rt.json();
+          setBuilt(manifest);
+          fillStats(manifest);
+          renderBars(manifest);
+
+          mains = uniqueSorted(all.map((r) => r.main_category));
+          for (const name of mains) {
+            const o = document.createElement("option");
+            o.value = name;
+            o.textContent = name;
+            mainSel.appendChild(o);
+          }
+          rebuildSubOptions();
+          renderTable();
+
+          mainSel.addEventListener("change", () => {
+            rebuildSubOptions();
+            renderTable();
+          });
+          subSel.addEventListener("change", renderTable);
+          qInput.addEventListener("input", debounceRender);
+        } catch (e) {
+          console.error(e);
+          showError(
+            "Could not load dashboard data. Use a local server (e.g. python -m http.server --directory public) or deploy to GitHub Pages. " +
+              (e.message || String(e))
+          );
+        }
+      }
+
+      load();
+    })();
+  </script>
+</body>
+</html>

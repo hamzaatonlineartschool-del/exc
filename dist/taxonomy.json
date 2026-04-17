@@ -1,0 +1,6428 @@
+[
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Accounting & Bookkeeping",
+    "nested_category": "Accounting",
+    "rank": 1
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Accounting & Bookkeeping",
+    "nested_category": "Bookkeeping",
+    "rank": 2
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Accounting & Bookkeeping",
+    "nested_category": "QuickBooks Online",
+    "rank": 3
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Accounting & Bookkeeping",
+    "nested_category": "Financial Accounting",
+    "rank": 4
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Accounting & Bookkeeping",
+    "nested_category": "Financial Statement",
+    "rank": 5
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Accounting & Bookkeeping",
+    "nested_category": "IFRS",
+    "rank": 6
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Accounting & Bookkeeping",
+    "nested_category": "TallyPrime",
+    "rank": 7
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Accounting & Bookkeeping",
+    "nested_category": "QuickBooks",
+    "rank": 8
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Accounting & Bookkeeping",
+    "nested_category": "Cost Accounting",
+    "rank": 9
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Compliance",
+    "nested_category": "Anti-Money Laundering (AML)",
+    "rank": 1
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Compliance",
+    "nested_category": "Internal Auditing",
+    "rank": 2
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Compliance",
+    "nested_category": "Sarbanes-Oxley (SOX)",
+    "rank": 3
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Compliance",
+    "nested_category": "KYC (Know Your Customer)",
+    "rank": 4
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Compliance",
+    "nested_category": "Fraud Strategy",
+    "rank": 5
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Compliance",
+    "nested_category": "Risk Management",
+    "rank": 6
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Compliance",
+    "nested_category": "Compliance Management",
+    "rank": 7
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Compliance",
+    "nested_category": "Financial Crime",
+    "rank": 8
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Compliance",
+    "nested_category": "Internal Control",
+    "rank": 9
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Cryptocurrency & Blockchain",
+    "nested_category": "Cryptocurrency",
+    "rank": 1
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Cryptocurrency & Blockchain",
+    "nested_category": "Blockchain",
+    "rank": 2
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Cryptocurrency & Blockchain",
+    "nested_category": "Bitcoin",
+    "rank": 3
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Cryptocurrency & Blockchain",
+    "nested_category": "Technical Analysis (Crypto)",
+    "rank": 4
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Cryptocurrency & Blockchain",
+    "nested_category": "Algorithmic Trading",
+    "rank": 5
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Cryptocurrency & Blockchain",
+    "nested_category": "NFT (Non-Fungible Tokens)",
+    "rank": 6
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Cryptocurrency & Blockchain",
+    "nested_category": "Ethereum",
+    "rank": 7
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Cryptocurrency & Blockchain",
+    "nested_category": "Metaverse",
+    "rank": 8
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Cryptocurrency & Blockchain",
+    "nested_category": "Day Trading",
+    "rank": 9
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Economics",
+    "nested_category": "Macroeconomics",
+    "rank": 1
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Economics",
+    "nested_category": "Microeconomics",
+    "rank": 2
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Economics",
+    "nested_category": "Economics Fundamentals",
+    "rank": 3
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Economics",
+    "nested_category": "Game Theory",
+    "rank": 4
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Economics",
+    "nested_category": "Behavioral Economics",
+    "rank": 5
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Economics",
+    "nested_category": "Stata",
+    "rank": 6
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Economics",
+    "nested_category": "Econometrics",
+    "rank": 7
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Economics",
+    "nested_category": "Finance Fundamentals",
+    "rank": 8
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Economics",
+    "nested_category": "Global Economics",
+    "rank": 9
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance",
+    "nested_category": "Personal Finance",
+    "rank": 1
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance",
+    "nested_category": "Corporate Finance",
+    "rank": 2
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance",
+    "nested_category": "Finance Fundamentals",
+    "rank": 3
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance",
+    "nested_category": "Investment Banking",
+    "rank": 4
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance",
+    "nested_category": "Financial Analysis",
+    "rank": 5
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance",
+    "nested_category": "Behavioral Finance",
+    "rank": 6
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance",
+    "nested_category": "CFA",
+    "rank": 7
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance",
+    "nested_category": "Financial Modeling",
+    "rank": 8
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance",
+    "nested_category": "ChatGPT",
+    "rank": 9
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance Cert & Exam Prep",
+    "nested_category": "CFA",
+    "rank": 1
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance Cert & Exam Prep",
+    "nested_category": "ACCA",
+    "rank": 2
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance Cert & Exam Prep",
+    "nested_category": "Certified Management Accountant (CMA)",
+    "rank": 3
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance Cert & Exam Prep",
+    "nested_category": "Certified Internal Auditor (CIA)",
+    "rank": 4
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance Cert & Exam Prep",
+    "nested_category": "FRM",
+    "rank": 5
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance Cert & Exam Prep",
+    "nested_category": "CPA",
+    "rank": 6
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance Cert & Exam Prep",
+    "nested_category": "Quantitative Finance",
+    "rank": 7
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance Cert & Exam Prep",
+    "nested_category": "Stock Trading",
+    "rank": 8
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Finance Cert & Exam Prep",
+    "nested_category": "Finance Fundamentals",
+    "rank": 9
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Financial Modeling & Analysis",
+    "nested_category": "Financial Modeling",
+    "rank": 1
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Financial Modeling & Analysis",
+    "nested_category": "Financial Analysis",
+    "rank": 2
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Financial Modeling & Analysis",
+    "nested_category": "Excel",
+    "rank": 3
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Financial Modeling & Analysis",
+    "nested_category": "Investment Banking",
+    "rank": 4
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Financial Modeling & Analysis",
+    "nested_category": "Valuation",
+    "rank": 5
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Financial Modeling & Analysis",
+    "nested_category": "Corporate Finance",
+    "rank": 6
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Financial Modeling & Analysis",
+    "nested_category": "Python",
+    "rank": 7
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Financial Modeling & Analysis",
+    "nested_category": "Financial Accounting",
+    "rank": 8
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Financial Modeling & Analysis",
+    "nested_category": "Accounting",
+    "rank": 9
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Investing & Trading",
+    "nested_category": "Stock Trading",
+    "rank": 1
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Investing & Trading",
+    "nested_category": "Investing",
+    "rank": 2
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Investing & Trading",
+    "nested_category": "Technical Analysis",
+    "rank": 3
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Investing & Trading",
+    "nested_category": "Options Trading",
+    "rank": 4
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Investing & Trading",
+    "nested_category": "Day Trading",
+    "rank": 5
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Investing & Trading",
+    "nested_category": "Forex Trading",
+    "rank": 6
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Investing & Trading",
+    "nested_category": "Algorithmic Trading",
+    "rank": 7
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Investing & Trading",
+    "nested_category": "Financial Analysis",
+    "rank": 8
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Investing & Trading",
+    "nested_category": "Personal Finance",
+    "rank": 9
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Money Management Tools",
+    "nested_category": "QuickBooks Online",
+    "rank": 1
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Money Management Tools",
+    "nested_category": "SAP FICO",
+    "rank": 2
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Money Management Tools",
+    "nested_category": "Excel",
+    "rank": 3
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Money Management Tools",
+    "nested_category": "QuickBooks",
+    "rank": 4
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Money Management Tools",
+    "nested_category": "TallyPrime",
+    "rank": 5
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Money Management Tools",
+    "nested_category": "Xero",
+    "rank": 6
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Money Management Tools",
+    "nested_category": "SAP S/4HANA",
+    "rank": 7
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Money Management Tools",
+    "nested_category": "Financial Modeling",
+    "rank": 8
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Money Management Tools",
+    "nested_category": "Quicken",
+    "rank": 9
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Taxes",
+    "nested_category": "Income Tax",
+    "rank": 1
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Taxes",
+    "nested_category": "Tax Preparation",
+    "rank": 2
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Taxes",
+    "nested_category": "US Tax",
+    "rank": 3
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Taxes",
+    "nested_category": "GST",
+    "rank": 4
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Taxes",
+    "nested_category": "Value Added Tax (VAT)",
+    "rank": 5
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Taxes",
+    "nested_category": "Corporate Tax",
+    "rank": 6
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Taxes",
+    "nested_category": "Accounting",
+    "rank": 7
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Taxes",
+    "nested_category": "Financial Accounting",
+    "rank": 8
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Taxes",
+    "nested_category": "Transfer Pricing",
+    "rank": 9
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Other Finance & Accounting",
+    "nested_category": "Medical Coding",
+    "rank": 1
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Other Finance & Accounting",
+    "nested_category": "Financial Crime",
+    "rank": 2
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Other Finance & Accounting",
+    "nested_category": "Passive Income",
+    "rank": 3
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Other Finance & Accounting",
+    "nested_category": "Algorithmic Trading",
+    "rank": 4
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Other Finance & Accounting",
+    "nested_category": "Technical Analysis",
+    "rank": 5
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Other Finance & Accounting",
+    "nested_category": "Quantitative Finance",
+    "rank": 6
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Other Finance & Accounting",
+    "nested_category": "Real Estate Investing",
+    "rank": 7
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Other Finance & Accounting",
+    "nested_category": "Actuarial Science",
+    "rank": 8
+  },
+  {
+    "main_category": "Finance & Accounting",
+    "subcategory": "Other Finance & Accounting",
+    "nested_category": "Insurance",
+    "rank": 9
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "IT Certifications",
+    "nested_category": "AWS Certified Cloud Practitioner",
+    "rank": 1
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "IT Certifications",
+    "nested_category": "AWS Certified Solutions Architect - Associate",
+    "rank": 2
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "IT Certifications",
+    "nested_category": "CompTIA A+",
+    "rank": 3
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "IT Certifications",
+    "nested_category": "Amazon AWS",
+    "rank": 4
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "IT Certifications",
+    "nested_category": "Cisco CCNA",
+    "rank": 5
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "IT Certifications",
+    "nested_category": "CompTIA Security+",
+    "rank": 6
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "IT Certifications",
+    "nested_category": "Microsoft Azure",
+    "rank": 7
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "IT Certifications",
+    "nested_category": "AWS Certified Developer - Associate",
+    "rank": 8
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "IT Certifications",
+    "nested_category": "Microsoft Certified Azure Fundamentals",
+    "rank": 9
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Network & Security",
+    "nested_category": "Ethical Hacking",
+    "rank": 1
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Network & Security",
+    "nested_category": "Cyber Security",
+    "rank": 2
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Network & Security",
+    "nested_category": "Penetration Testing",
+    "rank": 3
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Network & Security",
+    "nested_category": "CompTIA Security+",
+    "rank": 4
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Network & Security",
+    "nested_category": "Network Security",
+    "rank": 5
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Network & Security",
+    "nested_category": "Cisco CCNA",
+    "rank": 6
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Network & Security",
+    "nested_category": "Information Security",
+    "rank": 7
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Network & Security",
+    "nested_category": "Python",
+    "rank": 8
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Network & Security",
+    "nested_category": "Wireshark",
+    "rank": 9
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Hardware",
+    "nested_category": "PLC",
+    "rank": 1
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Hardware",
+    "nested_category": "Arduino",
+    "rank": 2
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Hardware",
+    "nested_category": "Electronics",
+    "rank": 3
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Hardware",
+    "nested_category": "Raspberry Pi",
+    "rank": 4
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Hardware",
+    "nested_category": "Embedded Systems",
+    "rank": 5
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Hardware",
+    "nested_category": "Microcontroller",
+    "rank": 6
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Hardware",
+    "nested_category": "Embedded C",
+    "rank": 7
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Hardware",
+    "nested_category": "Computer Repair",
+    "rank": 8
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Hardware",
+    "nested_category": "FPGA",
+    "rank": 9
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Operating Systems & Servers",
+    "nested_category": "Linux",
+    "rank": 1
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Operating Systems & Servers",
+    "nested_category": "Linux Administration",
+    "rank": 2
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Operating Systems & Servers",
+    "nested_category": "Windows Server",
+    "rank": 3
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Operating Systems & Servers",
+    "nested_category": "Shell Scripting",
+    "rank": 4
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Operating Systems & Servers",
+    "nested_category": "Docker",
+    "rank": 5
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Operating Systems & Servers",
+    "nested_category": "Unix",
+    "rank": 6
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Operating Systems & Servers",
+    "nested_category": "LPIC-1: Linux Administrator",
+    "rank": 7
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Operating Systems & Servers",
+    "nested_category": "Active Directory",
+    "rank": 8
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Operating Systems & Servers",
+    "nested_category": "Linux Command Line",
+    "rank": 9
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Other IT & Software",
+    "nested_category": "Python",
+    "rank": 1
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Other IT & Software",
+    "nested_category": "Docker",
+    "rank": 2
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Other IT & Software",
+    "nested_category": "Kubernetes",
+    "rank": 3
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Other IT & Software",
+    "nested_category": "ChatGPT",
+    "rank": 4
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Other IT & Software",
+    "nested_category": "DevOps",
+    "rank": 5
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Other IT & Software",
+    "nested_category": "Ethical Hacking",
+    "rank": 6
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Other IT & Software",
+    "nested_category": "Java",
+    "rank": 7
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Other IT & Software",
+    "nested_category": "AWS Certified Solutions Architect - Associate",
+    "rank": 8
+  },
+  {
+    "main_category": "IT & Software",
+    "subcategory": "Other IT & Software",
+    "nested_category": "SQL",
+    "rank": 9
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Microsoft",
+    "nested_category": "Excel",
+    "rank": 1
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Microsoft",
+    "nested_category": "Microsoft Office",
+    "rank": 2
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Microsoft",
+    "nested_category": "PowerPoint",
+    "rank": 3
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Microsoft",
+    "nested_category": "Microsoft 365",
+    "rank": 4
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Microsoft",
+    "nested_category": "Outlook",
+    "rank": 5
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Microsoft",
+    "nested_category": "Microsoft Word",
+    "rank": 6
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Microsoft",
+    "nested_category": "OneNote",
+    "rank": 7
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Microsoft",
+    "nested_category": "Access",
+    "rank": 8
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Microsoft",
+    "nested_category": "Pivot Tables",
+    "rank": 9
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Apple",
+    "nested_category": "Numbers",
+    "rank": 1
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Apple",
+    "nested_category": "Mac Basics",
+    "rank": 2
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Apple",
+    "nested_category": "Keynote",
+    "rank": 3
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Apple",
+    "nested_category": "Pages",
+    "rank": 4
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Apple",
+    "nested_category": "iMovie",
+    "rank": 5
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Apple",
+    "nested_category": "macOS",
+    "rank": 6
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Apple",
+    "nested_category": "Apple Watch",
+    "rank": 7
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Apple",
+    "nested_category": "iPad Business",
+    "rank": 8
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Apple",
+    "nested_category": "iPhone Business",
+    "rank": 9
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Google",
+    "nested_category": "Google Sheets",
+    "rank": 1
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Google",
+    "nested_category": "Google Workspace (G Suite)",
+    "rank": 2
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Google",
+    "nested_category": "Google Apps",
+    "rank": 3
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Google",
+    "nested_category": "Google Drive",
+    "rank": 4
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Google",
+    "nested_category": "Gmail",
+    "rank": 5
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Google",
+    "nested_category": "Google Calendar",
+    "rank": 6
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Google",
+    "nested_category": "Google Docs",
+    "rank": 7
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Google",
+    "nested_category": "Google Forms",
+    "rank": 8
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Google",
+    "nested_category": "Google Looker Studio",
+    "rank": 9
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "SAP",
+    "nested_category": "SAP ERP",
+    "rank": 1
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "SAP",
+    "nested_category": "SAP S/4HANA",
+    "rank": 2
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "SAP",
+    "nested_category": "SAP ABAP",
+    "rank": 3
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "SAP",
+    "nested_category": "SAP FICO",
+    "rank": 4
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "SAP",
+    "nested_category": "SAP SD",
+    "rank": 5
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "SAP",
+    "nested_category": "SAP MM",
+    "rank": 6
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "SAP",
+    "nested_category": "SAP HCM",
+    "rank": 7
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "SAP",
+    "nested_category": "SAP BASIS",
+    "rank": 8
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "SAP",
+    "nested_category": "SAP Business One",
+    "rank": 9
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Oracle",
+    "nested_category": "Oracle SQL",
+    "rank": 1
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Oracle",
+    "nested_category": "Oracle Database",
+    "rank": 2
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Oracle",
+    "nested_category": "Oracle PL/SQL",
+    "rank": 3
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Oracle",
+    "nested_category": "Oracle Primavera",
+    "rank": 4
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Oracle",
+    "nested_category": "Oracle E-Business Suite",
+    "rank": 5
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Oracle",
+    "nested_category": "Oracle Fusion Cloud",
+    "rank": 6
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Oracle",
+    "nested_category": "Oracle EBS R12",
+    "rank": 7
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Oracle",
+    "nested_category": "PeopleSoft",
+    "rank": 8
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Oracle",
+    "nested_category": "JD Edwards",
+    "rank": 9
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Other Office Productivity",
+    "nested_category": "ChatGPT",
+    "rank": 1
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Other Office Productivity",
+    "nested_category": "Artificial Intelligence (AI)",
+    "rank": 2
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Other Office Productivity",
+    "nested_category": "Typing",
+    "rank": 3
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Other Office Productivity",
+    "nested_category": "Python",
+    "rank": 4
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Other Office Productivity",
+    "nested_category": "Prompt Engineering",
+    "rank": 5
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Other Office Productivity",
+    "nested_category": "Generative AI (GenAI)",
+    "rank": 6
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Other Office Productivity",
+    "nested_category": "QuickBooks Online",
+    "rank": 7
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Other Office Productivity",
+    "nested_category": "Notary Business",
+    "rank": 8
+  },
+  {
+    "main_category": "Office Productivity",
+    "subcategory": "Other Office Productivity",
+    "nested_category": "Construction Estimation",
+    "rank": 9
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Motivation",
+    "nested_category": "Motivation",
+    "rank": 1
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Motivation",
+    "nested_category": "Life Coaching",
+    "rank": 2
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Motivation",
+    "nested_category": "Neuro-Linguistic Programming (NLP)",
+    "rank": 3
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Motivation",
+    "nested_category": "Personal Development",
+    "rank": 4
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Motivation",
+    "nested_category": "Confidence",
+    "rank": 5
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Motivation",
+    "nested_category": "Self-Discipline",
+    "rank": 6
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Motivation",
+    "nested_category": "Goal Setting",
+    "rank": 7
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Motivation",
+    "nested_category": "Habits",
+    "rank": 8
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Motivation",
+    "nested_category": "Procrastination",
+    "rank": 9
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Personal Productivity",
+    "nested_category": "Time Management",
+    "rank": 1
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Personal Productivity",
+    "nested_category": "Personal Productivity",
+    "rank": 2
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Personal Productivity",
+    "nested_category": "Focus Mastery",
+    "rank": 3
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Personal Productivity",
+    "nested_category": "ChatGPT",
+    "rank": 4
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Personal Productivity",
+    "nested_category": "Speed Reading",
+    "rank": 5
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Personal Productivity",
+    "nested_category": "Procrastination",
+    "rank": 6
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Personal Productivity",
+    "nested_category": "Organization",
+    "rank": 7
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Personal Productivity",
+    "nested_category": "Goal Setting",
+    "rank": 8
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Personal Productivity",
+    "nested_category": "Notion",
+    "rank": 9
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Leadership",
+    "nested_category": "Leadership",
+    "rank": 1
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Leadership",
+    "nested_category": "Management Skills",
+    "rank": 2
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Leadership",
+    "nested_category": "Communication Skills",
+    "rank": 3
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Leadership",
+    "nested_category": "Public Speaking",
+    "rank": 4
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Leadership",
+    "nested_category": "Emotional Intelligence",
+    "rank": 5
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Leadership",
+    "nested_category": "Strategic Thinking",
+    "rank": 6
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Leadership",
+    "nested_category": "Team Building",
+    "rank": 7
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Leadership",
+    "nested_category": "Project Management",
+    "rank": 8
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Leadership",
+    "nested_category": "Conflict Management",
+    "rank": 9
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Career Development",
+    "nested_category": "Resume Writing",
+    "rank": 1
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Career Development",
+    "nested_category": "Interviewing Skills",
+    "rank": 2
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Career Development",
+    "nested_category": "Job Search",
+    "rank": 3
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Career Development",
+    "nested_category": "LinkedIn",
+    "rank": 4
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Career Development",
+    "nested_category": "Business Communication",
+    "rank": 5
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Career Development",
+    "nested_category": "Career Coaching",
+    "rank": 6
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Career Development",
+    "nested_category": "Business Writing",
+    "rank": 7
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Career Development",
+    "nested_category": "Freelancing",
+    "rank": 8
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Career Development",
+    "nested_category": "Personal Branding",
+    "rank": 9
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Parenting & Relationships",
+    "nested_category": "Parenting",
+    "rank": 1
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Parenting & Relationships",
+    "nested_category": "Relationship Building",
+    "rank": 2
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Parenting & Relationships",
+    "nested_category": "Couples Counseling",
+    "rank": 3
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Parenting & Relationships",
+    "nested_category": "Child Psychology",
+    "rank": 4
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Parenting & Relationships",
+    "nested_category": "Marriage",
+    "rank": 5
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Parenting & Relationships",
+    "nested_category": "Conflict Management",
+    "rank": 6
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Parenting & Relationships",
+    "nested_category": "Early Childhood Education",
+    "rank": 7
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Parenting & Relationships",
+    "nested_category": "Communication Skills",
+    "rank": 8
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Parenting & Relationships",
+    "nested_category": "Love",
+    "rank": 9
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Happiness",
+    "nested_category": "Life Coaching",
+    "rank": 1
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Happiness",
+    "nested_category": "Mindfulness",
+    "rank": 2
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Happiness",
+    "nested_category": "Positive Psychology",
+    "rank": 3
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Happiness",
+    "nested_category": "CBT Cognitive Behavioral Therapy",
+    "rank": 4
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Happiness",
+    "nested_category": "Gratitude",
+    "rank": 5
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Happiness",
+    "nested_category": "Manifestation",
+    "rank": 6
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Happiness",
+    "nested_category": "Emotional Intelligence",
+    "rank": 7
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Happiness",
+    "nested_category": "Self-Care",
+    "rank": 8
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Happiness",
+    "nested_category": "Law of Attraction",
+    "rank": 9
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Religion & Spirituality",
+    "nested_category": "Spirituality",
+    "rank": 1
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Religion & Spirituality",
+    "nested_category": "Mindfulness",
+    "rank": 2
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Religion & Spirituality",
+    "nested_category": "Meditation",
+    "rank": 3
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Religion & Spirituality",
+    "nested_category": "Bible",
+    "rank": 4
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Religion & Spirituality",
+    "nested_category": "Christianity",
+    "rank": 5
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Religion & Spirituality",
+    "nested_category": "Religious Studies",
+    "rank": 6
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Religion & Spirituality",
+    "nested_category": "Yoga",
+    "rank": 7
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Religion & Spirituality",
+    "nested_category": "Kabbalah",
+    "rank": 8
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Religion & Spirituality",
+    "nested_category": "Islam",
+    "rank": 9
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Creativity",
+    "nested_category": "Writing",
+    "rank": 1
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Creativity",
+    "nested_category": "Creative Writing",
+    "rank": 2
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Creativity",
+    "nested_category": "Storytelling",
+    "rank": 3
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Creativity",
+    "nested_category": "Screenwriting",
+    "rank": 4
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Creativity",
+    "nested_category": "Drawing",
+    "rank": 5
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Creativity",
+    "nested_category": "Design Thinking",
+    "rank": 6
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Creativity",
+    "nested_category": "Art Therapy",
+    "rank": 7
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Creativity",
+    "nested_category": "Innovation",
+    "rank": 8
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Creativity",
+    "nested_category": "Photography",
+    "rank": 9
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Influence",
+    "nested_category": "Public Speaking",
+    "rank": 1
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Influence",
+    "nested_category": "Communication Skills",
+    "rank": 2
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Influence",
+    "nested_category": "Persuasion",
+    "rank": 3
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Influence",
+    "nested_category": "Negotiation",
+    "rank": 4
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Influence",
+    "nested_category": "Body Language",
+    "rank": 5
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Influence",
+    "nested_category": "Storytelling",
+    "rank": 6
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Influence",
+    "nested_category": "Assertiveness",
+    "rank": 7
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Influence",
+    "nested_category": "Presentation Skills",
+    "rank": 8
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Influence",
+    "nested_category": "Sales Skills",
+    "rank": 9
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Self Esteem & Confidence",
+    "nested_category": "Confidence",
+    "rank": 1
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Self Esteem & Confidence",
+    "nested_category": "Self-Esteem",
+    "rank": 2
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Self Esteem & Confidence",
+    "nested_category": "Communication Skills",
+    "rank": 3
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Self Esteem & Confidence",
+    "nested_category": "Social Skills",
+    "rank": 4
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Self Esteem & Confidence",
+    "nested_category": "Public Speaking",
+    "rank": 5
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Self Esteem & Confidence",
+    "nested_category": "Assertiveness",
+    "rank": 6
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Self Esteem & Confidence",
+    "nested_category": "Body Language",
+    "rank": 7
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Self Esteem & Confidence",
+    "nested_category": "CBT Cognitive Behavioral Therapy",
+    "rank": 8
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Self Esteem & Confidence",
+    "nested_category": "Personal Transformation",
+    "rank": 9
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Stress Management",
+    "nested_category": "Stress Management",
+    "rank": 1
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Stress Management",
+    "nested_category": "Resilience",
+    "rank": 2
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Stress Management",
+    "nested_category": "Anxiety Management",
+    "rank": 3
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Stress Management",
+    "nested_category": "Mindfulness",
+    "rank": 4
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Stress Management",
+    "nested_category": "Emotional Intelligence",
+    "rank": 5
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Stress Management",
+    "nested_category": "Emotional Freedom Technique (EFT)",
+    "rank": 6
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Stress Management",
+    "nested_category": "Breathwork",
+    "rank": 7
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Stress Management",
+    "nested_category": "Burnout Recovery",
+    "rank": 8
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Stress Management",
+    "nested_category": "Meditation",
+    "rank": 9
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Memory & Study Skills",
+    "nested_category": "Speed Reading",
+    "rank": 1
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Memory & Study Skills",
+    "nested_category": "Memory",
+    "rank": 2
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Memory & Study Skills",
+    "nested_category": "Study Skills",
+    "rank": 3
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Memory & Study Skills",
+    "nested_category": "Focus Mastery",
+    "rank": 4
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Memory & Study Skills",
+    "nested_category": "Learning Strategies",
+    "rank": 5
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Memory & Study Skills",
+    "nested_category": "Mind Mapping",
+    "rank": 6
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Memory & Study Skills",
+    "nested_category": "Academic Writing",
+    "rank": 7
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Memory & Study Skills",
+    "nested_category": "Note-taking",
+    "rank": 8
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Memory & Study Skills",
+    "nested_category": "Test Prep",
+    "rank": 9
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Esoteric Practices",
+    "nested_category": "Reiki",
+    "rank": 1
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Esoteric Practices",
+    "nested_category": "Astrology",
+    "rank": 2
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Esoteric Practices",
+    "nested_category": "Tarot Reading",
+    "rank": 3
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Esoteric Practices",
+    "nested_category": "Energy Healing",
+    "rank": 4
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Esoteric Practices",
+    "nested_category": "Psychic",
+    "rank": 5
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Esoteric Practices",
+    "nested_category": "Hypnotherapy",
+    "rank": 6
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Esoteric Practices",
+    "nested_category": "Chakra",
+    "rank": 7
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Esoteric Practices",
+    "nested_category": "Palmistry",
+    "rank": 8
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Esoteric Practices",
+    "nested_category": "Numerology",
+    "rank": 9
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Other Personal Development",
+    "nested_category": "Handwriting Analysis",
+    "rank": 1
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Other Personal Development",
+    "nested_category": "Sound Therapy",
+    "rank": 2
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Other Personal Development",
+    "nested_category": "Mental Health",
+    "rank": 3
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Other Personal Development",
+    "nested_category": "EFT (Emotional Freedom Technique)",
+    "rank": 4
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Other Personal Development",
+    "nested_category": "Life Coaching",
+    "rank": 5
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Other Personal Development",
+    "nested_category": "Resilience",
+    "rank": 6
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Other Personal Development",
+    "nested_category": "Neuro-Linguistic Programming (NLP)",
+    "rank": 7
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Other Personal Development",
+    "nested_category": "Personal Transformation",
+    "rank": 8
+  },
+  {
+    "main_category": "Personal Development",
+    "subcategory": "Other Personal Development",
+    "nested_category": "Freelancing",
+    "rank": 9
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Web Design",
+    "nested_category": "WordPress",
+    "rank": 1
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Web Design",
+    "nested_category": "Figma",
+    "rank": 2
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Web Design",
+    "nested_category": "Web Design",
+    "rank": 3
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Web Design",
+    "nested_category": "User Experience Design",
+    "rank": 4
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Web Design",
+    "nested_category": "Elementor",
+    "rank": 5
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Web Design",
+    "nested_category": "HTML",
+    "rank": 6
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Web Design",
+    "nested_category": "CSS",
+    "rank": 7
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Web Design",
+    "nested_category": "User Interface Design",
+    "rank": 8
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Web Design",
+    "nested_category": "Web Development",
+    "rank": 9
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Graphic Design & Illustration",
+    "nested_category": "Graphic Design",
+    "rank": 1
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Graphic Design & Illustration",
+    "nested_category": "Adobe Photoshop",
+    "rank": 2
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Graphic Design & Illustration",
+    "nested_category": "Adobe Illustrator",
+    "rank": 3
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Graphic Design & Illustration",
+    "nested_category": "Drawing",
+    "rank": 4
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Graphic Design & Illustration",
+    "nested_category": "Canva",
+    "rank": 5
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Graphic Design & Illustration",
+    "nested_category": "Digital Painting",
+    "rank": 6
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Graphic Design & Illustration",
+    "nested_category": "InDesign",
+    "rank": 7
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Graphic Design & Illustration",
+    "nested_category": "Character Design",
+    "rank": 8
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Graphic Design & Illustration",
+    "nested_category": "Logo Design",
+    "rank": 9
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Design Tools",
+    "nested_category": "Adobe Photoshop",
+    "rank": 1
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Design Tools",
+    "nested_category": "Figma",
+    "rank": 2
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Design Tools",
+    "nested_category": "Canva",
+    "rank": 3
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Design Tools",
+    "nested_category": "Adobe Illustrator",
+    "rank": 4
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Design Tools",
+    "nested_category": "AutoCAD",
+    "rank": 5
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Design Tools",
+    "nested_category": "Adobe After Effects",
+    "rank": 6
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Design Tools",
+    "nested_category": "Adobe Premiere Pro",
+    "rank": 7
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Design Tools",
+    "nested_category": "Procreate",
+    "rank": 8
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Design Tools",
+    "nested_category": "SOLIDWORKS",
+    "rank": 9
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "User Experience Design",
+    "nested_category": "User Experience Design",
+    "rank": 1
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "User Experience Design",
+    "nested_category": "Figma",
+    "rank": 2
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "User Experience Design",
+    "nested_category": "User Interface Design",
+    "rank": 3
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "User Experience Design",
+    "nested_category": "Product Design",
+    "rank": 4
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "User Experience Design",
+    "nested_category": "Web Design",
+    "rank": 5
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "User Experience Design",
+    "nested_category": "Adobe XD",
+    "rank": 6
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "User Experience Design",
+    "nested_category": "Usability Testing",
+    "rank": 7
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "User Experience Design",
+    "nested_category": "Design Thinking",
+    "rank": 8
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "User Experience Design",
+    "nested_category": "Mobile App Design",
+    "rank": 9
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Game Design",
+    "nested_category": "Unreal Engine",
+    "rank": 1
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Game Design",
+    "nested_category": "Unity",
+    "rank": 2
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Game Design",
+    "nested_category": "Game Development Fundamentals",
+    "rank": 3
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Game Design",
+    "nested_category": "Blender",
+    "rank": 4
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Game Design",
+    "nested_category": "Pixel Art",
+    "rank": 5
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Game Design",
+    "nested_category": "Level Design",
+    "rank": 6
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Game Design",
+    "nested_category": "C#",
+    "rank": 7
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Game Design",
+    "nested_category": "3D Modeling",
+    "rank": 8
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Game Design",
+    "nested_category": "Digital Painting",
+    "rank": 9
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "3D & Animation",
+    "nested_category": "Blender",
+    "rank": 1
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "3D & Animation",
+    "nested_category": "3D Modeling",
+    "rank": 2
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "3D & Animation",
+    "nested_category": "After Effects",
+    "rank": 3
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "3D & Animation",
+    "nested_category": "Unreal Engine",
+    "rank": 4
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "3D & Animation",
+    "nested_category": "Animation",
+    "rank": 5
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "3D & Animation",
+    "nested_category": "3D Animation",
+    "rank": 6
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "3D & Animation",
+    "nested_category": "ZBrush",
+    "rank": 7
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "3D & Animation",
+    "nested_category": "Character Animation",
+    "rank": 8
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "3D & Animation",
+    "nested_category": "Cinema 4D",
+    "rank": 9
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Fashion Design",
+    "nested_category": "Sewing",
+    "rank": 1
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Fashion Design",
+    "nested_category": "Fashion Design",
+    "rank": 2
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Fashion Design",
+    "nested_category": "Jewelry Design",
+    "rank": 3
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Fashion Design",
+    "nested_category": "Pattern Making (Fashion)",
+    "rank": 4
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Fashion Design",
+    "nested_category": "Adobe Illustrator",
+    "rank": 5
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Fashion Design",
+    "nested_category": "T-Shirt Design",
+    "rank": 6
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Fashion Design",
+    "nested_category": "Sketching",
+    "rank": 7
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Fashion Design",
+    "nested_category": "Clo 3d",
+    "rank": 8
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Fashion Design",
+    "nested_category": "Textile Design",
+    "rank": 9
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Architectural Design",
+    "nested_category": "AutoCAD",
+    "rank": 1
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Architectural Design",
+    "nested_category": "Revit",
+    "rank": 2
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Architectural Design",
+    "nested_category": "SketchUp",
+    "rank": 3
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Architectural Design",
+    "nested_category": "Archicad",
+    "rank": 4
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Architectural Design",
+    "nested_category": "BIM",
+    "rank": 5
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Architectural Design",
+    "nested_category": "Interior Design",
+    "rank": 6
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Architectural Design",
+    "nested_category": "V-Ray",
+    "rank": 7
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Architectural Design",
+    "nested_category": "Reading Blueprints",
+    "rank": 8
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Architectural Design",
+    "nested_category": "3ds Max",
+    "rank": 9
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Interior Design",
+    "nested_category": "Interior Design",
+    "rank": 1
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Interior Design",
+    "nested_category": "SketchUp",
+    "rank": 2
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Interior Design",
+    "nested_category": "Home Staging",
+    "rank": 3
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Interior Design",
+    "nested_category": "Color Theory",
+    "rank": 4
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Interior Design",
+    "nested_category": "Lighting Design",
+    "rank": 5
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Interior Design",
+    "nested_category": "AutoCAD",
+    "rank": 6
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Interior Design",
+    "nested_category": "Feng Shui",
+    "rank": 7
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Interior Design",
+    "nested_category": "3ds Max",
+    "rank": 8
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Interior Design",
+    "nested_category": "Revit",
+    "rank": 9
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Other Design",
+    "nested_category": "Character Design",
+    "rank": 1
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Other Design",
+    "nested_category": "Canva",
+    "rank": 2
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Other Design",
+    "nested_category": "Digital Painting",
+    "rank": 3
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Other Design",
+    "nested_category": "Drawing",
+    "rank": 4
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Other Design",
+    "nested_category": "Color Theory",
+    "rank": 5
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Other Design",
+    "nested_category": "Sustainable Design",
+    "rank": 6
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Other Design",
+    "nested_category": "Design Thinking",
+    "rank": 7
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Other Design",
+    "nested_category": "Portraiture",
+    "rank": 8
+  },
+  {
+    "main_category": "Design",
+    "subcategory": "Other Design",
+    "nested_category": "Geometric Dimensioning and Tolerancing (GD&T)",
+    "rank": 9
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Digital Marketing",
+    "nested_category": "Digital Marketing",
+    "rank": 1
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Digital Marketing",
+    "nested_category": "Google Ads",
+    "rank": 2
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Digital Marketing",
+    "nested_category": "Social Media Marketing",
+    "rank": 3
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Digital Marketing",
+    "nested_category": "Marketing Strategy",
+    "rank": 4
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Digital Marketing",
+    "nested_category": "Search Engine Optimization (SEO)",
+    "rank": 5
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Digital Marketing",
+    "nested_category": "ChatGPT",
+    "rank": 6
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Digital Marketing",
+    "nested_category": "Email Marketing",
+    "rank": 7
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Digital Marketing",
+    "nested_category": "Copywriting",
+    "rank": 8
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Digital Marketing",
+    "nested_category": "Facebook Marketing",
+    "rank": 9
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Search Engine Optimization",
+    "nested_category": "Search Engine Optimization (SEO)",
+    "rank": 1
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Search Engine Optimization",
+    "nested_category": "Local SEO",
+    "rank": 2
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Search Engine Optimization",
+    "nested_category": "Google Business Profile (Google My Business)",
+    "rank": 3
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Search Engine Optimization",
+    "nested_category": "SEO Audit",
+    "rank": 4
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Search Engine Optimization",
+    "nested_category": "Keyword Research",
+    "rank": 5
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Search Engine Optimization",
+    "nested_category": "WordPress SEO",
+    "rank": 6
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Search Engine Optimization",
+    "nested_category": "Content Marketing",
+    "rank": 7
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Search Engine Optimization",
+    "nested_category": "Link Building",
+    "rank": 8
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Search Engine Optimization",
+    "nested_category": "ChatGPT",
+    "rank": 9
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Social Media Marketing",
+    "nested_category": "Social Media Marketing",
+    "rank": 1
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Social Media Marketing",
+    "nested_category": "Instagram Marketing",
+    "rank": 2
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Social Media Marketing",
+    "nested_category": "Facebook Marketing",
+    "rank": 3
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Social Media Marketing",
+    "nested_category": "TikTok Marketing",
+    "rank": 4
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Social Media Marketing",
+    "nested_category": "Social Media Management",
+    "rank": 5
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Social Media Marketing",
+    "nested_category": "LinkedIn Marketing",
+    "rank": 6
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Social Media Marketing",
+    "nested_category": "Facebook Ads",
+    "rank": 7
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Social Media Marketing",
+    "nested_category": "Digital Marketing",
+    "rank": 8
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Social Media Marketing",
+    "nested_category": "Marketing Strategy",
+    "rank": 9
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Branding",
+    "nested_category": "Personal Branding",
+    "rank": 1
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Branding",
+    "nested_category": "Brand Strategy",
+    "rank": 2
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Branding",
+    "nested_category": "YouTube Marketing",
+    "rank": 3
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Branding",
+    "nested_category": "Business Branding",
+    "rank": 4
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Branding",
+    "nested_category": "Logo Design",
+    "rank": 5
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Branding",
+    "nested_category": "Storytelling",
+    "rank": 6
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Branding",
+    "nested_category": "ChatGPT",
+    "rank": 7
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Branding",
+    "nested_category": "Marketing Strategy",
+    "rank": 8
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Branding",
+    "nested_category": "Digital Marketing",
+    "rank": 9
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Fundamentals",
+    "nested_category": "Marketing Strategy",
+    "rank": 1
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Fundamentals",
+    "nested_category": "Copywriting",
+    "rank": 2
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Fundamentals",
+    "nested_category": "Digital Marketing",
+    "rank": 3
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Fundamentals",
+    "nested_category": "Market Research",
+    "rank": 4
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Fundamentals",
+    "nested_category": "Growth Marketing",
+    "rank": 5
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Fundamentals",
+    "nested_category": "Event Planning",
+    "rank": 6
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Fundamentals",
+    "nested_category": "Marketing Management",
+    "rank": 7
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Fundamentals",
+    "nested_category": "Product Marketing",
+    "rank": 8
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Fundamentals",
+    "nested_category": "Neural Marketing",
+    "rank": 9
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Analytics & Automation",
+    "nested_category": "Google Analytics 4 (GA4)",
+    "rank": 1
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Analytics & Automation",
+    "nested_category": "Marketing Analytics",
+    "rank": 2
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Analytics & Automation",
+    "nested_category": "Google Analytics",
+    "rank": 3
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Analytics & Automation",
+    "nested_category": "Google Tag Manager",
+    "rank": 4
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Analytics & Automation",
+    "nested_category": "Marketing Automation",
+    "rank": 5
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Analytics & Automation",
+    "nested_category": "Data Analysis",
+    "rank": 6
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Analytics & Automation",
+    "nested_category": "SQL",
+    "rank": 7
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Analytics & Automation",
+    "nested_category": "HubSpot",
+    "rank": 8
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Marketing Analytics & Automation",
+    "nested_category": "Salesforce",
+    "rank": 9
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Public Relations",
+    "nested_category": "Public Relations",
+    "rank": 1
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Public Relations",
+    "nested_category": "Communication Skills",
+    "rank": 2
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Public Relations",
+    "nested_category": "Media Training",
+    "rank": 3
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Public Relations",
+    "nested_category": "Business Writing",
+    "rank": 4
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Public Relations",
+    "nested_category": "Crisis Management",
+    "rank": 5
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Public Relations",
+    "nested_category": "Writing",
+    "rank": 6
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Public Relations",
+    "nested_category": "Press Release Writing",
+    "rank": 7
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Public Relations",
+    "nested_category": "Storytelling",
+    "rank": 8
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Public Relations",
+    "nested_category": "Personal Branding",
+    "rank": 9
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Paid Advertising",
+    "nested_category": "Google Ads",
+    "rank": 1
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Paid Advertising",
+    "nested_category": "Facebook Ads",
+    "rank": 2
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Paid Advertising",
+    "nested_category": "PPC Advertising",
+    "rank": 3
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Paid Advertising",
+    "nested_category": "Google Ads Search Certification",
+    "rank": 4
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Paid Advertising",
+    "nested_category": "Retargeting Marketing",
+    "rank": 5
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Paid Advertising",
+    "nested_category": "Amazon Advertising",
+    "rank": 6
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Paid Advertising",
+    "nested_category": "TikTok Marketing",
+    "rank": 7
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Paid Advertising",
+    "nested_category": "YouTube Marketing",
+    "rank": 8
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Paid Advertising",
+    "nested_category": "Instagram Marketing",
+    "rank": 9
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Video & Mobile Marketing",
+    "nested_category": "YouTube Marketing",
+    "rank": 1
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Video & Mobile Marketing",
+    "nested_category": "Video Marketing",
+    "rank": 2
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Video & Mobile Marketing",
+    "nested_category": "Mobile Marketing",
+    "rank": 3
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Video & Mobile Marketing",
+    "nested_category": "App Store Optimization (ASO)",
+    "rank": 4
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Video & Mobile Marketing",
+    "nested_category": "Video Editing",
+    "rank": 5
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Video & Mobile Marketing",
+    "nested_category": "TikTok Marketing",
+    "rank": 6
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Video & Mobile Marketing",
+    "nested_category": "YouTube Content Creation",
+    "rank": 7
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Video & Mobile Marketing",
+    "nested_category": "Digital Marketing",
+    "rank": 8
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Video & Mobile Marketing",
+    "nested_category": "Instagram Marketing",
+    "rank": 9
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Content Marketing",
+    "nested_category": "Copywriting",
+    "rank": 1
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Content Marketing",
+    "nested_category": "Content Marketing",
+    "rank": 2
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Content Marketing",
+    "nested_category": "Content Writing",
+    "rank": 3
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Content Marketing",
+    "nested_category": "Blogging",
+    "rank": 4
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Content Marketing",
+    "nested_category": "Business Writing",
+    "rank": 5
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Content Marketing",
+    "nested_category": "Storytelling",
+    "rank": 6
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Content Marketing",
+    "nested_category": "ChatGPT",
+    "rank": 7
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Content Marketing",
+    "nested_category": "Creative Writing",
+    "rank": 8
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Content Marketing",
+    "nested_category": "Ghostwriting",
+    "rank": 9
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Product Marketing",
+    "nested_category": "Product Marketing",
+    "rank": 1
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Product Marketing",
+    "nested_category": "Marketing Strategy",
+    "rank": 2
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Product Marketing",
+    "nested_category": "Product Management",
+    "rank": 3
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Product Marketing",
+    "nested_category": "SaaS Marketing",
+    "rank": 4
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Product Marketing",
+    "nested_category": "Market Research",
+    "rank": 5
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Product Marketing",
+    "nested_category": "Go-to-Market Strategy",
+    "rank": 6
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Product Marketing",
+    "nested_category": "Digital Marketing",
+    "rank": 7
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Product Marketing",
+    "nested_category": "Branding",
+    "rank": 8
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Product Marketing",
+    "nested_category": "Product Launch",
+    "rank": 9
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Affiliate Marketing",
+    "nested_category": "Affiliate Marketing",
+    "rank": 1
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Affiliate Marketing",
+    "nested_category": "ClickBank",
+    "rank": 2
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Affiliate Marketing",
+    "nested_category": "Amazon Affiliate Marketing",
+    "rank": 3
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Affiliate Marketing",
+    "nested_category": "CPA Marketing",
+    "rank": 4
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Affiliate Marketing",
+    "nested_category": "Passive Income",
+    "rank": 5
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Affiliate Marketing",
+    "nested_category": "Digital Marketing",
+    "rank": 6
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Affiliate Marketing",
+    "nested_category": "Niche Marketing",
+    "rank": 7
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Affiliate Marketing",
+    "nested_category": "SEO",
+    "rank": 8
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Affiliate Marketing",
+    "nested_category": "Dropshipping",
+    "rank": 9
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Other Marketing",
+    "nested_category": "Copywriting",
+    "rank": 1
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Other Marketing",
+    "nested_category": "Google Ads",
+    "rank": 2
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Other Marketing",
+    "nested_category": "Artificial Intelligence (AI)",
+    "rank": 3
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Other Marketing",
+    "nested_category": "ChatGPT",
+    "rank": 4
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Other Marketing",
+    "nested_category": "Marketing Strategy",
+    "rank": 5
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Other Marketing",
+    "nested_category": "Real Estate Marketing",
+    "rank": 6
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Other Marketing",
+    "nested_category": "Event Planning",
+    "rank": 7
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Other Marketing",
+    "nested_category": "Sales Skills",
+    "rank": 8
+  },
+  {
+    "main_category": "Marketing",
+    "subcategory": "Other Marketing",
+    "nested_category": "Fundraising",
+    "rank": 9
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Arts & Crafts",
+    "nested_category": "Drawing",
+    "rank": 1
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Arts & Crafts",
+    "nested_category": "Watercolor Painting",
+    "rank": 2
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Arts & Crafts",
+    "nested_category": "Acrylic Painting",
+    "rank": 3
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Arts & Crafts",
+    "nested_category": "Oil Painting",
+    "rank": 4
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Arts & Crafts",
+    "nested_category": "Sketching",
+    "rank": 5
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Arts & Crafts",
+    "nested_category": "Calligraphy",
+    "rank": 6
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Arts & Crafts",
+    "nested_category": "Knitting",
+    "rank": 7
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Arts & Crafts",
+    "nested_category": "Crochet",
+    "rank": 8
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Arts & Crafts",
+    "nested_category": "Woodworking",
+    "rank": 9
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Beauty & Makeup",
+    "nested_category": "Makeup",
+    "rank": 1
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Beauty & Makeup",
+    "nested_category": "Skincare",
+    "rank": 2
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Beauty & Makeup",
+    "nested_category": "Nail Art",
+    "rank": 3
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Beauty & Makeup",
+    "nested_category": "Hair Styling",
+    "rank": 4
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Beauty & Makeup",
+    "nested_category": "Beauty Business",
+    "rank": 5
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Beauty & Makeup",
+    "nested_category": "Cosmetics",
+    "rank": 6
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Beauty & Makeup",
+    "nested_category": "Perfume Making",
+    "rank": 7
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Beauty & Makeup",
+    "nested_category": "Esthetics",
+    "rank": 8
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Beauty & Makeup",
+    "nested_category": "Barbering",
+    "rank": 9
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Food & Beverage",
+    "nested_category": "Cooking",
+    "rank": 1
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Food & Beverage",
+    "nested_category": "Baking",
+    "rank": 2
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Food & Beverage",
+    "nested_category": "Wine",
+    "rank": 3
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Food & Beverage",
+    "nested_category": "Coffee",
+    "rank": 4
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Food & Beverage",
+    "nested_category": "Bartending",
+    "rank": 5
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Food & Beverage",
+    "nested_category": "Cake Decorating",
+    "rank": 6
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Food & Beverage",
+    "nested_category": "Bread Baking",
+    "rank": 7
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Food & Beverage",
+    "nested_category": "Vegan Cooking",
+    "rank": 8
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Food & Beverage",
+    "nested_category": "Chocolate Making",
+    "rank": 9
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Gaming",
+    "nested_category": "Video Games",
+    "rank": 1
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Gaming",
+    "nested_category": "Chess",
+    "rank": 2
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Gaming",
+    "nested_category": "Poker",
+    "rank": 3
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Gaming",
+    "nested_category": "Game Design",
+    "rank": 4
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Gaming",
+    "nested_category": "Esports",
+    "rank": 5
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Gaming",
+    "nested_category": "Minecraft",
+    "rank": 6
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Gaming",
+    "nested_category": "Roblox",
+    "rank": 7
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Gaming",
+    "nested_category": "Open World Games",
+    "rank": 8
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Gaming",
+    "nested_category": "Board Games",
+    "rank": 9
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Home Improvement & Gardening",
+    "nested_category": "Home Improvement",
+    "rank": 1
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Home Improvement & Gardening",
+    "nested_category": "Gardening",
+    "rank": 2
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Home Improvement & Gardening",
+    "nested_category": "DIY",
+    "rank": 3
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Home Improvement & Gardening",
+    "nested_category": "Permaculture",
+    "rank": 4
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Home Improvement & Gardening",
+    "nested_category": "Landscaping",
+    "rank": 5
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Home Improvement & Gardening",
+    "nested_category": "Electrical Wiring",
+    "rank": 6
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Home Improvement & Gardening",
+    "nested_category": "Plumbing",
+    "rank": 7
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Home Improvement & Gardening",
+    "nested_category": "Organic Farming",
+    "rank": 8
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Home Improvement & Gardening",
+    "nested_category": "Carpentry",
+    "rank": 9
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Pet Care & Training",
+    "nested_category": "Dog Training",
+    "rank": 1
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Pet Care & Training",
+    "nested_category": "Dog Behavior",
+    "rank": 2
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Pet Care & Training",
+    "nested_category": "Pet Care",
+    "rank": 3
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Pet Care & Training",
+    "nested_category": "Animal Communication",
+    "rank": 4
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Pet Care & Training",
+    "nested_category": "Veterinary",
+    "rank": 5
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Pet Care & Training",
+    "nested_category": "Cat Care",
+    "rank": 6
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Pet Care & Training",
+    "nested_category": "Horse Care",
+    "rank": 7
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Pet Care & Training",
+    "nested_category": "Bird Care",
+    "rank": 8
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Pet Care & Training",
+    "nested_category": "Aquaponics",
+    "rank": 9
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Travel",
+    "nested_category": "Travel",
+    "rank": 1
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Travel",
+    "nested_category": "Travel Writing",
+    "rank": 2
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Travel",
+    "nested_category": "Travel Photography",
+    "rank": 3
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Travel",
+    "nested_category": "Airbnb Hosting",
+    "rank": 4
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Travel",
+    "nested_category": "Travel Hacking",
+    "rank": 5
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Travel",
+    "nested_category": "Digital Nomad",
+    "rank": 6
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Travel",
+    "nested_category": "Tourism",
+    "rank": 7
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Travel",
+    "nested_category": "Trip Planning",
+    "rank": 8
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Travel",
+    "nested_category": "Travel Tips",
+    "rank": 9
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Other Lifestyle",
+    "nested_category": "Lifestyle",
+    "rank": 1
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Other Lifestyle",
+    "nested_category": "Minimalism",
+    "rank": 2
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Other Lifestyle",
+    "nested_category": "Decluttering",
+    "rank": 3
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Other Lifestyle",
+    "nested_category": "Feng Shui",
+    "rank": 4
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Other Lifestyle",
+    "nested_category": "Life Coach Training",
+    "rank": 5
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Other Lifestyle",
+    "nested_category": "Event Planning",
+    "rank": 6
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Other Lifestyle",
+    "nested_category": "Wedding Planning",
+    "rank": 7
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Other Lifestyle",
+    "nested_category": "Etiquette",
+    "rank": 8
+  },
+  {
+    "main_category": "Lifestyle",
+    "subcategory": "Other Lifestyle",
+    "nested_category": "Embroidery",
+    "rank": 9
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Digital Photography",
+    "rank": 1
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Photography",
+    "rank": 2
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Portrait Photography",
+    "rank": 3
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Landscape Photography",
+    "rank": 4
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Night Photography",
+    "rank": 5
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Street Photography",
+    "rank": 6
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Wildlife Photography",
+    "rank": 7
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Macro Photography",
+    "rank": 8
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Mobile Photography",
+    "rank": 9
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Commercial Photography",
+    "rank": 1
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Product Photography",
+    "rank": 2
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Fashion Photography",
+    "rank": 3
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Architectural Photography",
+    "rank": 4
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Headshot Photography",
+    "rank": 5
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Stock Photography",
+    "rank": 6
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Event Photography",
+    "rank": 7
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Corporate Photography",
+    "rank": 8
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Advertising Photography",
+    "rank": 9
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Video Design",
+    "nested_category": "Video Editing",
+    "rank": 1
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Video Design",
+    "nested_category": "Video Production",
+    "rank": 2
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Video Design",
+    "nested_category": "Filmmaking",
+    "rank": 3
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Video Design",
+    "nested_category": "Adobe Premiere Pro",
+    "rank": 4
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Video Design",
+    "nested_category": "DaVinci Resolve",
+    "rank": 5
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Video Design",
+    "nested_category": "Final Cut Pro",
+    "rank": 6
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Video Design",
+    "nested_category": "After Effects",
+    "rank": 7
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Video Design",
+    "nested_category": "Motion Graphics",
+    "rank": 8
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Video Design",
+    "nested_category": "Cinematography",
+    "rank": 9
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Other Photography & Video",
+    "nested_category": "Artificial Intelligence",
+    "rank": 1
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Other Photography & Video",
+    "nested_category": "Adobe Photoshop",
+    "rank": 2
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Other Photography & Video",
+    "nested_category": "Entrepreneurship Fundamentals",
+    "rank": 3
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Other Photography & Video",
+    "nested_category": "Social Media Marketing",
+    "rank": 4
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Other Photography & Video",
+    "nested_category": "Video Editing",
+    "rank": 5
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Other Photography & Video",
+    "nested_category": "Canva",
+    "rank": 6
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Other Photography & Video",
+    "nested_category": "Digital Marketing",
+    "rank": 7
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Other Photography & Video",
+    "nested_category": "Photography",
+    "rank": 8
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Other Photography & Video",
+    "nested_category": "ChatGPT",
+    "rank": 9
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Fitness",
+    "rank": 1
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Personal Training",
+    "rank": 2
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Yoga",
+    "rank": 3
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Pilates",
+    "rank": 4
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Weight Loss",
+    "rank": 5
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Strength Training",
+    "rank": 6
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Bodybuilding",
+    "rank": 7
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "HIIT",
+    "rank": 8
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Stretching",
+    "rank": 9
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "General Health",
+    "nested_category": "Health",
+    "rank": 1
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "General Health",
+    "nested_category": "Nutrition",
+    "rank": 2
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "General Health",
+    "nested_category": "Wellness",
+    "rank": 3
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "General Health",
+    "nested_category": "Herbalism",
+    "rank": 4
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "General Health",
+    "nested_category": "Aromatherapy",
+    "rank": 5
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "General Health",
+    "nested_category": "Holistic Health",
+    "rank": 6
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "General Health",
+    "nested_category": "Natural Medicine",
+    "rank": 7
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "General Health",
+    "nested_category": "Ayurveda",
+    "rank": 8
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "General Health",
+    "nested_category": "Longevity",
+    "rank": 9
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Sports",
+    "rank": 1
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Martial Arts",
+    "rank": 2
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Boxing",
+    "rank": 3
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "MMA",
+    "rank": 4
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Karate",
+    "rank": 5
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Judo",
+    "rank": 6
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Taekwondo",
+    "rank": 7
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Brazilian Jiu-Jitsu",
+    "rank": 8
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Self-Defense",
+    "rank": 9
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Nutrition & Diet",
+    "nested_category": "Nutrition",
+    "rank": 1
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Nutrition & Diet",
+    "nested_category": "Diet",
+    "rank": 2
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Nutrition & Diet",
+    "nested_category": "Meal Planning",
+    "rank": 3
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Nutrition & Diet",
+    "nested_category": "Sports Nutrition",
+    "rank": 4
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Nutrition & Diet",
+    "nested_category": "Weight Management",
+    "rank": 5
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Nutrition & Diet",
+    "nested_category": "Keto",
+    "rank": 6
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Nutrition & Diet",
+    "nested_category": "Vegan",
+    "rank": 7
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Nutrition & Diet",
+    "nested_category": "Intermittent Fasting",
+    "rank": 8
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Nutrition & Diet",
+    "nested_category": "Supplements",
+    "rank": 9
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Yoga",
+    "rank": 1
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Meditation",
+    "rank": 2
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Pranayama",
+    "rank": 3
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Kundalini",
+    "rank": 4
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Vinyasa",
+    "rank": 5
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Hatha",
+    "rank": 6
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Ashtanga",
+    "rank": 7
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Yin Yoga",
+    "rank": 8
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Restorative Yoga",
+    "rank": 9
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Mental Health",
+    "nested_category": "Mental Health",
+    "rank": 1
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Mental Health",
+    "nested_category": "Anxiety",
+    "rank": 2
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Mental Health",
+    "nested_category": "Depression",
+    "rank": 3
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Mental Health",
+    "nested_category": "Stress Management",
+    "rank": 4
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Mental Health",
+    "nested_category": "CBT",
+    "rank": 5
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Mental Health",
+    "nested_category": "Counseling",
+    "rank": 6
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Mental Health",
+    "nested_category": "Psychology",
+    "rank": 7
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Mental Health",
+    "nested_category": "Mindfulness",
+    "rank": 8
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Mental Health",
+    "nested_category": "Trauma",
+    "rank": 9
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "First Aid",
+    "rank": 1
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "CPR",
+    "rank": 2
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "Workplace Safety",
+    "rank": 3
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "OSHA",
+    "rank": 4
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "Fire Safety",
+    "rank": 5
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "Food Safety",
+    "rank": 6
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "Health & Safety",
+    "rank": 7
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "Emergency Preparedness",
+    "rank": 8
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "Survival Skills",
+    "rank": 9
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Dance",
+    "rank": 1
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Salsa",
+    "rank": 2
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Ballet",
+    "rank": 3
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Hip Hop",
+    "rank": 4
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Belly Dance",
+    "rank": 5
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Tango",
+    "rank": 6
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Bachata",
+    "rank": 7
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Contemporary Dance",
+    "rank": 8
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Ballroom Dance",
+    "rank": 9
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Meditation",
+    "rank": 1
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Mindfulness",
+    "rank": 2
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Breathwork",
+    "rank": 3
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Guided Meditation",
+    "rank": 4
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Transcendental Meditation",
+    "rank": 5
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Sound Healing",
+    "rank": 6
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Yoga Nidra",
+    "rank": 7
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Zen",
+    "rank": 8
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Visualization",
+    "rank": 9
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Massage",
+    "rank": 1
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Reflexology",
+    "rank": 2
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Acupuncture",
+    "rank": 3
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Physiotherapy",
+    "rank": 4
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Occupational Therapy",
+    "rank": 5
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Speech Therapy",
+    "rank": 6
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Chiropractic",
+    "rank": 7
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Sports Medicine",
+    "rank": 8
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Kinesiology",
+    "rank": 9
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Guitar",
+    "rank": 1
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Keyboard Instrument",
+    "rank": 2
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Drums",
+    "rank": 3
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Violin",
+    "rank": 4
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Ukulele",
+    "rank": 5
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Piano",
+    "rank": 6
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Bass Guitar",
+    "rank": 7
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Piano Chords",
+    "rank": 8
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Harmonica",
+    "rank": 9
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Production",
+    "nested_category": "Music Production",
+    "rank": 1
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Production",
+    "nested_category": "Music Mixing",
+    "rank": 2
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Production",
+    "nested_category": "Ableton Live",
+    "rank": 3
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Production",
+    "nested_category": "Music Composition",
+    "rank": 4
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Production",
+    "nested_category": "FL Studio",
+    "rank": 5
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Production",
+    "nested_category": "Audio Production",
+    "rank": 6
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Production",
+    "nested_category": "Sound Design",
+    "rank": 7
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Production",
+    "nested_category": "Songwriting",
+    "rank": 8
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Production",
+    "nested_category": "Music Mastering",
+    "rank": 9
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Fundamentals",
+    "nested_category": "Music Theory",
+    "rank": 1
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Fundamentals",
+    "nested_category": "Singing",
+    "rank": 2
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Fundamentals",
+    "nested_category": "Reading Music",
+    "rank": 3
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Fundamentals",
+    "nested_category": "Ear Training",
+    "rank": 4
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Fundamentals",
+    "nested_category": "Music Composition",
+    "rank": 5
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Fundamentals",
+    "nested_category": "Songwriting",
+    "rank": 6
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Fundamentals",
+    "nested_category": "Improvisation",
+    "rank": 7
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Fundamentals",
+    "nested_category": "Harmony",
+    "rank": 8
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Fundamentals",
+    "nested_category": "Rhythm",
+    "rank": 9
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Singing",
+    "rank": 1
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Voice Training",
+    "rank": 2
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Breathing",
+    "rank": 3
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Vocal Techniques",
+    "rank": 4
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Rapping",
+    "rank": 5
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Beatboxing",
+    "rank": 6
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Voice Acting",
+    "rank": 7
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Voiceover",
+    "rank": 8
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Speech",
+    "rank": 9
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Fingerstyle Guitar",
+    "rank": 1
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Improvisation",
+    "rank": 2
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Music Mixing",
+    "rank": 3
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Music Recording",
+    "rank": 4
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Jazz Piano",
+    "rank": 5
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Blues Guitar",
+    "rank": 6
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Piano Improvisation",
+    "rank": 7
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Guitar Chords",
+    "rank": 8
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Classical Guitar",
+    "rank": 9
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Other Music",
+    "nested_category": "DJ",
+    "rank": 1
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Other Music",
+    "nested_category": "Music Business",
+    "rank": 2
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Other Music",
+    "nested_category": "Music Marketing",
+    "rank": 3
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Other Music",
+    "nested_category": "Concert",
+    "rank": 4
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Other Music",
+    "nested_category": "Live Sound",
+    "rank": 5
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Other Music",
+    "nested_category": "Audio Engineering",
+    "rank": 6
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Other Music",
+    "nested_category": "Music Licensing",
+    "rank": 7
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Other Music",
+    "nested_category": "Music Education",
+    "rank": 8
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Other Music",
+    "nested_category": "Music Therapy",
+    "rank": 9
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Civil Engineering",
+    "rank": 1
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Electrical Engineering",
+    "rank": 2
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Solar Energy",
+    "rank": 3
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Electronics",
+    "rank": 4
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Structural Engineering",
+    "rank": 5
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Mechanical Engineering",
+    "rank": 6
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Control Systems",
+    "rank": 7
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Chemical Engineering",
+    "rank": 8
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Finite Element Analysis (FEA)",
+    "rank": 9
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Humanities",
+    "nested_category": "Psychology",
+    "rank": 1
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Humanities",
+    "nested_category": "Theology",
+    "rank": 2
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Humanities",
+    "nested_category": "Philosophy",
+    "rank": 3
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Humanities",
+    "nested_category": "Creative Writing",
+    "rank": 4
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Humanities",
+    "nested_category": "Sociology",
+    "rank": 5
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Humanities",
+    "nested_category": "English Literature",
+    "rank": 6
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Humanities",
+    "nested_category": "Critical Thinking",
+    "rank": 7
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Humanities",
+    "nested_category": "Art History",
+    "rank": 8
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Humanities",
+    "nested_category": "World History",
+    "rank": 9
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Math",
+    "nested_category": "Statistics",
+    "rank": 1
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Math",
+    "nested_category": "Calculus",
+    "rank": 2
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Math",
+    "nested_category": "Algebra",
+    "rank": 3
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Math",
+    "nested_category": "Linear Algebra",
+    "rank": 4
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Math",
+    "nested_category": "Probability",
+    "rank": 5
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Math",
+    "nested_category": "Discrete Math",
+    "rank": 6
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Math",
+    "nested_category": "Trigonometry",
+    "rank": 7
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Math",
+    "nested_category": "Geometry",
+    "rank": 8
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Math",
+    "nested_category": "Precalculus",
+    "rank": 9
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Science",
+    "nested_category": "Physics",
+    "rank": 1
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Science",
+    "nested_category": "Biology",
+    "rank": 2
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Science",
+    "nested_category": "Chemistry",
+    "rank": 3
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Science",
+    "nested_category": "Anatomy",
+    "rank": 4
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Science",
+    "nested_category": "Organic Chemistry",
+    "rank": 5
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Science",
+    "nested_category": "Microbiology",
+    "rank": 6
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Science",
+    "nested_category": "Genetics",
+    "rank": 7
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Science",
+    "nested_category": "Astronomy",
+    "rank": 8
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Science",
+    "nested_category": "Neuroscience",
+    "rank": 9
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Social Science",
+    "nested_category": "Psychology",
+    "rank": 1
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Social Science",
+    "nested_category": "Research Methods",
+    "rank": 2
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Social Science",
+    "nested_category": "Counseling",
+    "rank": 3
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Social Science",
+    "nested_category": "Sociology",
+    "rank": 4
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Social Science",
+    "nested_category": "Economics Fundamentals",
+    "rank": 5
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Social Science",
+    "nested_category": "International Relations",
+    "rank": 6
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Social Science",
+    "nested_category": "Political Science",
+    "rank": 7
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Social Science",
+    "nested_category": "Law",
+    "rank": 8
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Social Science",
+    "nested_category": "Anthropology",
+    "rank": 9
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "English Language",
+    "rank": 1
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "Spanish Language",
+    "rank": 2
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "German Language",
+    "rank": 3
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "French Language",
+    "rank": 4
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "Japanese Language",
+    "rank": 5
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "Italian Language",
+    "rank": 6
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "Korean Language",
+    "rank": 7
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "Chinese Language",
+    "rank": 8
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "Arabic Language",
+    "rank": 9
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Teacher Training",
+    "nested_category": "Train the Trainer",
+    "rank": 1
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Teacher Training",
+    "nested_category": "Instructional Design",
+    "rank": 2
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Teacher Training",
+    "nested_category": "Teaching Online",
+    "rank": 3
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Teacher Training",
+    "nested_category": "Classroom Management",
+    "rank": 4
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Teacher Training",
+    "nested_category": "Early Childhood Education",
+    "rank": 5
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Teacher Training",
+    "nested_category": "Facilitation",
+    "rank": 6
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Teacher Training",
+    "nested_category": "Presentation Skills",
+    "rank": 7
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Teacher Training",
+    "nested_category": "Education Management",
+    "rank": 8
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Teacher Training",
+    "nested_category": "Art Therapy",
+    "rank": 9
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Test Prep",
+    "nested_category": "IELTS",
+    "rank": 1
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Test Prep",
+    "nested_category": "Digital SAT",
+    "rank": 2
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Test Prep",
+    "nested_category": "TOEFL",
+    "rank": 3
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Test Prep",
+    "nested_category": "GRE",
+    "rank": 4
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Test Prep",
+    "nested_category": "PTE Academic",
+    "rank": 5
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Test Prep",
+    "nested_category": "JLPT",
+    "rank": 6
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Test Prep",
+    "nested_category": "GED",
+    "rank": 7
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Test Prep",
+    "nested_category": "LSAT",
+    "rank": 8
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Test Prep",
+    "nested_category": "GMAT",
+    "rank": 9
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Online Education",
+    "nested_category": "Online Course Creation",
+    "rank": 1
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Online Education",
+    "nested_category": "Teaching Online",
+    "rank": 2
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Online Education",
+    "nested_category": "Instructional Design",
+    "rank": 3
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Online Education",
+    "nested_category": "Udemy",
+    "rank": 4
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Online Education",
+    "nested_category": "Articulate Storyline",
+    "rank": 5
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Online Education",
+    "nested_category": "eLearning",
+    "rank": 6
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Online Education",
+    "nested_category": "Moodle",
+    "rank": 7
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Online Education",
+    "nested_category": "Curriculum Development",
+    "rank": 8
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Online Education",
+    "nested_category": "Webinar",
+    "rank": 9
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Proofreading",
+    "rank": 1
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Medical Coding",
+    "rank": 2
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Steno",
+    "rank": 3
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Research Paper Writing",
+    "rank": 4
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Qualitative Research",
+    "rank": 5
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Academic Writing",
+    "rank": 6
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Medical Terminology",
+    "rank": 7
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Montessori",
+    "rank": 8
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Piano",
+    "rank": 9
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Entrepreneurship",
+    "nested_category": "Entrepreneurship",
+    "rank": 1
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Entrepreneurship",
+    "nested_category": "Business Fundamentals",
+    "rank": 2
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Entrepreneurship",
+    "nested_category": "Freelancing",
+    "rank": 3
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Entrepreneurship",
+    "nested_category": "Business Plan",
+    "rank": 4
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Entrepreneurship",
+    "nested_category": "Startups",
+    "rank": 5
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Entrepreneurship",
+    "nested_category": "ChatGPT",
+    "rank": 6
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Entrepreneurship",
+    "nested_category": "Dropshipping",
+    "rank": 7
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Entrepreneurship",
+    "nested_category": "Shopify",
+    "rank": 8
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Entrepreneurship",
+    "nested_category": "Amazon FBA",
+    "rank": 9
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Communication",
+    "nested_category": "Communication Skills",
+    "rank": 1
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Communication",
+    "nested_category": "Public Speaking",
+    "rank": 2
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Communication",
+    "nested_category": "Business Writing",
+    "rank": 3
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Communication",
+    "nested_category": "Presentation Skills",
+    "rank": 4
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Communication",
+    "nested_category": "Assertiveness",
+    "rank": 5
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Communication",
+    "nested_category": "Storytelling",
+    "rank": 6
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Communication",
+    "nested_category": "Technical Writing",
+    "rank": 7
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Communication",
+    "nested_category": "Interpersonal Skills",
+    "rank": 8
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Communication",
+    "nested_category": "Conflict Management",
+    "rank": 9
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Management",
+    "nested_category": "Management Skills",
+    "rank": 1
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Management",
+    "nested_category": "Leadership",
+    "rank": 2
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Management",
+    "nested_category": "Project Management",
+    "rank": 3
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Management",
+    "nested_category": "Product Management",
+    "rank": 4
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Management",
+    "nested_category": "Operations Management",
+    "rank": 5
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Management",
+    "nested_category": "Supply Chain",
+    "rank": 6
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Management",
+    "nested_category": "Quality Management",
+    "rank": 7
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Management",
+    "nested_category": "Strategic Management",
+    "rank": 8
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Management",
+    "nested_category": "ISO",
+    "rank": 9
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Sales",
+    "nested_category": "Sales Skills",
+    "rank": 1
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Sales",
+    "nested_category": "Negotiation",
+    "rank": 2
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Sales",
+    "nested_category": "Customer Service",
+    "rank": 3
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Sales",
+    "nested_category": "Persuasion",
+    "rank": 4
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Sales",
+    "nested_category": "Cold Calling",
+    "rank": 5
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Sales",
+    "nested_category": "B2B Sales",
+    "rank": 6
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Sales",
+    "nested_category": "Sales Management",
+    "rank": 7
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Sales",
+    "nested_category": "Lead Generation",
+    "rank": 8
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Sales",
+    "nested_category": "Salesforce",
+    "rank": 9
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Strategy",
+    "nested_category": "Business Strategy",
+    "rank": 1
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Strategy",
+    "nested_category": "Digital Transformation",
+    "rank": 2
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Strategy",
+    "nested_category": "Management Consulting",
+    "rank": 3
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Strategy",
+    "nested_category": "Business Analysis",
+    "rank": 4
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Strategy",
+    "nested_category": "Strategic Planning",
+    "rank": 5
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Strategy",
+    "nested_category": "Change Management",
+    "rank": 6
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Strategy",
+    "nested_category": "Innovation",
+    "rank": 7
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Strategy",
+    "nested_category": "Game Theory",
+    "rank": 8
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Strategy",
+    "nested_category": "SWOT Analysis",
+    "rank": 9
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Operations",
+    "nested_category": "Supply Chain",
+    "rank": 1
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Operations",
+    "nested_category": "Six Sigma",
+    "rank": 2
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Operations",
+    "nested_category": "Logistics Management",
+    "rank": 3
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Operations",
+    "nested_category": "Quality Management",
+    "rank": 4
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Operations",
+    "nested_category": "Operations Management",
+    "rank": 5
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Operations",
+    "nested_category": "Lean",
+    "rank": 6
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Operations",
+    "nested_category": "Inventory Management",
+    "rank": 7
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Operations",
+    "nested_category": "Purchasing",
+    "rank": 8
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Operations",
+    "nested_category": "SAP MM",
+    "rank": 9
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Project Management",
+    "nested_category": "Project Management",
+    "rank": 1
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Project Management",
+    "nested_category": "PMP",
+    "rank": 2
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Project Management",
+    "nested_category": "Agile",
+    "rank": 3
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Project Management",
+    "nested_category": "Scrum",
+    "rank": 4
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Project Management",
+    "nested_category": "PRINCE2",
+    "rank": 5
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Project Management",
+    "nested_category": "CAPM",
+    "rank": 6
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Project Management",
+    "nested_category": "Project Planning",
+    "rank": 7
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Project Management",
+    "nested_category": "Microsoft Project",
+    "rank": 8
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Project Management",
+    "nested_category": "JIRA",
+    "rank": 9
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Law",
+    "nested_category": "Business Law",
+    "rank": 1
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Law",
+    "nested_category": "Contract Law",
+    "rank": 2
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Law",
+    "nested_category": "Intellectual Property",
+    "rank": 3
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Law",
+    "nested_category": "GDPR",
+    "rank": 4
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Law",
+    "nested_category": "Employment Law",
+    "rank": 5
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Law",
+    "nested_category": "Corporate Governance",
+    "rank": 6
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Law",
+    "nested_category": "Patent",
+    "rank": 7
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Law",
+    "nested_category": "Ethics",
+    "rank": 8
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Law",
+    "nested_category": "Medical Law",
+    "rank": 9
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Intelligence",
+    "nested_category": "Business Intelligence",
+    "rank": 1
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Intelligence",
+    "nested_category": "SQL",
+    "rank": 2
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Intelligence",
+    "nested_category": "Power BI",
+    "rank": 3
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Intelligence",
+    "nested_category": "Tableau",
+    "rank": 4
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Intelligence",
+    "nested_category": "Data Analysis",
+    "rank": 5
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Intelligence",
+    "nested_category": "Microsoft Excel",
+    "rank": 6
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Intelligence",
+    "nested_category": "Google Looker Studio",
+    "rank": 7
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Intelligence",
+    "nested_category": "Data Modeling",
+    "rank": 8
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Business Intelligence",
+    "nested_category": "Alteryx",
+    "rank": 9
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Human Resources",
+    "nested_category": "Human Resources",
+    "rank": 1
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Human Resources",
+    "nested_category": "Recruitment",
+    "rank": 2
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Human Resources",
+    "nested_category": "Instructional Design",
+    "rank": 3
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Human Resources",
+    "nested_category": "Talent Management",
+    "rank": 4
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Human Resources",
+    "nested_category": "Emotional Intelligence",
+    "rank": 5
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Human Resources",
+    "nested_category": "Payroll",
+    "rank": 6
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Human Resources",
+    "nested_category": "Employment Law",
+    "rank": 7
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Human Resources",
+    "nested_category": "Performance Management",
+    "rank": 8
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Human Resources",
+    "nested_category": "Training and Development",
+    "rank": 9
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Other Business",
+    "nested_category": "Real Estate Investing",
+    "rank": 1
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Other Business",
+    "nested_category": "Medical Coding",
+    "rank": 2
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Other Business",
+    "nested_category": "Grant Writing",
+    "rank": 3
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Other Business",
+    "nested_category": "Bookkeeping",
+    "rank": 4
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Other Business",
+    "nested_category": "Quickbooks Online",
+    "rank": 5
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Other Business",
+    "nested_category": "Fundraising",
+    "rank": 6
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Other Business",
+    "nested_category": "Construction Estimation",
+    "rank": 7
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Other Business",
+    "nested_category": "Non Profit Management",
+    "rank": 8
+  },
+  {
+    "main_category": "Business",
+    "subcategory": "Other Business",
+    "nested_category": "Amazon AWS",
+    "rank": 9
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Web Development",
+    "nested_category": "JavaScript",
+    "rank": 1
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Web Development",
+    "nested_category": "React JS",
+    "rank": 2
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Web Development",
+    "nested_category": "Angular",
+    "rank": 3
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Web Development",
+    "nested_category": "Node.Js",
+    "rank": 4
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Web Development",
+    "nested_category": "PHP",
+    "rank": 5
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Web Development",
+    "nested_category": "HTML5",
+    "rank": 6
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Web Development",
+    "nested_category": "CSS3",
+    "rank": 7
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Web Development",
+    "nested_category": "Next.js",
+    "rank": 8
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Web Development",
+    "nested_category": "Full Stack Web Development",
+    "rank": 9
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Data Science",
+    "nested_category": "Python",
+    "rank": 1
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Data Science",
+    "nested_category": "Machine Learning",
+    "rank": 2
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Data Science",
+    "nested_category": "Deep Learning",
+    "rank": 3
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Data Science",
+    "nested_category": "Data Analysis",
+    "rank": 4
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Data Science",
+    "nested_category": "Artificial Intelligence (AI)",
+    "rank": 5
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Data Science",
+    "nested_category": "R (Programming Language)",
+    "rank": 6
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Data Science",
+    "nested_category": "Statistics",
+    "rank": 7
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Data Science",
+    "nested_category": "Natural Language Processing (NLP)",
+    "rank": 8
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Data Science",
+    "nested_category": "Neural Networks",
+    "rank": 9
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Mobile Development",
+    "nested_category": "Swift",
+    "rank": 1
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Mobile Development",
+    "nested_category": "Flutter",
+    "rank": 2
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Mobile Development",
+    "nested_category": "React Native",
+    "rank": 3
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Mobile Development",
+    "nested_category": "Android Development",
+    "rank": 4
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Mobile Development",
+    "nested_category": "iOS Development",
+    "rank": 5
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Mobile Development",
+    "nested_category": "Kotlin",
+    "rank": 6
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Mobile Development",
+    "nested_category": "Dart (Programming Language)",
+    "rank": 7
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Mobile Development",
+    "nested_category": "SwiftUI",
+    "rank": 8
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Mobile Development",
+    "nested_category": "Mobile App Development",
+    "rank": 9
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Programming Languages",
+    "nested_category": "Python",
+    "rank": 1
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Programming Languages",
+    "nested_category": "Java",
+    "rank": 2
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Programming Languages",
+    "nested_category": "C#",
+    "rank": 3
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Programming Languages",
+    "nested_category": "C++",
+    "rank": 4
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Programming Languages",
+    "nested_category": "C (Programming Language)",
+    "rank": 5
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Programming Languages",
+    "nested_category": "Rust",
+    "rank": 6
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Programming Languages",
+    "nested_category": "Go (Programming Language)",
+    "rank": 7
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Programming Languages",
+    "nested_category": "Spring Framework",
+    "rank": 8
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Programming Languages",
+    "nested_category": "TypeScript",
+    "rank": 9
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Game Development",
+    "nested_category": "Unity",
+    "rank": 1
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Game Development",
+    "nested_category": "Unreal Engine",
+    "rank": 2
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Game Development",
+    "nested_category": "C#",
+    "rank": 3
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Game Development",
+    "nested_category": "C++",
+    "rank": 4
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Game Development",
+    "nested_category": "Game Development Fundamentals",
+    "rank": 5
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Game Development",
+    "nested_category": "3D Game Development",
+    "rank": 6
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Game Development",
+    "nested_category": "2D Game Development",
+    "rank": 7
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Game Development",
+    "nested_category": "Godot",
+    "rank": 8
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Game Development",
+    "nested_category": "Unreal Engine 5",
+    "rank": 9
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Database Design & Development",
+    "nested_category": "SQL",
+    "rank": 1
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Database Design & Development",
+    "nested_category": "MySQL",
+    "rank": 2
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Database Design & Development",
+    "nested_category": "PostgreSQL",
+    "rank": 3
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Database Design & Development",
+    "nested_category": "MongoDB",
+    "rank": 4
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Database Design & Development",
+    "nested_category": "Oracle SQL",
+    "rank": 5
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Database Design & Development",
+    "nested_category": "Database Management System (DBMS)",
+    "rank": 6
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Database Design & Development",
+    "nested_category": "Apache Kafka",
+    "rank": 7
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Database Design & Development",
+    "nested_category": "Microsoft SQL Server",
+    "rank": 8
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Database Design & Development",
+    "nested_category": "Redis",
+    "rank": 9
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Testing",
+    "nested_category": "Selenium WebDriver",
+    "rank": 1
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Testing",
+    "nested_category": "Software Testing",
+    "rank": 2
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Testing",
+    "nested_category": "Automation Testing",
+    "rank": 3
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Testing",
+    "nested_category": "Java",
+    "rank": 4
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Testing",
+    "nested_category": "API Testing",
+    "rank": 5
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Testing",
+    "nested_category": "QA Testing",
+    "rank": 6
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Testing",
+    "nested_category": "Postman",
+    "rank": 7
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Testing",
+    "nested_category": "Playwright",
+    "rank": 8
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Testing",
+    "nested_category": "Cypress.io",
+    "rank": 9
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Engineering",
+    "nested_category": "Data Structures",
+    "rank": 1
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Engineering",
+    "nested_category": "Algorithms",
+    "rank": 2
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Engineering",
+    "nested_category": "Software Architecture",
+    "rank": 3
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Engineering",
+    "nested_category": "Coding Interview",
+    "rank": 4
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Engineering",
+    "nested_category": "Microservices",
+    "rank": 5
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Engineering",
+    "nested_category": "Design Patterns",
+    "rank": 6
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Engineering",
+    "nested_category": "System Design",
+    "rank": 7
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Engineering",
+    "nested_category": "Clean Code",
+    "rank": 8
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Engineering",
+    "nested_category": "Object Oriented Programming (OOP)",
+    "rank": 9
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Development Tools",
+    "nested_category": "Docker",
+    "rank": 1
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Development Tools",
+    "nested_category": "Kubernetes",
+    "rank": 2
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Development Tools",
+    "nested_category": "Git",
+    "rank": 3
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Development Tools",
+    "nested_category": "DevOps",
+    "rank": 4
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Development Tools",
+    "nested_category": "JIRA",
+    "rank": 5
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Development Tools",
+    "nested_category": "Jenkins",
+    "rank": 6
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Development Tools",
+    "nested_category": "Terraform",
+    "rank": 7
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Development Tools",
+    "nested_category": "GitHub",
+    "rank": 8
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Software Development Tools",
+    "nested_category": "Ansible",
+    "rank": 9
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "No-Code Development",
+    "nested_category": "Bubble",
+    "rank": 1
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "No-Code Development",
+    "nested_category": "Webflow",
+    "rank": 2
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "No-Code Development",
+    "nested_category": "WordPress",
+    "rank": 3
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "No-Code Development",
+    "nested_category": "Airtable",
+    "rank": 4
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "No-Code Development",
+    "nested_category": "Zapier",
+    "rank": 5
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "No-Code Development",
+    "nested_category": "Adalo",
+    "rank": 6
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "No-Code Development",
+    "nested_category": "FlutterFlow",
+    "rank": 7
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "No-Code Development",
+    "nested_category": "Glide",
+    "rank": 8
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "No-Code Development",
+    "nested_category": "No-Code App Development",
+    "rank": 9
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Other Development",
+    "nested_category": "Python",
+    "rank": 1
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Other Development",
+    "nested_category": "ChatGPT",
+    "rank": 2
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Other Development",
+    "nested_category": "Artificial Intelligence (AI)",
+    "rank": 3
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Other Development",
+    "nested_category": "Generative AI (GenAI)",
+    "rank": 4
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Other Development",
+    "nested_category": "Prompt Engineering",
+    "rank": 5
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Other Development",
+    "nested_category": "Low-Code Development",
+    "rank": 6
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Other Development",
+    "nested_category": "Blockchain",
+    "rank": 7
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Other Development",
+    "nested_category": "Solidity",
+    "rank": 8
+  },
+  {
+    "main_category": "Development",
+    "subcategory": "Other Development",
+    "nested_category": "Computer Vision",
+    "rank": 9
+  }
+]

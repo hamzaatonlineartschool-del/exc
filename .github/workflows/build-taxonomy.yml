@@ -1,0 +1,28 @@
+name: Build taxonomy workbook
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python scripts/build_taxonomy_workbook.py
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: course-taxonomy
+          path: |
+            dist/Course_Taxonomy_Master.xlsx
+            dist/manifest.json
+            dist/taxonomy.csv
+            dist/taxonomy.json
