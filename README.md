@@ -49,7 +49,7 @@ Use **[`streamlit_app.py`](streamlit_app.py)** as the entry file. Settings:
 | **Branch** | `main` (this project does not use `master`) |
 | **Main file path** | `streamlit_app.py` |
 
-The app reads **`public/manifest.json`**, **`public/taxonomy.json`**, and download binaries from **`public/`**. After taxonomy changes, run the build script, commit `public/` (and `dist/` if you track it), then redeploy.
+The app reads **`public/manifest.json`**, **`public/taxonomy.json`**, and download binaries from **`public/`**. The sidebar documents the **merge + build** steps (same as this README). After taxonomy or Udemy merge changes, run the build script, commit `public/` (and `dist/` if you track it), then redeploy.
 
 ## CI
 

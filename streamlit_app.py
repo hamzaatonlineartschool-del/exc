@@ -28,10 +28,37 @@ def load_taxonomy() -> list[dict]:
     return json.loads(p.read_text(encoding="utf-8"))
 
 
-def main():
-    st.set_page_config(page_title="Course taxonomy", layout="wide")
+def main() -> None:
+    st.set_page_config(
+        page_title="Course taxonomy",
+        layout="wide",
+        initial_sidebar_state="expanded",
+    )
+
+    with st.sidebar:
+        st.header("Update pipeline")
+        st.markdown(
+            """
+1. Edit **`taxonomy_data.py`** or merge Udemy CSVs:
+   ```bash
+   python scripts/merge_udemy_taxonomy.py
+   ```
+2. Rebuild workbook + `public/`:
+   ```bash
+   python scripts/build_taxonomy_workbook.py
+   ```
+3. Commit **`public/`** (and `dist/` if tracked) and push — Streamlit redeploys from the repo.
+            """
+        )
+        if st.button("Clear cached data"):
+            st.cache_data.clear()
+            st.rerun()
+
     st.title("Course taxonomy dashboard")
-    st.caption("Data comes from `public/` in this repo. Re-run `python scripts/build_taxonomy_workbook.py` after editing `taxonomy_data.py`, then commit and push.")
+    st.caption(
+        "Topics load from **`public/taxonomy.json`** and **`public/manifest.json`** in this repository "
+        "(variable-length topic lists per subcategory after Udemy merges)."
+    )
 
     manifest = load_manifest()
     rows = load_taxonomy()
@@ -39,7 +66,7 @@ def main():
     if not manifest or not rows:
         st.error(
             "Missing `public/manifest.json` or `public/taxonomy.json`. "
-            "Run the build script locally, commit outputs, and push."
+            "Run `python scripts/build_taxonomy_workbook.py`, commit `public/`, and redeploy."
         )
         st.stop()
 
@@ -48,40 +75,61 @@ def main():
     unique_nested_names = len({r["nested_category"] for r in rows})
     total_courses = len(rows)
 
+    with st.expander("How counts work", expanded=False):
+        st.markdown(
+            """
+- **Main categories** — distinct top-level names.
+- **Unique subcategories** — distinct *(main, subcategory)* pairs (no double-counting the same pair).
+- **Nested topics (unique names)** — distinct nested topic titles **globally** (e.g. “Python” counted once).
+- **Total courses** — one row per topic placement; the same title under different paths counts again.
+
+Manifest fields `total_courses` / `unique_nested_topic_labels` should match the table above after a fresh build.
+            """
+        )
+
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Main categories", f"{unique_mains:,}")
-    c2.metric("Subcategories", f"{unique_sub_pairs:,}")
+    c2.metric("Unique subcategories", f"{unique_sub_pairs:,}")
     c3.metric("Nested topics (unique names)", f"{unique_nested_names:,}")
     c4.metric("Total courses", f"{total_courses:,}")
-    st.caption(
-        "Deduping: one count per main; one per (main, subcategory) pair; “unique names” = each nested topic title once globally. "
-        "Total courses = every topic row (same title in different paths counts separately)."
-    )
+
+    m_tc = manifest.get("total_courses")
+    m_un = manifest.get("unique_nested_topic_labels")
+    if m_tc is not None and m_un is not None and (m_tc != total_courses or m_un != unique_nested_names):
+        st.warning(
+            f"Manifest totals differ from loaded JSON (manifest: courses={m_tc}, unique nested={m_un}). "
+            "Rebuild and redeploy so `public/` matches."
+        )
+
+    dl1, dl2, dl3 = st.columns(3)
+    xlsx_path = PUBLIC / "Course_Taxonomy_Master.xlsx"
+    csv_path = PUBLIC / "taxonomy.csv"
+    json_path = PUBLIC / "taxonomy.json"
 
     st.subheader("Downloads")
-    xlsx_path = PUBLIC / "Course_Taxonomy_Master.xlsx"
     if xlsx_path.is_file():
-        st.download_button(
-            "Download Excel (.xlsx)",
+        dl1.download_button(
+            "Excel (.xlsx)",
             data=xlsx_path.read_bytes(),
             file_name="Course_Taxonomy_Master.xlsx",
             mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            use_container_width=True,
         )
-    csv_path = PUBLIC / "taxonomy.csv"
     if csv_path.is_file():
-        st.download_button(
-            "Download CSV",
+        dl2.download_button(
+            "CSV",
             data=csv_path.read_bytes(),
             file_name="taxonomy.csv",
             mime="text/csv",
+            use_container_width=True,
         )
-    json_path = PUBLIC / "taxonomy.json"
     if json_path.is_file():
-        st.download_button(
-            "Download JSON",
+        dl3.download_button(
+            "JSON",
             data=json_path.read_bytes(),
             file_name="taxonomy.json",
             mime="application/json",
+            use_container_width=True,
         )
 
     st.subheader("Rows per main category")
@@ -116,12 +164,16 @@ def main():
         return True
 
     filtered = [r for r in rows if keep(r)]
-    st.caption(f"Showing **{len(filtered):,}** of **{len(rows):,}** rows · Built (UTC): `{manifest.get('built_at', '—')}`")
+    st.caption(
+        f"Showing **{len(filtered):,}** of **{len(rows):,}** rows · "
+        f"Built (UTC): `{manifest.get('built_at', '—')}`"
+    )
 
     st.dataframe(
         filtered,
         use_container_width=True,
         hide_index=True,
+        height=min(520, 36 + len(filtered) * 35),
         column_config={
             "rank": st.column_config.NumberColumn("Rank", format="%d"),
             "main_category": "Main category",
