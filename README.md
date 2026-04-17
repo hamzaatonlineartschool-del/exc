@@ -38,6 +38,18 @@ Then open `http://localhost:8765/`.
 
 Enable **GitHub Pages** with source **/public** on your default branch if you want a public URL; rebuild and push (or extend CI) so `taxonomy.json` stays in sync with the workbook.
 
+### Streamlit Community Cloud
+
+Use **[`streamlit_app.py`](streamlit_app.py)** as the entry file. Settings:
+
+| Field | Value |
+|-------|--------|
+| **Repository** | `hamzaatonlineartschool-del/exc` (repo you pushed — not `exce` unless that repo exists and has this code) |
+| **Branch** | `main` (this project does not use `master`) |
+| **Main file path** | `streamlit_app.py` |
+
+The app reads **`public/manifest.json`**, **`public/taxonomy.json`**, and download binaries from **`public/`**. After taxonomy changes, run the build script, commit `public/` (and `dist/` if you track it), then redeploy.
+
 ## CI
 
 GitHub Actions workflow [`.github/workflows/build-taxonomy.yml`](.github/workflows/build-taxonomy.yml) builds on push and uploads **course-taxonomy** artifacts (xlsx, manifest, csv, json).
