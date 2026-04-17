@@ -1,0 +1,119 @@
+Finance & Accounting	Accounting & Bookkeeping
+Finance & Accounting	Compliance
+Finance & Accounting	Cryptocurrency & Blockchain
+Finance & Accounting	Economics
+Finance & Accounting	Finance
+Finance & Accounting	Finance Cert & Exam Prep
+Finance & Accounting	Financial Modeling & Analysis
+Finance & Accounting	Investing & Trading
+Finance & Accounting	Money Management Tools
+Finance & Accounting	Taxes
+Finance & Accounting	Other Finance & Accounting
+IT & Software	IT Certifications
+IT & Software	Network & Security
+IT & Software	Hardware
+IT & Software	Operating Systems & Servers
+IT & Software	Other IT & Software
+Office Productivity	Microsoft
+Office Productivity	Apple
+Office Productivity	Google
+Office Productivity	SAP
+Office Productivity	Oracle
+Office Productivity	Other Office Productivity
+Personal Development	Motivation
+Personal Development	Personal Productivity
+Personal Development	Leadership
+Personal Development	Career Development
+Personal Development	Parenting & Relationships
+Personal Development	Happiness
+Personal Development	Religion & Spirituality
+Personal Development	Creativity
+Personal Development	Influence
+Personal Development	Self Esteem & Confidence
+Personal Development	Stress Management
+Personal Development	Memory & Study Skills
+Personal Development	Esoteric Practices
+Personal Development	Other Personal Development
+Design	Web Design
+Design	Graphic Design & Illustration
+Design	Design Tools
+Design	User Experience Design
+Design	Game Design
+Design	3D & Animation
+Design	Fashion Design
+Design	Architectural Design
+Design	Interior Design
+Design	Other Design
+Marketing	Digital Marketing
+Marketing	Search Engine Optimization
+Marketing	Social Media Marketing
+Marketing	Branding
+Marketing	Marketing Fundamentals
+Marketing	Marketing Analytics & Automation
+Marketing	Public Relations
+Marketing	Paid Advertising
+Marketing	Video & Mobile Marketing
+Marketing	Content Marketing
+Marketing	Product Marketing
+Marketing	Affiliate Marketing
+Marketing	Other Marketing
+Lifestyle	Arts & Crafts
+Lifestyle	Beauty & Makeup
+Lifestyle	Food & Beverage
+Lifestyle	Gaming
+Lifestyle	Home Improvement & Gardening
+Lifestyle	Pet Care & Training
+Lifestyle	Travel
+Lifestyle	Other Lifestyle
+Photography & Video	Digital Photography
+Photography & Video	Commercial Photography
+Photography & Video	Video Design
+Photography & Video	Other Photography & Video
+Health & Fitness	Fitness
+Health & Fitness	General Health
+Health & Fitness	Sports
+Health & Fitness	Nutrition & Diet
+Health & Fitness	Yoga
+Health & Fitness	Mental Health
+Health & Fitness	Safety & First Aid
+Health & Fitness	Dance
+Health & Fitness	Meditation
+Health & Fitness	Other Health & Fitness
+Music	Instruments
+Music	Music Production
+Music	Music Fundamentals
+Music	Vocal
+Music	Music Techniques
+Music	Other Music
+Teaching & Academics	Engineering
+Teaching & Academics	Humanities
+Teaching & Academics	Math
+Teaching & Academics	Science
+Teaching & Academics	Social Science
+Teaching & Academics	Language Learning
+Teaching & Academics	Teacher Training
+Teaching & Academics	Test Prep
+Teaching & Academics	Online Education
+Teaching & Academics	Other Teaching & Academics
+Business	Entrepreneurship
+Business	Communication
+Business	Management
+Business	Sales
+Business	Business Strategy
+Business	Operations
+Business	Project Management
+Business	Business Law
+Business	Business Intelligence
+Business	Human Resources
+Business	Other Business
+Development	Web Development
+Development	Data Science
+Development	Mobile Development
+Development	Programming Languages
+Development	Game Development
+Development	Database Design & Development
+Development	Software Testing
+Development	Software Engineering
+Development	Software Development Tools
+Development	No-Code Development
+Development	Other Development

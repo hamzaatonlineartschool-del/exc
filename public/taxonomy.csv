@@ -611,6 +611,18 @@ Photography & Video,Digital Photography,Street Photography,6
 Photography & Video,Digital Photography,Wildlife Photography,7
 Photography & Video,Digital Photography,Macro Photography,8
 Photography & Video,Digital Photography,Mobile Photography,9
+Photography & Video,Digital Photography,Adobe Photoshop,10
+Photography & Video,Digital Photography,3D Animation,11
+Photography & Video,Digital Photography,Photoshop Retouching,12
+Photography & Video,Digital Photography,Image Editing,13
+Photography & Video,Digital Photography,Adobe Lightroom,14
+Photography & Video,Digital Photography,Digital Camera Functionality,15
+Photography & Video,Digital Photography,GIMP,16
+Photography & Video,Digital Photography,iPhone Photography,17
+Photography & Video,Digital Photography,Affinity Photo,18
+Photography & Video,Digital Photography,Food Photography,19
+Photography & Video,Digital Photography,Flash Photography,20
+Photography & Video,Digital Photography,Nature Photography,21
 Photography & Video,Commercial Photography,Commercial Photography,1
 Photography & Video,Commercial Photography,Product Photography,2
 Photography & Video,Commercial Photography,Fashion Photography,3
@@ -620,6 +632,15 @@ Photography & Video,Commercial Photography,Stock Photography,6
 Photography & Video,Commercial Photography,Event Photography,7
 Photography & Video,Commercial Photography,Corporate Photography,8
 Photography & Video,Commercial Photography,Advertising Photography,9
+Photography & Video,Commercial Photography,Entrepreneurship Fundamentals,10
+Photography & Video,Commercial Photography,Color Theory,11
+Photography & Video,Commercial Photography,Drone and Aerial Photography,12
+Photography & Video,Commercial Photography,Photography Business,13
+Photography & Video,Commercial Photography,Real Estate Photography,14
+Photography & Video,Commercial Photography,Wedding Photography,15
+Photography & Video,Commercial Photography,Architecture Photography,16
+Photography & Video,Commercial Photography,Photography Lighting,17
+Photography & Video,Commercial Photography,Drone Surveying,18
 Photography & Video,Video Design,Video Editing,1
 Photography & Video,Video Design,Video Production,2
 Photography & Video,Video Design,Filmmaking,3
@@ -629,6 +650,13 @@ Photography & Video,Video Design,Final Cut Pro,6
 Photography & Video,Video Design,After Effects,7
 Photography & Video,Video Design,Motion Graphics,8
 Photography & Video,Video Design,Cinematography,9
+Photography & Video,Video Design,Social Media Marketing,10
+Photography & Video,Video Design,Unreal Engine,11
+Photography & Video,Video Design,Adobe After Effects,12
+Photography & Video,Video Design,Video Creation,13
+Photography & Video,Video Design,Videography,14
+Photography & Video,Video Design,CapCut,15
+Photography & Video,Video Design,Color Grading,16
 Photography & Video,Other Photography & Video,Artificial Intelligence,1
 Photography & Video,Other Photography & Video,Adobe Photoshop,2
 Photography & Video,Other Photography & Video,Entrepreneurship Fundamentals,3
@@ -638,6 +666,33 @@ Photography & Video,Other Photography & Video,Canva,6
 Photography & Video,Other Photography & Video,Digital Marketing,7
 Photography & Video,Other Photography & Video,Photography,8
 Photography & Video,Other Photography & Video,ChatGPT,9
+Photography & Video,Other Photography & Video,Artificial Intelligence (AI),10
+Photography & Video,Other Photography & Video,YouTube Audience Growth,11
+Photography & Video,Other Photography & Video,Drone,12
+Photography & Video,Other Photography & Video,Vlogging,13
+Photography & Video,Photography,Photography Composition,1
+Photography & Video,Photography,Portrait Photography,2
+Photography & Video,Photography,Product Photography,3
+Photography & Video,Photography,Digital Photography,4
+Photography & Video,Photography,Street Photography,5
+Photography & Video,Photography,Mobile Photography,6
+Photography & Video,Photography,iPhone Photography,7
+Photography & Video,Photography,Food Photography,8
+Photography & Video,Photography tools,Adobe Lightroom,1
+Photography & Video,Photography tools,Photography,2
+Photography & Video,Photography tools,Digital Camera Functionality,3
+Photography & Video,Photography tools,Image Editing Courses,4
+Photography & Video,Photography tools,Affinity Photo,5
+Photography & Video,Photography tools,Adobe Photoshop,6
+Photography & Video,Photography tools,Darktable,7
+Photography & Video,Photography tools,Photoshop Retouching,8
+Photography & Video,Photography tools,Pixelmator,9
+Photography & Video,Portrait Photography,Photography Lighting,1
+Photography & Video,Portrait Photography,Posing,2
+Photography & Video,Portrait Photography,Photography,3
+Photography & Video,Portrait Photography,Family Portrait Photography,4
+Photography & Video,Portrait Photography,Photoshop Retouching,5
+Photography & Video,Portrait Photography,Digital Camera Functionality,6
 Health & Fitness,Fitness,Fitness,1
 Health & Fitness,Fitness,Personal Training,2
 Health & Fitness,Fitness,Yoga,3
@@ -647,6 +702,19 @@ Health & Fitness,Fitness,Strength Training,6
 Health & Fitness,Fitness,Bodybuilding,7
 Health & Fitness,Fitness,HIIT,8
 Health & Fitness,Fitness,Stretching,9
+Health & Fitness,Fitness,Teacher Training,10
+Health & Fitness,Fitness,Anatomy,11
+Health & Fitness,Fitness,Pregnancy,12
+Health & Fitness,Fitness,Boxing,13
+Health & Fitness,Fitness,Muscle Building,14
+Health & Fitness,Fitness,Personal Trainer Business,15
+Health & Fitness,Fitness,Body Building,16
+Health & Fitness,Fitness,Kettlebell,17
+Health & Fitness,Fitness,Calisthenics,18
+Health & Fitness,Fitness,Somatic Therapy,19
+Health & Fitness,Fitness,Barre Workout,20
+Health & Fitness,Fitness,Home Workout,21
+Health & Fitness,Fitness,Stretching Exercise,22
 Health & Fitness,General Health,Health,1
 Health & Fitness,General Health,Nutrition,2
 Health & Fitness,General Health,Wellness,3
@@ -656,6 +724,12 @@ Health & Fitness,General Health,Holistic Health,6
 Health & Fitness,General Health,Natural Medicine,7
 Health & Fitness,General Health,Ayurveda,8
 Health & Fitness,General Health,Longevity,9
+Health & Fitness,General Health,Massage,10
+Health & Fitness,General Health,Facial Massage,11
+Health & Fitness,General Health,Tai Chi,12
+Health & Fitness,General Health,Reflexology,13
+Health & Fitness,General Health,Physical Therapy,14
+Health & Fitness,General Health,Holistic Medicine,15
 Health & Fitness,Sports,Sports,1
 Health & Fitness,Sports,Martial Arts,2
 Health & Fitness,Sports,Boxing,3
@@ -665,6 +739,21 @@ Health & Fitness,Sports,Judo,6
 Health & Fitness,Sports,Taekwondo,7
 Health & Fitness,Sports,Brazilian Jiu-Jitsu,8
 Health & Fitness,Sports,Self-Defense,9
+Health & Fitness,Sports,Qigong,10
+Health & Fitness,Sports,Sports Coaching,11
+Health & Fitness,Sports,Soccer,12
+Health & Fitness,Sports,Swimming,13
+Health & Fitness,Sports,Basketball,14
+Health & Fitness,Sports,Running,15
+Health & Fitness,Sports,Gymnastics,16
+Health & Fitness,Sports,Golf,17
+Health & Fitness,Sports,Sports Management,18
+Health & Fitness,Sports,Tennis,19
+Health & Fitness,Sports,Sport Psychology,20
+Health & Fitness,Sports,Sports Massage,21
+Health & Fitness,Sports,Biomechanics,22
+Health & Fitness,Sports,Tai Chi,23
+Health & Fitness,Sports,Stretching Exercise,24
 Health & Fitness,Nutrition & Diet,Nutrition,1
 Health & Fitness,Nutrition & Diet,Diet,2
 Health & Fitness,Nutrition & Diet,Meal Planning,3
@@ -674,6 +763,13 @@ Health & Fitness,Nutrition & Diet,Keto,6
 Health & Fitness,Nutrition & Diet,Vegan,7
 Health & Fitness,Nutrition & Diet,Intermittent Fasting,8
 Health & Fitness,Nutrition & Diet,Supplements,9
+Health & Fitness,Nutrition & Diet,Health Coach Training,10
+Health & Fitness,Nutrition & Diet,Dieting,11
+Health & Fitness,Nutrition & Diet,Weight Loss,12
+Health & Fitness,Nutrition & Diet,Gut Health,13
+Health & Fitness,Nutrition & Diet,Hard Analysis & Critical Control,14
+Health & Fitness,Nutrition & Diet,Herbalism,15
+Health & Fitness,Nutrition & Diet,Ketogenic,16
 Health & Fitness,Yoga,Yoga,1
 Health & Fitness,Yoga,Meditation,2
 Health & Fitness,Yoga,Pranayama,3
@@ -683,6 +779,20 @@ Health & Fitness,Yoga,Hatha,6
 Health & Fitness,Yoga,Ashtanga,7
 Health & Fitness,Yoga,Yin Yoga,8
 Health & Fitness,Yoga,Restorative Yoga,9
+Health & Fitness,Yoga,Energy Healing,10
+Health & Fitness,Yoga,Teacher Training,11
+Health & Fitness,Yoga,Breathing Techniques,12
+Health & Fitness,Yoga,Qigong,13
+Health & Fitness,Yoga,Anatomy,14
+Health & Fitness,Yoga,Facial Massage,15
+Health & Fitness,Yoga,Prenatal Yoga,16
+Health & Fitness,Yoga,Face Yoga,17
+Health & Fitness,Yoga,Yoga Sutras,18
+Health & Fitness,Yoga,Chair Yoga,19
+Health & Fitness,Yoga,Ashtanga Yoga,20
+Health & Fitness,Yoga,Power Yoga,21
+Health & Fitness,Yoga,Ayurveda,22
+Health & Fitness,Yoga,Stretching Exercise,23
 Health & Fitness,Mental Health,Mental Health,1
 Health & Fitness,Mental Health,Anxiety,2
 Health & Fitness,Mental Health,Depression,3
@@ -692,6 +802,13 @@ Health & Fitness,Mental Health,Counseling,6
 Health & Fitness,Mental Health,Psychology,7
 Health & Fitness,Mental Health,Mindfulness,8
 Health & Fitness,Mental Health,Trauma,9
+Health & Fitness,Mental Health,Somatic Therapy,10
+Health & Fitness,Mental Health,Cognitive Behavioral Therapy CBT,11
+Health & Fitness,Mental Health,Psychotherapy,12
+Health & Fitness,Mental Health,Trauma Informed Care,13
+Health & Fitness,Mental Health,Sound Therapy,14
+Health & Fitness,Mental Health,Art Therapy,15
+Health & Fitness,Mental Health,Life Coach Training,16
 Health & Fitness,Safety & First Aid,First Aid,1
 Health & Fitness,Safety & First Aid,CPR,2
 Health & Fitness,Safety & First Aid,Workplace Safety,3
@@ -701,6 +818,17 @@ Health & Fitness,Safety & First Aid,Food Safety,6
 Health & Fitness,Safety & First Aid,Health & Safety,7
 Health & Fitness,Safety & First Aid,Emergency Preparedness,8
 Health & Fitness,Safety & First Aid,Survival Skills,9
+Health & Fitness,Safety & First Aid,Workplace Health and Safety,10
+Health & Fitness,Safety & First Aid,Herbalism,11
+Health & Fitness,Safety & First Aid,Grief Healing,12
+Health & Fitness,Safety & First Aid,Nursing,13
+Health & Fitness,Safety & First Aid,ISO 45001,14
+Health & Fitness,Safety & First Aid,Physical Security,15
+Health & Fitness,Safety & First Aid,Driving Lessons,16
+Health & Fitness,Safety & First Aid,Public Health,17
+Health & Fitness,Safety & First Aid,Emergency Management,18
+Health & Fitness,Safety & First Aid,Personal Emergency Preparedness,19
+Health & Fitness,Safety & First Aid,Advanced Trauma Life Support (ATLS),20
 Health & Fitness,Dance,Dance,1
 Health & Fitness,Dance,Salsa,2
 Health & Fitness,Dance,Ballet,3
@@ -710,6 +838,18 @@ Health & Fitness,Dance,Tango,6
 Health & Fitness,Dance,Bachata,7
 Health & Fitness,Dance,Contemporary Dance,8
 Health & Fitness,Dance,Ballroom Dance,9
+Health & Fitness,Dance,Fitness,10
+Health & Fitness,Dance,Belly Dancing,11
+Health & Fitness,Dance,Salsa Dancing,12
+Health & Fitness,Dance,Jazz,13
+Health & Fitness,Dance,Indian Dance,14
+Health & Fitness,Dance,Somatic Therapy,15
+Health & Fitness,Dance,Tango Dance,16
+Health & Fitness,Dance,Street Dance,17
+Health & Fitness,Dance,Breakdancing,18
+Health & Fitness,Dance,Poi Spinning,19
+Health & Fitness,Dance,Hip Hop Dancing,20
+Health & Fitness,Dance,Barre Workout,21
 Health & Fitness,Meditation,Meditation,1
 Health & Fitness,Meditation,Mindfulness,2
 Health & Fitness,Meditation,Breathwork,3
@@ -719,6 +859,21 @@ Health & Fitness,Meditation,Sound Healing,6
 Health & Fitness,Meditation,Yoga Nidra,7
 Health & Fitness,Meditation,Zen,8
 Health & Fitness,Meditation,Visualization,9
+Health & Fitness,Meditation,Yoga,10
+Health & Fitness,Meditation,Stress Management,11
+Health & Fitness,Meditation,Energy Healing,12
+Health & Fitness,Meditation,Emotional Intelligence,13
+Health & Fitness,Meditation,Reiki,14
+Health & Fitness,Meditation,Mental Health,15
+Health & Fitness,Meditation,Chakra,16
+Health & Fitness,Meditation,Breathing Techniques,17
+Health & Fitness,Meditation,Qigong,18
+Health & Fitness,Meditation,Counseling,19
+Health & Fitness,Meditation,Sound Therapy,20
+Health & Fitness,Meditation,Kundalini,21
+Health & Fitness,Meditation,Somatic Therapy,22
+Health & Fitness,Meditation,Astral Projection,23
+Health & Fitness,Meditation,Spiritual Healing,24
 Health & Fitness,Other Health & Fitness,Massage,1
 Health & Fitness,Other Health & Fitness,Reflexology,2
 Health & Fitness,Other Health & Fitness,Acupuncture,3
@@ -728,6 +883,40 @@ Health & Fitness,Other Health & Fitness,Speech Therapy,6
 Health & Fitness,Other Health & Fitness,Chiropractic,7
 Health & Fitness,Other Health & Fitness,Sports Medicine,8
 Health & Fitness,Other Health & Fitness,Kinesiology,9
+Health & Fitness,Other Health & Fitness,Meditation,10
+Health & Fitness,Other Health & Fitness,Fitness,11
+Health & Fitness,Other Health & Fitness,Beauty,12
+Health & Fitness,Other Health & Fitness,Skincare,13
+Health & Fitness,Other Health & Fitness,Qigong,14
+Health & Fitness,Other Health & Fitness,EFT (Emotional Freedom Techniques),15
+Health & Fitness,Other Health & Fitness,Compliance Management,16
+Health & Fitness,Other Health & Fitness,Pilates,17
+Health & Fitness,Other Health & Fitness,Facial Massage,18
+Health & Fitness,Other Health & Fitness,Medical Terminology,19
+Health & Fitness,Other Health & Fitness,Medical Coding,20
+Health & Fitness,Other Health & Fitness,Face Yoga,21
+Health & Fitness,Other Health & Fitness,Sports Massage,22
+Health & Fitness,Other Health & Fitness,Kinesiology Taping,23
+Health & Fitness,Other Health & Fitness,Stone Massage,24
+Health & Fitness,Other Health & Fitness,Abdominal Massage,25
+Health & Fitness,Martial Arts & Self Defense,Fitness,1
+Health & Fitness,Martial Arts & Self Defense,Martial Arts,2
+Health & Fitness,Martial Arts & Self Defense,Video Production,3
+Health & Fitness,Martial Arts & Self Defense,Self-Defense,4
+Health & Fitness,Martial Arts & Self Defense,Wing Chun,5
+Health & Fitness,Martial Arts & Self Defense,Boxing,6
+Health & Fitness,Martial Arts & Self Defense,Karate,7
+Health & Fitness,Martial Arts & Self Defense,Brazilian Jiu-Jitsu,8
+Health & Fitness,Martial Arts & Self Defense,Krav Maga,9
+Health & Fitness,Martial Arts & Self Defense,Kung Fu,10
+Health & Fitness,Martial Arts & Self Defense,Muay Thai,11
+Health & Fitness,Martial Arts & Self Defense,Taekwondo,12
+Health & Fitness,Martial Arts & Self Defense,Close Combat,13
+Health & Fitness,Martial Arts & Self Defense,Kickboxing,14
+Health & Fitness,Martial Arts & Self Defense,Sword,15
+Health & Fitness,Martial Arts & Self Defense,Jeet Kune Do,16
+Health & Fitness,Martial Arts & Self Defense,Taijutsu,17
+Health & Fitness,Martial Arts & Self Defense,Tai Chi,18
 Music,Instruments,Guitar,1
 Music,Instruments,Keyboard Instrument,2
 Music,Instruments,Drums,3
@@ -737,6 +926,15 @@ Music,Instruments,Piano,6
 Music,Instruments,Bass Guitar,7
 Music,Instruments,Piano Chords,8
 Music,Instruments,Harmonica,9
+Music,Instruments,Flute,10
+Music,Instruments,Blues Guitar,11
+Music,Instruments,Rock Guitar,12
+Music,Instruments,Classical Guitar,13
+Music,Instruments,Fingerstyle Guitar,14
+Music,Instruments,Accordion,15
+Music,Instruments,Saxophone,16
+Music,Instruments,Cello,17
+Music,Instruments,Blues Piano,18
 Music,Music Production,Music Production,1
 Music,Music Production,Music Mixing,2
 Music,Music Production,Ableton Live,3
@@ -746,6 +944,10 @@ Music,Music Production,Audio Production,6
 Music,Music Production,Sound Design,7
 Music,Music Production,Songwriting,8
 Music,Music Production,Music Mastering,9
+Music,Music Production,Beat,10
+Music,Music Production,Audio Engineering,11
+Music,Music Production,Logic Pro,12
+Music,Music Production,Game Music,13
 Music,Music Fundamentals,Music Theory,1
 Music,Music Fundamentals,Singing,2
 Music,Music Fundamentals,Reading Music,3
@@ -755,6 +957,12 @@ Music,Music Fundamentals,Songwriting,6
 Music,Music Fundamentals,Improvisation,7
 Music,Music Fundamentals,Harmony,8
 Music,Music Fundamentals,Rhythm,9
+Music,Music Fundamentals,Piano,10
+Music,Music Fundamentals,Jazz,11
+Music,Music Fundamentals,Electronic Music,12
+Music,Music Fundamentals,Classical Music,13
+Music,Music Fundamentals,ABRSM,14
+Music,Music Fundamentals,Music History,15
 Music,Vocal,Singing,1
 Music,Vocal,Voice Training,2
 Music,Vocal,Breathing,3
@@ -764,6 +972,16 @@ Music,Vocal,Beatboxing,6
 Music,Vocal,Voice Acting,7
 Music,Vocal,Voiceover,8
 Music,Vocal,Speech,9
+Music,Vocal,Breathing Techniques,10
+Music,Vocal,Mindset,11
+Music,Vocal,Quran,12
+Music,Vocal,Percussion Instruction,13
+Music,Vocal,Voice-Over,14
+Music,Vocal,Carnatic Music,15
+Music,Vocal,Raga Music,16
+Music,Vocal,Dragon NaturallySpeaking,17
+Music,Vocal,Acoustic Guitar,18
+Music,Vocal,Music Improvisation,19
 Music,Music Techniques,Fingerstyle Guitar,1
 Music,Music Techniques,Improvisation,2
 Music,Music Techniques,Music Mixing,3
@@ -773,6 +991,16 @@ Music,Music Techniques,Blues Guitar,6
 Music,Music Techniques,Piano Improvisation,7
 Music,Music Techniques,Guitar Chords,8
 Music,Music Techniques,Classical Guitar,9
+Music,Music Techniques,Dj,10
+Music,Music Techniques,Guitar,11
+Music,Music Techniques,Reading Music,12
+Music,Music Techniques,Music Composition,13
+Music,Music Techniques,Piano,14
+Music,Music Techniques,Acoustic Guitar,15
+Music,Music Techniques,Music Theory,16
+Music,Music Techniques,Country Guitar,17
+Music,Music Techniques,Music Improvisation,18
+Music,Music Techniques,Sound Therapy,19
 Music,Other Music,DJ,1
 Music,Other Music,Music Business,2
 Music,Other Music,Music Marketing,3
@@ -782,6 +1010,18 @@ Music,Other Music,Audio Engineering,6
 Music,Other Music,Music Licensing,7
 Music,Other Music,Music Education,8
 Music,Other Music,Music Therapy,9
+Music,Other Music,Acoustics,10
+Music,Other Music,Lyric Writing,11
+Music,Other Music,Djembe,12
+Music,Other Music,Luthiery,13
+Music,Music Software,Logic Pro,1
+Music,Music Software,FL Studio,2
+Music,Music Software,Ableton Live,3
+Music,Music Software,Music Production,4
+Music,Music Software,Dj,5
+Music,Music Software,GarageBand,6
+Music,Music Software,Reaper,7
+Music,Music Software,Music Mixing,8
 Teaching & Academics,Engineering,Civil Engineering,1
 Teaching & Academics,Engineering,Electrical Engineering,2
 Teaching & Academics,Engineering,Solar Energy,3
@@ -791,6 +1031,17 @@ Teaching & Academics,Engineering,Mechanical Engineering,6
 Teaching & Academics,Engineering,Control Systems,7
 Teaching & Academics,Engineering,Chemical Engineering,8
 Teaching & Academics,Engineering,Finite Element Analysis (FEA),9
+Teaching & Academics,Engineering,Electricity,10
+Teaching & Academics,Engineering,Construction,11
+Teaching & Academics,Engineering,Robotics,12
+Teaching & Academics,Engineering,Automotive Engineering,13
+Teaching & Academics,Engineering,Electrical Circuits,14
+Teaching & Academics,Engineering,Aerospace Engineering,15
+Teaching & Academics,Engineering,Power Engineering,16
+Teaching & Academics,Engineering,Computational Fluid Dynamics (CFD),17
+Teaching & Academics,Engineering,Electrical Design,18
+Teaching & Academics,Engineering,Data Center Design,19
+Teaching & Academics,Engineering,HVAC,20
 Teaching & Academics,Humanities,Psychology,1
 Teaching & Academics,Humanities,Theology,2
 Teaching & Academics,Humanities,Philosophy,3
@@ -800,6 +1051,12 @@ Teaching & Academics,Humanities,English Literature,6
 Teaching & Academics,Humanities,Critical Thinking,7
 Teaching & Academics,Humanities,Art History,8
 Teaching & Academics,Humanities,World History,9
+Teaching & Academics,Humanities,Writing,10
+Teaching & Academics,Humanities,History,11
+Teaching & Academics,Humanities,Christianity,12
+Teaching & Academics,Humanities,Statistics,13
+Teaching & Academics,Humanities,The Bible,14
+Teaching & Academics,Humanities,Autism,15
 Teaching & Academics,Math,Statistics,1
 Teaching & Academics,Math,Calculus,2
 Teaching & Academics,Math,Algebra,3
@@ -809,6 +1066,9 @@ Teaching & Academics,Math,Discrete Math,6
 Teaching & Academics,Math,Trigonometry,7
 Teaching & Academics,Math,Geometry,8
 Teaching & Academics,Math,Precalculus,9
+Teaching & Academics,Math,Math,10
+Teaching & Academics,Math,Differential Equations,11
+Teaching & Academics,Math,Large Language Models (LLM),12
 Teaching & Academics,Science,Physics,1
 Teaching & Academics,Science,Biology,2
 Teaching & Academics,Science,Chemistry,3
@@ -818,6 +1078,13 @@ Teaching & Academics,Science,Microbiology,6
 Teaching & Academics,Science,Genetics,7
 Teaching & Academics,Science,Astronomy,8
 Teaching & Academics,Science,Neuroscience,9
+Teaching & Academics,Science,Pharmacology,10
+Teaching & Academics,Science,Quantum Mechanics,11
+Teaching & Academics,Science,Clinical Research,12
+Teaching & Academics,Science,Medical Coding,13
+Teaching & Academics,Science,Pharmaceutical,14
+Teaching & Academics,Science,Certified Professional Coder,15
+Teaching & Academics,Science,Pharmacovigilance,16
 Teaching & Academics,Social Science,Psychology,1
 Teaching & Academics,Social Science,Research Methods,2
 Teaching & Academics,Social Science,Counseling,3
@@ -827,6 +1094,13 @@ Teaching & Academics,Social Science,International Relations,6
 Teaching & Academics,Social Science,Political Science,7
 Teaching & Academics,Social Science,Law,8
 Teaching & Academics,Social Science,Anthropology,9
+Teaching & Academics,Social Science,Economics,10
+Teaching & Academics,Social Science,Geography,11
+Teaching & Academics,Social Science,Criminology,12
+Teaching & Academics,Social Science,Cultural Awareness,13
+Teaching & Academics,Social Science,Intelligence Analysis,14
+Teaching & Academics,Social Science,Macroeconomics,15
+Teaching & Academics,Social Science,Psychotherapy,16
 Teaching & Academics,Language Learning,English Language,1
 Teaching & Academics,Language Learning,Spanish Language,2
 Teaching & Academics,Language Learning,German Language,3
@@ -836,6 +1110,14 @@ Teaching & Academics,Language Learning,Italian Language,6
 Teaching & Academics,Language Learning,Korean Language,7
 Teaching & Academics,Language Learning,Chinese Language,8
 Teaching & Academics,Language Learning,Arabic Language,9
+Teaching & Academics,Language Learning,English Grammar,10
+Teaching & Academics,Language Learning,English Conversation,11
+Teaching & Academics,Language Learning,IELTS,12
+Teaching & Academics,Language Learning,Russian Language,13
+Teaching & Academics,Language Learning,Portuguese Language,14
+Teaching & Academics,Language Learning,Sign Language,15
+Teaching & Academics,Language Learning,TOEFL,16
+Teaching & Academics,Language Learning,Mandarin Chinese Language,17
 Teaching & Academics,Teacher Training,Train the Trainer,1
 Teaching & Academics,Teacher Training,Instructional Design,2
 Teaching & Academics,Teacher Training,Teaching Online,3
@@ -845,6 +1127,11 @@ Teaching & Academics,Teacher Training,Facilitation,6
 Teaching & Academics,Teacher Training,Presentation Skills,7
 Teaching & Academics,Teacher Training,Education Management,8
 Teaching & Academics,Teacher Training,Art Therapy,9
+Teaching & Academics,Teacher Training,ESL,10
+Teaching & Academics,Teacher Training,Montessori,11
+Teaching & Academics,Teacher Training,Workplace Health & Safety,12
+Teaching & Academics,Teacher Training,Autism,13
+Teaching & Academics,Teacher Training,Teaching English,14
 Teaching & Academics,Test Prep,IELTS,1
 Teaching & Academics,Test Prep,Digital SAT,2
 Teaching & Academics,Test Prep,TOEFL,3
@@ -854,6 +1141,13 @@ Teaching & Academics,Test Prep,JLPT,6
 Teaching & Academics,Test Prep,GED,7
 Teaching & Academics,Test Prep,LSAT,8
 Teaching & Academics,Test Prep,GMAT,9
+Teaching & Academics,Test Prep,PMP,10
+Teaching & Academics,Test Prep,SAT,11
+Teaching & Academics,Test Prep,Test Taking Skills,12
+Teaching & Academics,Test Prep,CELPIP,13
+Teaching & Academics,Test Prep,PMI PMBOK,14
+Teaching & Academics,Test Prep,CCAT,15
+Teaching & Academics,Test Prep,Statistics,16
 Teaching & Academics,Online Education,Online Course Creation,1
 Teaching & Academics,Online Education,Teaching Online,2
 Teaching & Academics,Online Education,Instructional Design,3
@@ -863,6 +1157,7 @@ Teaching & Academics,Online Education,eLearning,6
 Teaching & Academics,Online Education,Moodle,7
 Teaching & Academics,Online Education,Curriculum Development,8
 Teaching & Academics,Online Education,Webinar,9
+Teaching & Academics,Online Education,Online Business,10
 Teaching & Academics,Other Teaching & Academics,Proofreading,1
 Teaching & Academics,Other Teaching & Academics,Medical Coding,2
 Teaching & Academics,Other Teaching & Academics,Steno,3
@@ -872,6 +1167,17 @@ Teaching & Academics,Other Teaching & Academics,Academic Writing,6
 Teaching & Academics,Other Teaching & Academics,Medical Terminology,7
 Teaching & Academics,Other Teaching & Academics,Montessori,8
 Teaching & Academics,Other Teaching & Academics,Piano,9
+Teaching & Academics,Other Teaching & Academics,Career Development,10
+Teaching & Academics,Other Teaching & Academics,Study Skills,11
+Teaching & Academics,Other Teaching & Academics,Research Methods,12
+Teaching & Academics,Other Teaching & Academics,Memory,13
+Teaching & Academics,Other Teaching & Academics,Speed Reading,14
+Teaching & Academics,Other Teaching & Academics,Mind Mapping,15
+Teaching & Academics,Other Teaching & Academics,Medical Billing,16
+Teaching & Academics,Other Teaching & Academics,Astrology,17
+Teaching & Academics,Other Teaching & Academics,Construction Estimation,18
+Teaching & Academics,Other Teaching & Academics,Healthcare,19
+Teaching & Academics,Other Teaching & Academics,Good Manufacturing Practice (GMP),20
 Business,Entrepreneurship,Entrepreneurship,1
 Business,Entrepreneurship,Business Fundamentals,2
 Business,Entrepreneurship,Freelancing,3

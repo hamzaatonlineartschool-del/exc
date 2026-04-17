@@ -4,7 +4,8 @@ Single Excel file with a **Master** sheet (all topics) and **one sheet per main 
 
 | Main Category | Subcategory | Nested category | Rank |
 
-- **Source of truth:** [`taxonomy_data.py`](taxonomy_data.py) (`ENTRIES` — each subcategory has nine nested topics).
+- **Source of truth:** [`taxonomy_data.py`](taxonomy_data.py) (`ENTRIES` — variable-length topic lists per subcategory).
+- **Udemy merge:** Put CSV exports in `~/Downloads/` (see filenames in [`scripts/merge_udemy_taxonomy.py`](scripts/merge_udemy_taxonomy.py)), then run `python scripts/merge_udemy_taxonomy.py` and rebuild. New topics are merged with **case-insensitive deduplication**; [`scripts/udemy_merge_baseline_order.txt`](scripts/udemy_merge_baseline_order.txt) preserves category order (from git baseline).
 - **Personal Development:** the **Motivation** subcategory replaces the old *Personal Transformation* list from the original brief.
 
 ## Build locally

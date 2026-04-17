@@ -3673,6 +3673,78 @@
   },
   {
     "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Adobe Photoshop",
+    "rank": 10
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "3D Animation",
+    "rank": 11
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Photoshop Retouching",
+    "rank": 12
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Image Editing",
+    "rank": 13
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Adobe Lightroom",
+    "rank": 14
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Digital Camera Functionality",
+    "rank": 15
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "GIMP",
+    "rank": 16
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "iPhone Photography",
+    "rank": 17
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Affinity Photo",
+    "rank": 18
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Food Photography",
+    "rank": 19
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Flash Photography",
+    "rank": 20
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Digital Photography",
+    "nested_category": "Nature Photography",
+    "rank": 21
+  },
+  {
+    "main_category": "Photography & Video",
     "subcategory": "Commercial Photography",
     "nested_category": "Commercial Photography",
     "rank": 1
@@ -3724,6 +3796,60 @@
     "subcategory": "Commercial Photography",
     "nested_category": "Advertising Photography",
     "rank": 9
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Entrepreneurship Fundamentals",
+    "rank": 10
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Color Theory",
+    "rank": 11
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Drone and Aerial Photography",
+    "rank": 12
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Photography Business",
+    "rank": 13
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Real Estate Photography",
+    "rank": 14
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Wedding Photography",
+    "rank": 15
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Architecture Photography",
+    "rank": 16
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Photography Lighting",
+    "rank": 17
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Commercial Photography",
+    "nested_category": "Drone Surveying",
+    "rank": 18
   },
   {
     "main_category": "Photography & Video",
@@ -3781,6 +3907,48 @@
   },
   {
     "main_category": "Photography & Video",
+    "subcategory": "Video Design",
+    "nested_category": "Social Media Marketing",
+    "rank": 10
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Video Design",
+    "nested_category": "Unreal Engine",
+    "rank": 11
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Video Design",
+    "nested_category": "Adobe After Effects",
+    "rank": 12
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Video Design",
+    "nested_category": "Video Creation",
+    "rank": 13
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Video Design",
+    "nested_category": "Videography",
+    "rank": 14
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Video Design",
+    "nested_category": "CapCut",
+    "rank": 15
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Video Design",
+    "nested_category": "Color Grading",
+    "rank": 16
+  },
+  {
+    "main_category": "Photography & Video",
     "subcategory": "Other Photography & Video",
     "nested_category": "Artificial Intelligence",
     "rank": 1
@@ -3832,6 +4000,168 @@
     "subcategory": "Other Photography & Video",
     "nested_category": "ChatGPT",
     "rank": 9
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Other Photography & Video",
+    "nested_category": "Artificial Intelligence (AI)",
+    "rank": 10
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Other Photography & Video",
+    "nested_category": "YouTube Audience Growth",
+    "rank": 11
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Other Photography & Video",
+    "nested_category": "Drone",
+    "rank": 12
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Other Photography & Video",
+    "nested_category": "Vlogging",
+    "rank": 13
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography",
+    "nested_category": "Photography Composition",
+    "rank": 1
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography",
+    "nested_category": "Portrait Photography",
+    "rank": 2
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography",
+    "nested_category": "Product Photography",
+    "rank": 3
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography",
+    "nested_category": "Digital Photography",
+    "rank": 4
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography",
+    "nested_category": "Street Photography",
+    "rank": 5
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography",
+    "nested_category": "Mobile Photography",
+    "rank": 6
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography",
+    "nested_category": "iPhone Photography",
+    "rank": 7
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography",
+    "nested_category": "Food Photography",
+    "rank": 8
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography tools",
+    "nested_category": "Adobe Lightroom",
+    "rank": 1
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography tools",
+    "nested_category": "Photography",
+    "rank": 2
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography tools",
+    "nested_category": "Digital Camera Functionality",
+    "rank": 3
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography tools",
+    "nested_category": "Image Editing Courses",
+    "rank": 4
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography tools",
+    "nested_category": "Affinity Photo",
+    "rank": 5
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography tools",
+    "nested_category": "Adobe Photoshop",
+    "rank": 6
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography tools",
+    "nested_category": "Darktable",
+    "rank": 7
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography tools",
+    "nested_category": "Photoshop Retouching",
+    "rank": 8
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Photography tools",
+    "nested_category": "Pixelmator",
+    "rank": 9
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Portrait Photography",
+    "nested_category": "Photography Lighting",
+    "rank": 1
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Portrait Photography",
+    "nested_category": "Posing",
+    "rank": 2
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Portrait Photography",
+    "nested_category": "Photography",
+    "rank": 3
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Portrait Photography",
+    "nested_category": "Family Portrait Photography",
+    "rank": 4
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Portrait Photography",
+    "nested_category": "Photoshop Retouching",
+    "rank": 5
+  },
+  {
+    "main_category": "Photography & Video",
+    "subcategory": "Portrait Photography",
+    "nested_category": "Digital Camera Functionality",
+    "rank": 6
   },
   {
     "main_category": "Health & Fitness",
@@ -3889,6 +4219,84 @@
   },
   {
     "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Teacher Training",
+    "rank": 10
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Anatomy",
+    "rank": 11
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Pregnancy",
+    "rank": 12
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Boxing",
+    "rank": 13
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Muscle Building",
+    "rank": 14
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Personal Trainer Business",
+    "rank": 15
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Body Building",
+    "rank": 16
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Kettlebell",
+    "rank": 17
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Calisthenics",
+    "rank": 18
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Somatic Therapy",
+    "rank": 19
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Barre Workout",
+    "rank": 20
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Home Workout",
+    "rank": 21
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Fitness",
+    "nested_category": "Stretching Exercise",
+    "rank": 22
+  },
+  {
+    "main_category": "Health & Fitness",
     "subcategory": "General Health",
     "nested_category": "Health",
     "rank": 1
@@ -3940,6 +4348,42 @@
     "subcategory": "General Health",
     "nested_category": "Longevity",
     "rank": 9
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "General Health",
+    "nested_category": "Massage",
+    "rank": 10
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "General Health",
+    "nested_category": "Facial Massage",
+    "rank": 11
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "General Health",
+    "nested_category": "Tai Chi",
+    "rank": 12
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "General Health",
+    "nested_category": "Reflexology",
+    "rank": 13
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "General Health",
+    "nested_category": "Physical Therapy",
+    "rank": 14
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "General Health",
+    "nested_category": "Holistic Medicine",
+    "rank": 15
   },
   {
     "main_category": "Health & Fitness",
@@ -3997,6 +4441,96 @@
   },
   {
     "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Qigong",
+    "rank": 10
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Sports Coaching",
+    "rank": 11
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Soccer",
+    "rank": 12
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Swimming",
+    "rank": 13
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Basketball",
+    "rank": 14
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Running",
+    "rank": 15
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Gymnastics",
+    "rank": 16
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Golf",
+    "rank": 17
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Sports Management",
+    "rank": 18
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Tennis",
+    "rank": 19
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Sport Psychology",
+    "rank": 20
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Sports Massage",
+    "rank": 21
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Biomechanics",
+    "rank": 22
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Tai Chi",
+    "rank": 23
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Sports",
+    "nested_category": "Stretching Exercise",
+    "rank": 24
+  },
+  {
+    "main_category": "Health & Fitness",
     "subcategory": "Nutrition & Diet",
     "nested_category": "Nutrition",
     "rank": 1
@@ -4048,6 +4582,48 @@
     "subcategory": "Nutrition & Diet",
     "nested_category": "Supplements",
     "rank": 9
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Nutrition & Diet",
+    "nested_category": "Health Coach Training",
+    "rank": 10
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Nutrition & Diet",
+    "nested_category": "Dieting",
+    "rank": 11
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Nutrition & Diet",
+    "nested_category": "Weight Loss",
+    "rank": 12
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Nutrition & Diet",
+    "nested_category": "Gut Health",
+    "rank": 13
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Nutrition & Diet",
+    "nested_category": "Hard Analysis & Critical Control",
+    "rank": 14
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Nutrition & Diet",
+    "nested_category": "Herbalism",
+    "rank": 15
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Nutrition & Diet",
+    "nested_category": "Ketogenic",
+    "rank": 16
   },
   {
     "main_category": "Health & Fitness",
@@ -4105,6 +4681,90 @@
   },
   {
     "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Energy Healing",
+    "rank": 10
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Teacher Training",
+    "rank": 11
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Breathing Techniques",
+    "rank": 12
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Qigong",
+    "rank": 13
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Anatomy",
+    "rank": 14
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Facial Massage",
+    "rank": 15
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Prenatal Yoga",
+    "rank": 16
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Face Yoga",
+    "rank": 17
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Yoga Sutras",
+    "rank": 18
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Chair Yoga",
+    "rank": 19
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Ashtanga Yoga",
+    "rank": 20
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Power Yoga",
+    "rank": 21
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Ayurveda",
+    "rank": 22
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Yoga",
+    "nested_category": "Stretching Exercise",
+    "rank": 23
+  },
+  {
+    "main_category": "Health & Fitness",
     "subcategory": "Mental Health",
     "nested_category": "Mental Health",
     "rank": 1
@@ -4156,6 +4816,48 @@
     "subcategory": "Mental Health",
     "nested_category": "Trauma",
     "rank": 9
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Mental Health",
+    "nested_category": "Somatic Therapy",
+    "rank": 10
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Mental Health",
+    "nested_category": "Cognitive Behavioral Therapy CBT",
+    "rank": 11
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Mental Health",
+    "nested_category": "Psychotherapy",
+    "rank": 12
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Mental Health",
+    "nested_category": "Trauma Informed Care",
+    "rank": 13
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Mental Health",
+    "nested_category": "Sound Therapy",
+    "rank": 14
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Mental Health",
+    "nested_category": "Art Therapy",
+    "rank": 15
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Mental Health",
+    "nested_category": "Life Coach Training",
+    "rank": 16
   },
   {
     "main_category": "Health & Fitness",
@@ -4213,6 +4915,72 @@
   },
   {
     "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "Workplace Health and Safety",
+    "rank": 10
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "Herbalism",
+    "rank": 11
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "Grief Healing",
+    "rank": 12
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "Nursing",
+    "rank": 13
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "ISO 45001",
+    "rank": 14
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "Physical Security",
+    "rank": 15
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "Driving Lessons",
+    "rank": 16
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "Public Health",
+    "rank": 17
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "Emergency Management",
+    "rank": 18
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "Personal Emergency Preparedness",
+    "rank": 19
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Safety & First Aid",
+    "nested_category": "Advanced Trauma Life Support (ATLS)",
+    "rank": 20
+  },
+  {
+    "main_category": "Health & Fitness",
     "subcategory": "Dance",
     "nested_category": "Dance",
     "rank": 1
@@ -4264,6 +5032,78 @@
     "subcategory": "Dance",
     "nested_category": "Ballroom Dance",
     "rank": 9
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Fitness",
+    "rank": 10
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Belly Dancing",
+    "rank": 11
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Salsa Dancing",
+    "rank": 12
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Jazz",
+    "rank": 13
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Indian Dance",
+    "rank": 14
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Somatic Therapy",
+    "rank": 15
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Tango Dance",
+    "rank": 16
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Street Dance",
+    "rank": 17
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Breakdancing",
+    "rank": 18
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Poi Spinning",
+    "rank": 19
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Hip Hop Dancing",
+    "rank": 20
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Dance",
+    "nested_category": "Barre Workout",
+    "rank": 21
   },
   {
     "main_category": "Health & Fitness",
@@ -4321,6 +5161,96 @@
   },
   {
     "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Yoga",
+    "rank": 10
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Stress Management",
+    "rank": 11
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Energy Healing",
+    "rank": 12
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Emotional Intelligence",
+    "rank": 13
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Reiki",
+    "rank": 14
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Mental Health",
+    "rank": 15
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Chakra",
+    "rank": 16
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Breathing Techniques",
+    "rank": 17
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Qigong",
+    "rank": 18
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Counseling",
+    "rank": 19
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Sound Therapy",
+    "rank": 20
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Kundalini",
+    "rank": 21
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Somatic Therapy",
+    "rank": 22
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Astral Projection",
+    "rank": 23
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Meditation",
+    "nested_category": "Spiritual Healing",
+    "rank": 24
+  },
+  {
+    "main_category": "Health & Fitness",
     "subcategory": "Other Health & Fitness",
     "nested_category": "Massage",
     "rank": 1
@@ -4372,6 +5302,210 @@
     "subcategory": "Other Health & Fitness",
     "nested_category": "Kinesiology",
     "rank": 9
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Meditation",
+    "rank": 10
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Fitness",
+    "rank": 11
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Beauty",
+    "rank": 12
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Skincare",
+    "rank": 13
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Qigong",
+    "rank": 14
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "EFT (Emotional Freedom Techniques)",
+    "rank": 15
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Compliance Management",
+    "rank": 16
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Pilates",
+    "rank": 17
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Facial Massage",
+    "rank": 18
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Medical Terminology",
+    "rank": 19
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Medical Coding",
+    "rank": 20
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Face Yoga",
+    "rank": 21
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Sports Massage",
+    "rank": 22
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Kinesiology Taping",
+    "rank": 23
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Stone Massage",
+    "rank": 24
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Other Health & Fitness",
+    "nested_category": "Abdominal Massage",
+    "rank": 25
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Fitness",
+    "rank": 1
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Martial Arts",
+    "rank": 2
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Video Production",
+    "rank": 3
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Self-Defense",
+    "rank": 4
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Wing Chun",
+    "rank": 5
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Boxing",
+    "rank": 6
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Karate",
+    "rank": 7
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Brazilian Jiu-Jitsu",
+    "rank": 8
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Krav Maga",
+    "rank": 9
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Kung Fu",
+    "rank": 10
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Muay Thai",
+    "rank": 11
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Taekwondo",
+    "rank": 12
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Close Combat",
+    "rank": 13
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Kickboxing",
+    "rank": 14
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Sword",
+    "rank": 15
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Jeet Kune Do",
+    "rank": 16
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Taijutsu",
+    "rank": 17
+  },
+  {
+    "main_category": "Health & Fitness",
+    "subcategory": "Martial Arts & Self Defense",
+    "nested_category": "Tai Chi",
+    "rank": 18
   },
   {
     "main_category": "Music",
@@ -4429,6 +5563,60 @@
   },
   {
     "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Flute",
+    "rank": 10
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Blues Guitar",
+    "rank": 11
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Rock Guitar",
+    "rank": 12
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Classical Guitar",
+    "rank": 13
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Fingerstyle Guitar",
+    "rank": 14
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Accordion",
+    "rank": 15
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Saxophone",
+    "rank": 16
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Cello",
+    "rank": 17
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Instruments",
+    "nested_category": "Blues Piano",
+    "rank": 18
+  },
+  {
+    "main_category": "Music",
     "subcategory": "Music Production",
     "nested_category": "Music Production",
     "rank": 1
@@ -4480,6 +5668,30 @@
     "subcategory": "Music Production",
     "nested_category": "Music Mastering",
     "rank": 9
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Production",
+    "nested_category": "Beat",
+    "rank": 10
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Production",
+    "nested_category": "Audio Engineering",
+    "rank": 11
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Production",
+    "nested_category": "Logic Pro",
+    "rank": 12
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Production",
+    "nested_category": "Game Music",
+    "rank": 13
   },
   {
     "main_category": "Music",
@@ -4537,6 +5749,42 @@
   },
   {
     "main_category": "Music",
+    "subcategory": "Music Fundamentals",
+    "nested_category": "Piano",
+    "rank": 10
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Fundamentals",
+    "nested_category": "Jazz",
+    "rank": 11
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Fundamentals",
+    "nested_category": "Electronic Music",
+    "rank": 12
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Fundamentals",
+    "nested_category": "Classical Music",
+    "rank": 13
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Fundamentals",
+    "nested_category": "ABRSM",
+    "rank": 14
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Fundamentals",
+    "nested_category": "Music History",
+    "rank": 15
+  },
+  {
+    "main_category": "Music",
     "subcategory": "Vocal",
     "nested_category": "Singing",
     "rank": 1
@@ -4588,6 +5836,66 @@
     "subcategory": "Vocal",
     "nested_category": "Speech",
     "rank": 9
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Breathing Techniques",
+    "rank": 10
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Mindset",
+    "rank": 11
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Quran",
+    "rank": 12
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Percussion Instruction",
+    "rank": 13
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Voice-Over",
+    "rank": 14
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Carnatic Music",
+    "rank": 15
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Raga Music",
+    "rank": 16
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Dragon NaturallySpeaking",
+    "rank": 17
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Acoustic Guitar",
+    "rank": 18
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Vocal",
+    "nested_category": "Music Improvisation",
+    "rank": 19
   },
   {
     "main_category": "Music",
@@ -4645,6 +5953,66 @@
   },
   {
     "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Dj",
+    "rank": 10
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Guitar",
+    "rank": 11
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Reading Music",
+    "rank": 12
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Music Composition",
+    "rank": 13
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Piano",
+    "rank": 14
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Acoustic Guitar",
+    "rank": 15
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Music Theory",
+    "rank": 16
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Country Guitar",
+    "rank": 17
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Music Improvisation",
+    "rank": 18
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Techniques",
+    "nested_category": "Sound Therapy",
+    "rank": 19
+  },
+  {
+    "main_category": "Music",
     "subcategory": "Other Music",
     "nested_category": "DJ",
     "rank": 1
@@ -4696,6 +6064,78 @@
     "subcategory": "Other Music",
     "nested_category": "Music Therapy",
     "rank": 9
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Other Music",
+    "nested_category": "Acoustics",
+    "rank": 10
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Other Music",
+    "nested_category": "Lyric Writing",
+    "rank": 11
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Other Music",
+    "nested_category": "Djembe",
+    "rank": 12
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Other Music",
+    "nested_category": "Luthiery",
+    "rank": 13
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Software",
+    "nested_category": "Logic Pro",
+    "rank": 1
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Software",
+    "nested_category": "FL Studio",
+    "rank": 2
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Software",
+    "nested_category": "Ableton Live",
+    "rank": 3
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Software",
+    "nested_category": "Music Production",
+    "rank": 4
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Software",
+    "nested_category": "Dj",
+    "rank": 5
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Software",
+    "nested_category": "GarageBand",
+    "rank": 6
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Software",
+    "nested_category": "Reaper",
+    "rank": 7
+  },
+  {
+    "main_category": "Music",
+    "subcategory": "Music Software",
+    "nested_category": "Music Mixing",
+    "rank": 8
   },
   {
     "main_category": "Teaching & Academics",
@@ -4753,6 +6193,72 @@
   },
   {
     "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Electricity",
+    "rank": 10
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Construction",
+    "rank": 11
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Robotics",
+    "rank": 12
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Automotive Engineering",
+    "rank": 13
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Electrical Circuits",
+    "rank": 14
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Aerospace Engineering",
+    "rank": 15
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Power Engineering",
+    "rank": 16
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Computational Fluid Dynamics (CFD)",
+    "rank": 17
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Electrical Design",
+    "rank": 18
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "Data Center Design",
+    "rank": 19
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Engineering",
+    "nested_category": "HVAC",
+    "rank": 20
+  },
+  {
+    "main_category": "Teaching & Academics",
     "subcategory": "Humanities",
     "nested_category": "Psychology",
     "rank": 1
@@ -4804,6 +6310,42 @@
     "subcategory": "Humanities",
     "nested_category": "World History",
     "rank": 9
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Humanities",
+    "nested_category": "Writing",
+    "rank": 10
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Humanities",
+    "nested_category": "History",
+    "rank": 11
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Humanities",
+    "nested_category": "Christianity",
+    "rank": 12
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Humanities",
+    "nested_category": "Statistics",
+    "rank": 13
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Humanities",
+    "nested_category": "The Bible",
+    "rank": 14
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Humanities",
+    "nested_category": "Autism",
+    "rank": 15
   },
   {
     "main_category": "Teaching & Academics",
@@ -4861,6 +6403,24 @@
   },
   {
     "main_category": "Teaching & Academics",
+    "subcategory": "Math",
+    "nested_category": "Math",
+    "rank": 10
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Math",
+    "nested_category": "Differential Equations",
+    "rank": 11
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Math",
+    "nested_category": "Large Language Models (LLM)",
+    "rank": 12
+  },
+  {
+    "main_category": "Teaching & Academics",
     "subcategory": "Science",
     "nested_category": "Physics",
     "rank": 1
@@ -4912,6 +6472,48 @@
     "subcategory": "Science",
     "nested_category": "Neuroscience",
     "rank": 9
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Science",
+    "nested_category": "Pharmacology",
+    "rank": 10
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Science",
+    "nested_category": "Quantum Mechanics",
+    "rank": 11
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Science",
+    "nested_category": "Clinical Research",
+    "rank": 12
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Science",
+    "nested_category": "Medical Coding",
+    "rank": 13
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Science",
+    "nested_category": "Pharmaceutical",
+    "rank": 14
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Science",
+    "nested_category": "Certified Professional Coder",
+    "rank": 15
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Science",
+    "nested_category": "Pharmacovigilance",
+    "rank": 16
   },
   {
     "main_category": "Teaching & Academics",
@@ -4969,6 +6571,48 @@
   },
   {
     "main_category": "Teaching & Academics",
+    "subcategory": "Social Science",
+    "nested_category": "Economics",
+    "rank": 10
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Social Science",
+    "nested_category": "Geography",
+    "rank": 11
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Social Science",
+    "nested_category": "Criminology",
+    "rank": 12
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Social Science",
+    "nested_category": "Cultural Awareness",
+    "rank": 13
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Social Science",
+    "nested_category": "Intelligence Analysis",
+    "rank": 14
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Social Science",
+    "nested_category": "Macroeconomics",
+    "rank": 15
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Social Science",
+    "nested_category": "Psychotherapy",
+    "rank": 16
+  },
+  {
+    "main_category": "Teaching & Academics",
     "subcategory": "Language Learning",
     "nested_category": "English Language",
     "rank": 1
@@ -5020,6 +6664,54 @@
     "subcategory": "Language Learning",
     "nested_category": "Arabic Language",
     "rank": 9
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "English Grammar",
+    "rank": 10
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "English Conversation",
+    "rank": 11
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "IELTS",
+    "rank": 12
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "Russian Language",
+    "rank": 13
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "Portuguese Language",
+    "rank": 14
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "Sign Language",
+    "rank": 15
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "TOEFL",
+    "rank": 16
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Language Learning",
+    "nested_category": "Mandarin Chinese Language",
+    "rank": 17
   },
   {
     "main_category": "Teaching & Academics",
@@ -5077,6 +6769,36 @@
   },
   {
     "main_category": "Teaching & Academics",
+    "subcategory": "Teacher Training",
+    "nested_category": "ESL",
+    "rank": 10
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Teacher Training",
+    "nested_category": "Montessori",
+    "rank": 11
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Teacher Training",
+    "nested_category": "Workplace Health & Safety",
+    "rank": 12
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Teacher Training",
+    "nested_category": "Autism",
+    "rank": 13
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Teacher Training",
+    "nested_category": "Teaching English",
+    "rank": 14
+  },
+  {
+    "main_category": "Teaching & Academics",
     "subcategory": "Test Prep",
     "nested_category": "IELTS",
     "rank": 1
@@ -5128,6 +6850,48 @@
     "subcategory": "Test Prep",
     "nested_category": "GMAT",
     "rank": 9
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Test Prep",
+    "nested_category": "PMP",
+    "rank": 10
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Test Prep",
+    "nested_category": "SAT",
+    "rank": 11
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Test Prep",
+    "nested_category": "Test Taking Skills",
+    "rank": 12
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Test Prep",
+    "nested_category": "CELPIP",
+    "rank": 13
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Test Prep",
+    "nested_category": "PMI PMBOK",
+    "rank": 14
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Test Prep",
+    "nested_category": "CCAT",
+    "rank": 15
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Test Prep",
+    "nested_category": "Statistics",
+    "rank": 16
   },
   {
     "main_category": "Teaching & Academics",
@@ -5185,6 +6949,12 @@
   },
   {
     "main_category": "Teaching & Academics",
+    "subcategory": "Online Education",
+    "nested_category": "Online Business",
+    "rank": 10
+  },
+  {
+    "main_category": "Teaching & Academics",
     "subcategory": "Other Teaching & Academics",
     "nested_category": "Proofreading",
     "rank": 1
@@ -5236,6 +7006,72 @@
     "subcategory": "Other Teaching & Academics",
     "nested_category": "Piano",
     "rank": 9
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Career Development",
+    "rank": 10
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Study Skills",
+    "rank": 11
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Research Methods",
+    "rank": 12
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Memory",
+    "rank": 13
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Speed Reading",
+    "rank": 14
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Mind Mapping",
+    "rank": 15
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Medical Billing",
+    "rank": 16
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Astrology",
+    "rank": 17
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Construction Estimation",
+    "rank": 18
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Healthcare",
+    "rank": 19
+  },
+  {
+    "main_category": "Teaching & Academics",
+    "subcategory": "Other Teaching & Academics",
+    "nested_category": "Good Manufacturing Practice (GMP)",
+    "rank": 20
   },
   {
     "main_category": "Business",
